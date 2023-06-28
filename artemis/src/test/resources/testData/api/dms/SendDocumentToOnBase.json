@@ -1,0 +1,40 @@
+{
+  "type": "PROCESSEDDOCUMENT",
+  "document": {
+    "properties": {
+      "createdBy": "QeTesting",
+      "dateStored": "2021-03-22T22:12:35.396000+00:00",
+      "documentDate": "2021-03-22",
+      "documentHandle": null,
+      "documentName": "maersk Case + Consumer - 03/22/2021",
+      "documentStatus": "Active",
+      "documentType": "maersk Case + Consumer",
+      "documentTypeID": 103,
+      "documentTypeName": "maersk Case + Consumer",
+      "pageCount": 1
+    },
+    "keywordFields": [
+      {
+        "keywordTypeName": "Language",
+        "value": "Tagalog"
+      },
+      {
+        "keywordTypeName": "Channel",
+        "value": "Mail"
+      },
+      {
+        "keywordTypeName": "Status",
+        "value": "COMPLETE"
+      },
+      {
+        "keywordTypeName": "ScannedOn",
+        "value": "2021-03-22T22:12:35.396000+00:00"
+      },
+      {
+        "keywordTypeName": "StatusSetOn",
+        "value": "2021-03-22T22:12:35.396000+00:00"
+      }
+    ],
+    "keywordRecords": []
+  }
+}

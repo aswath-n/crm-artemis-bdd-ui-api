@@ -1,0 +1,17 @@
+{
+  "correlationId": null,
+  "uiid": null,
+  "externalLinkPayload": {
+    "externalLinkId": null,
+    "internalId": null,
+    "externalId": null,
+    "internalRefType": "APPLICATION",
+    "externalRefType": "MISSING_INFO",
+    "effectiveStartDate": null,
+    "effectiveEndDate": null,
+    "createdOn": null,
+    "createdBy": "1066",
+    "updatedOn": null,
+    "updatedBy": "1066"
+  }
+}

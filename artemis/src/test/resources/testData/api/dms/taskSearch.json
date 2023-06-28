@@ -1,0 +1,26 @@
+{
+  "taskId": null,
+  "taskTypeId": [
+
+  ],
+  "taskStatus": [],
+  "statusDate": null,
+  "defaultPriority": [],
+  "defaultDueDate": null,
+  "escalatedFlag": null,
+  "caseId": null,
+  "consumerId": null,
+  "consumerFirstName": null,
+  "consumerLastName": null,
+  "source": [],
+  "createdOn": null,
+  "createdBy": null,
+  "staffAssignedTo": null,
+  "orderBy": "taskId",
+  "sortBy": "desc",
+  "createdDateSearch": null,
+  "statusDateSearch": null,
+  "dueDateSearch": null,
+  "caseIdentificationNumber": {},
+  "consumerIdentificationNumber": {}
+}

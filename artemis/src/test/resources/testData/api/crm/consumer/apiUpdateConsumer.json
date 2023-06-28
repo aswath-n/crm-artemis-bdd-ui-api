@@ -1,0 +1,55 @@
+{
+  "uiid": "433522430656",
+  "aiNa": "",
+  "caseId": null,
+  "consumerDateOfBirth": "",
+  "consumerFirstName": "",
+  "consumerIdentificationNumber": [
+    {
+      "externalConsumerId": "",
+      "identificationNumberType": null
+    }
+  ],
+  "consumerLastName": "",
+  "consumerMiddleName": "B",
+  "consumerSSN": "",
+  "consumerStatus": "Active",
+  "consumerSuffix": "Dummy",
+  "consumerType": "Consumer",
+  "correlationId": "1582112467679427",
+  "consumerId": 38977,
+  "createdBy": "1582",
+  "createdOn": "2020-02-20T04:48:34.000Z",
+  "dateOfDeath": null,
+  "dateOfDeathNotifiedBy": null,
+  "dateOfDeathNotifiedDate": null,
+  "dateOfSsnValidation": null,
+  "ethnicityCode": "Dummy",
+  "genderCode": "Male",
+  "mergeReason": "",
+  "mergedConsumerId": 0,
+  "notBornInd": true,
+  "raceCode": "Dummy",
+  "ssnValidationAgency": "",
+  "ssnValidationCode": "",
+  "updatedBy": 1582,
+  "updatedOn": "2020-02-20T04:51:29.171Z",
+  "usResidentStatusCode": "Dummy",
+  "communicationPreferences": [
+    {
+      "valuePairIdCommPref": null,
+      "effectiveStartDate": "2020-02-20T04:51:29.171Z",
+      "effectiveEndDate": null,
+      "updatedOn": "2020-02-20T04:51:29.171Z",
+      "updatedBy": 1582,
+      "preferenceId": 18688,
+      "consumerId": 38977,
+      "createdBy": "1582",
+      "createdOn": "2020-02-20T04:48:34.000Z"
+    }
+  ],
+  "consumerConsent": [],
+  "effectiveEndDate": null,
+  "preferredLanguage": "English",
+  "effectiveStartDate": "2020-02-20T04:48:34.000Z"
+}

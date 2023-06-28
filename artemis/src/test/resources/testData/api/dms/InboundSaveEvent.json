@@ -1,0 +1,57 @@
+{
+  "type": "INBOUND_CORRESPONDENCE_SAVE_EVENT",
+  "document": {
+    "historyEvents": [
+      {
+        "Action": "InboundCorrespondence-Save",
+        "LogDate": "2020-02-25T15:41:08.797Z",
+        "Message": "Inbound correspondence saved",
+        "UserName": "system"
+      }
+    ],
+    "keywordFields": [
+
+
+      {
+        "keywordTypeName": "Channel",
+        "value": "Mail"
+      },
+      {
+        "keywordTypeName": "NotificationID",
+        "value": "1099"
+      },
+      {
+        "keywordTypeName": "From Name",
+        "value": "InboundSource"
+      },
+      {
+        "keywordTypeName": "StatusSetOn",
+        "value": "04/10/1990"
+      },
+      {
+        "keywordTypeName": "FromEmail",
+        "value": "Jamesmlacson@maersk.com"
+      },
+      {
+        "keywordTypeName": "Returned Mail Reason",
+        "value": "invalid address"
+      },
+      {
+        "keywordTypeName": "ProcessType",
+        "value": "RECEIVED"
+      }
+    ],
+    "properties": {
+      "createdBy": "John",
+      "dateStored": "2019-05-20T02:52:11+00:00",
+      "documentDate": "2019-05-21T02:52:11+00:00",
+      "documentHandle": "12150",
+      "documentStatus": "Received",
+      "documentType": "maersk Case + Consumer",
+      "pageCount": 1
+    },
+    "keywordRecords": [
+
+    ]
+  }
+}

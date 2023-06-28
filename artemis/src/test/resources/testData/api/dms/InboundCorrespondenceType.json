@@ -1,0 +1,14 @@
+{
+  "barcode": 9879,
+  "createdBy": "Automation",
+  "description": "Automation",
+  "inboundCorrespondenceDefinitionId": 38,
+  "inboundCorrespondenceTaskRule": [
+
+  ],
+  "name": "maersk Case + Consumer",
+  "projectId": 6203,
+  "projectName": "BLCRM",
+  "updatedBy": "Automation",
+  "updatedOn": "2020-02-14T13:39:55.145Z"
+}

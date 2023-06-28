@@ -1,0 +1,6 @@
+"inin-outbound-id","UniqueID","PhoneNumber","Name","ContactCallable","ZipCodeAutomaticTimeZone","CallRecordLastAttempt-PhoneNumber","CallRecordLastResult-PhoneNumber","CallRecordLastAgentWrapup-PhoneNumber","SmsLastAttempt-PhoneNumber","SmsLastResult-PhoneNumber","Callable-PhoneNumber","AutomaticTimeZone-PhoneNumber"
+"4b733b91bc9c8714486087a99005ba3d","118353912247","7015385898","Russel Noel","1","","2022-01-24T20:47:07.372Z","ININ-OUTBOUND-CONTACT-ATTEMPT-LIMIT-SKIPPED","Voicemail","","","1",""
+"4bec73bee436303009e089405137868b","827231260737","5834336954","Kristie Nelson","0","","2022-01-24T20:22:14.779Z","Live Caller was Reached","Invalid Phone Number","","","1",""
+"c37cc1aaa664e4d91345cf218e15aefd","509311283364","6754342767","Cheyanne Bobbie","0","","2022-01-24T20:22:14.779Z","NA","No Answer","","","1",""
+"c37cc1aaa664e4d91345cf218e15aefd","497152199255","6164667363","Joni Celestino","0","","2022-01-24T18:53:10.779Z","INVALID","Do Not Call","","","1",""
+"4bec73bee436303009e089405137868b","731794957704","6403998382","Warren Trent","0","","2022-01-24T20:22:14.779Z","Live Caller was Reached","Live Caller was Reached","","","1",""

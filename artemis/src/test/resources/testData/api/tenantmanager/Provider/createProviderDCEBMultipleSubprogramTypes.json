@@ -1,0 +1,299 @@
+{
+  "uiid": "766868787",
+  "correlationId": "aeb66737d37cac958fe772e12c5c16dd",
+  "providers": [
+    {
+      "planCode": "044733300",
+      "planName": "MEDSTAR FAMILY CHOICE",
+      "acceptNewPatientsInd": "true",
+      "mcoId": "1234567",
+      "programTypeCd": "Medicaid",
+      "effectiveStartDate": null,
+      "effectiveEndDate": null,
+      "npi": "3188872513",
+      "stateProviderId": "499148980C",
+      "pcpFlag": "Y",
+      "genderCd": null,
+      "sexLimitsCd": "A",
+      "ageLowLimit": 13,
+      "ageHighLimit": 999,
+      "classificationCd": null,
+      "groupFlag": "231632790A",
+      "groupId": "231632790A",
+      "allWomanInd": false,
+      "groupName": "THERAN MEDICAL GROUP LLC",
+      "firstName": "Priyal",
+      "lastName": "Garg",
+      "nameSuffix": null,
+      "titleName": null,
+      "ssn": "382574943",
+      "fein": null,
+      "emailAddress": null,
+      "middleName": "A",
+      "acceptObInd": null,
+      "handicappedAccesibleInd": false,
+      "reasonForChange": "01",
+      "createdOn": "2021-12-17T09:24:19.000Z",
+      "createdBy": "2964",
+      "updatedOn": null,
+      "updatedBy": null,
+      "providerType": [
+        {
+          "providerTypeCd": "D",
+          "createdOn": "2021-12-17T09:24:19.000Z",
+          "createdBy": "2964",
+          "updatedOn": "2021-12-17T09:24:19.000Z",
+          "updatedBy": "2964"
+        }
+      ],
+      "providerHospitalAffilation": [
+        {
+          "hospitalName": "Columbia Hospital",
+          "effectiveStartDate": "2022-01-01T09:24:19.000Z",
+          "effectiveEndDate": null,
+          "createdOn": "2022-01-01T09:24:19.000Z",
+          "createdBy": "2964",
+          "updatedOn": "2022-01-01T09:24:19.000Z",
+          "updatedBy": "2964"
+        }
+      ],
+      "providerOfficeHours": [
+        {
+          "dayOfWeek": "1",
+          "openFrom": "03:30:00",
+          "closeAt": "11:30:00",
+          "createdOn": "2022-01-01T09:24:19.000Z",
+          "createdBy": "242",
+          "updatedOn": "2022-01-01T09:24:19.000Z",
+          "updatedBy": "242"
+        },
+        {
+          "dayOfWeek": "2",
+          "openFrom": "03:30:00",
+          "closeAt": "11:30:00",
+          "createdOn": "2022-01-01T09:24:19.000Z",
+          "createdBy": "242",
+          "updatedOn": "2022-01-01T09:24:19.000Z",
+          "updatedBy": "242"
+        },
+        {
+          "dayOfWeek": "3",
+          "openFrom": "03:30:00",
+          "closeAt": "11:30:00",
+          "createdOn": "2022-01-01T09:24:19.000Z",
+          "createdBy": "242",
+          "updatedOn": "2022-01-01T09:24:19.000Z",
+          "updatedBy": "242"
+        },
+        {
+          "dayOfWeek": "4",
+          "openFrom": "03:30:00",
+          "closeAt": "11:30:00",
+          "createdOn": "2022-01-01T09:24:19.000Z",
+          "createdBy": "242",
+          "updatedOn": "2022-01-01T09:24:19.000Z",
+          "updatedBy": "242"
+        },
+        {
+          "dayOfWeek": "5",
+          "openFrom": "03:30:00",
+          "closeAt": "11:30:00",
+          "createdOn": "2022-01-01T09:24:19.000Z",
+          "createdBy": "242",
+          "updatedOn": "2022-01-01T09:24:19.000Z",
+          "updatedBy": "242"
+        },
+        {
+          "dayOfWeek": "6",
+          "openFrom": "06:30:00",
+          "closeAt": "12:30:00",
+          "createdOn": "2022-01-01T09:24:19.000Z",
+          "createdBy": "242",
+          "updatedOn": "2022-01-01T09:24:19.000Z",
+          "updatedBy": "242"
+        },
+        {
+          "dayOfWeek": "7",
+          "openFrom": "06:30:00",
+          "closeAt": "12:30:00",
+          "createdOn": "2022-01-01T09:24:19.000Z",
+          "createdBy": "242",
+          "updatedOn": "2022-01-01T09:24:19.000Z",
+          "updatedBy": "242"
+        }
+      ],
+      "providerPanelLimit": [
+        {
+          "panelSize": 150,
+          "enrolledCount": 76,
+          "panelStatus": 1,
+          "holdCd": null,
+          "panelTypeCd": null,
+          "createdOn": "2022-01-01T09:24:19.000Z",
+          "createdBy": "242",
+          "updatedOn": "2022-01-01T09:24:19.000Z",
+          "updatedBy": "242"
+        }
+      ],
+      "providerAddress": [
+        {
+          "addressType": "PHYSICAL",
+          "addressLine1": "3240 Stanton Rd SE",
+          "addressLine2": "  ",
+          "city": "Washington",
+          "state": "DC",
+          "zipCode": "20020",
+          "zipCode4": null,
+          "countyCd": "04",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2023-02-01T02:50:18.000Z",
+          "createdBy": "2964",
+          "updatedOn": "2023-02-01T02:50:18.000Z",
+          "updatedBy": "2964",
+          "phoneNumbers": [
+            {
+              "phoneNumber": "8142323225",
+              "faxNumber": null,
+              "phoneType": null,
+              "effectiveStartDate": null,
+              "effectiveEndDate": null,
+              "createdOn": "2023-02-01T02:50:18.000Z",
+              "createdBy": "2964",
+              "updatedOn": "2023-02-01T02:50:18.000Z",
+              "updatedBy": "2964"
+            }
+          ]
+        },
+        {
+          "addressType": "PHYSICAL",
+          "addressLine1": "1525 14th St NW",
+          "addressLine2": "  ",
+          "city": "Washington",
+          "state": "DC",
+          "zipCode": "20009",
+          "zipCode4": null,
+          "countyCd": "01",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2023-02-01T02:50:18.000Z",
+          "createdBy": "2964",
+          "updatedOn": "2023-02-01T02:50:18.000Z",
+          "updatedBy": "2964",
+          "phoneNumbers": [
+            {
+              "phoneNumber": "8142323225",
+              "faxNumber": null,
+              "phoneType": null,
+              "effectiveStartDate": null,
+              "effectiveEndDate": null,
+              "createdOn": "2023-02-01T02:50:18.000Z",
+              "createdBy": "2964",
+              "updatedOn": "2023-02-01T02:50:18.000Z",
+              "updatedBy": "2964"
+            }
+          ]
+        },
+        {
+          "addressType": "PHYSICAL",
+          "addressLine1": "111 Michigan Ave NW",
+          "addressLine2": "  ",
+          "city": "Washington",
+          "state": "DC",
+          "zipCode": "20010",
+          "zipCode4": null,
+          "countyCd": "01",
+          "effectiveStartDate": "2023-02-01T02:50:18.000Z",
+          "effectiveEndDate": "2023-04-10",
+          "createdOn": "2023-02-01T02:50:18.000Z",
+          "createdBy": "2964",
+          "updatedOn": "2023-02-01T02:50:18.000Z",
+          "updatedBy": "2964",
+          "phoneNumbers": [
+            {
+              "phoneNumber": "1234567890",
+              "faxNumber": null,
+              "phoneType": null,
+              "effectiveStartDate": null,
+              "effectiveEndDate": null,
+              "createdOn": "2023-02-01T02:50:18.000Z",
+              "createdBy": "2964",
+              "updatedOn": "2023-02-01T02:50:18.000Z",
+              "updatedBy": "2964"
+            }
+          ]
+        }
+      ],
+      "providerLanguages": [
+        {
+          "languageTypeCd": "ENG",
+          "providerSpeaksInd": true,
+          "effectiveStartDate": null,
+          "effectiveEndDate": "2023-10-01",
+          "createdOn": "2023-02-01T02:50:18.000Z",
+          "createdBy": "2964",
+          "updatedOn": "2023-02-01T02:50:18.000Z",
+          "updatedBy": "2964"
+        },
+        {
+          "languageTypeCd": "BAK",
+          "providerSpeaksInd": true,
+          "effectiveStartDate": null,
+          "effectiveEndDate": "2023-10-01",
+          "createdOn": "2023-02-01T02:50:18.000Z",
+          "createdBy": "2964",
+          "updatedOn": "2023-02-01T02:50:18.000Z",
+          "updatedBy": "2964"
+        },
+        {
+          "languageTypeCd": "ACH",
+          "providerSpeaksInd": false,
+          "effectiveStartDate": null,
+          "effectiveEndDate": "2023-10-01",
+          "createdOn": "2023-02-01T02:50:18.000Z",
+          "createdBy": "2964",
+          "updatedOn": "2023-02-01T02:50:18.000Z",
+          "updatedBy": "2964"
+        }
+      ],
+      "providerSpeciality": [
+        {
+          "specialityCd": "05A",
+          "primarySpecialityInd": false,
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2023-02-01T02:50:18.000Z",
+          "createdBy": "2964",
+          "updatedOn": "2023-02-01T02:50:18.000Z",
+          "updatedBy": "2964"
+        },
+        {
+          "specialityCd": "030",
+          "primarySpecialityInd": false,
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2023-02-01T02:50:18.000Z",
+          "createdBy": "2964",
+          "updatedOn": "2023-02-01T02:50:18.000Z",
+          "updatedBy": "2964"
+        }
+      ],
+      "providerSubprogramType": [
+        {
+          "subprogramTypeCd": "Alliance",
+          "createdOn": null,
+          "createdBy": "3993",
+          "updatedOn": null,
+          "updatedBy": "3993"
+        },
+        {
+          "subprogramTypeCd": "Immigrant Children",
+          "createdOn": null,
+          "createdBy": "3993",
+          "updatedOn": null,
+          "updatedBy": "3993"
+        }
+      ]
+    }
+  ]
+}

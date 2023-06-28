@@ -1,0 +1,25 @@
+{
+  "address": {
+    "addrAttn": "",
+    "addressCity": "Q8ZqoADFob",
+    "addressCounty": "GMobWwkcAJ",
+    "addressId": "",
+    "addressState": "Kentucky",
+    "addressStreet1": "2763 Test Ave.",
+    "addressStreet2": "APT0350",
+    "addressType": "Mailing",
+    "addressZip": "50767",
+    "addressZipFour": "6178",
+    "addrHouseCode": "null",
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2020-02-21T22:10:16.559Z",
+    "geoCodeAttributes": null,
+    "inactivationReason": null,
+    "updatedBy": null,
+    "updatedOn": "2020-02-21T22:10:16.559Z"
+  },
+  "correlationId": "1492188673673",
+  "externalRefId": "54",
+  "externalRefType": "consumer",
+  "uiid": "710521579256"
+}

@@ -1,0 +1,127 @@
+{
+  "uiid": "327434704643",
+  "aiNa": null,
+  "caseId": null,
+  "consumerDateOfBirth": "1993-01-01",
+  "consumerFirstName": "Galwayse",
+  "consumerLastName": "Khaya",
+  "consumerMiddleName": null,
+  "consumerSSN": "211234000",
+  "consumerStatus": null,
+  "consumerSuffix": null,
+  "consumerType": "Consumer",
+  "correlationId": "327433605150",
+  "createdBy": "3274",
+  "createdOn": "2021-02-02T20:41:00.915Z",
+  "dateOfDeath": null,
+  "dateOfDeathNotifiedBy": null,
+  "dateOfDeathNotifiedDate": null,
+  "dateOfSsnValidation": null,
+  "ethnicityCode": null,
+  "genderCode": null,
+  "mergeReason": null,
+  "mergedConsumerId": null,
+  "notBornInd": null,
+  "raceCode": null,
+  "ssnValidationAgency": null,
+  "ssnValidationCode": null,
+  "updatedBy": null,
+  "updatedOn": null,
+  "usResidentStatusCode": null,
+  "allowMatchingConsumerCreation":false,
+  "communicationPreferences": [
+    {
+      "createdBy": 3274,
+      "createdOn": "2021-02-02T20:40:13.886Z",
+      "updatedBy": 3274,
+      "updatedOn": "2021-02-02T20:40:13.886Z",
+      "effectiveEndDate": null,
+      "effectiveStartDate": "2021-02-02T20:40:13.886Z",
+      "valuePairIdCommPref": "WRITTEN_LANGUAGE_ENGLISH",
+      "defaultInd": true,
+      "communicationPreferencesId": null
+    },
+    {
+      "createdBy": 3274,
+      "createdOn": "2021-02-02T20:40:13.886Z",
+      "updatedBy": 3274,
+      "updatedOn": "2021-02-02T20:40:13.886Z",
+      "effectiveEndDate": null,
+      "effectiveStartDate": "2021-02-02T20:40:13.886Z",
+      "valuePairIdCommPref": "SPOKEN_LANGUAGE_ENGLISH",
+      "defaultInd": true,
+      "communicationPreferencesId": null
+    }
+  ],
+  "consumerConsent": [
+    {
+      "consumerId": null,
+      "howConsentProvided": "Phone",
+      "consentType": "Email",
+      "optIn": false,
+      "createdBy": "3274",
+      "createdOn": "2021-02-02T20:40:14.608Z",
+      "updatedBy": null,
+      "updatedOn": null,
+      "effectiveEndDate": null,
+      "effectiveStartDate": "2021-02-02T20:40:14.608Z"
+    },
+    {
+      "consumerId": null,
+      "howConsentProvided": "Phone",
+      "consentType": "Fax",
+      "optIn": false,
+      "createdBy": "3274",
+      "createdOn": "2021-02-02T20:40:14.612Z",
+      "updatedBy": null,
+      "updatedOn": null,
+      "effectiveEndDate": null,
+      "effectiveStartDate": "2021-02-02T20:40:14.612Z"
+    },
+    {
+      "consumerId": null,
+      "howConsentProvided": "Phone",
+      "consentType": "Mail",
+      "optIn": true,
+      "createdBy": "3274",
+      "createdOn": "2021-02-02T20:40:14.612Z",
+      "updatedBy": null,
+      "updatedOn": null,
+      "effectiveEndDate": null,
+      "effectiveStartDate": "2021-02-02T20:40:14.612Z"
+    },
+    {
+      "consumerId": null,
+      "howConsentProvided": "Phone",
+      "consentType": "Phone",
+      "optIn": true,
+      "createdBy": "3274",
+      "createdOn": "2021-02-02T20:40:14.612Z",
+      "updatedBy": null,
+      "updatedOn": null,
+      "effectiveEndDate": null,
+      "effectiveStartDate": "2021-02-02T20:40:14.613Z"
+    },
+    {
+      "consumerId": null,
+      "howConsentProvided": "Phone",
+      "consentType": "Text",
+      "optIn": false,
+      "createdBy": "3274",
+      "createdOn": "2021-02-02T20:40:14.613Z",
+      "updatedBy": null,
+      "updatedOn": null,
+      "effectiveEndDate": null,
+      "effectiveStartDate": "2021-02-02T20:40:14.613Z"
+    }
+  ],
+  "effectiveEndDate": null,
+  "contacts": {},
+  "effectiveStartDate": "2021-02-02T20:41:00.915Z",
+  "consumerIdentificationNumber": [
+    {
+      "identificationNumberType": "CHIP",
+      "externalConsumerId": "442231400"
+    }
+  ]
+}

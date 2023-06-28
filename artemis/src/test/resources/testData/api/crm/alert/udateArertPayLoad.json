@@ -1,0 +1,15 @@
+{
+  "alerts": [
+    {
+      "alertId":"null",
+      "alertText": null,
+      "effectiveStartDate": null,
+      "type": null,
+      "effectiveEndDate": null,
+      "consumerId": null,
+      "consumerIdType": null,
+      "caseId": null,
+      "caseIdType": null
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "applicationConsumers": [
+    {
+      "applicationConsumerId": 1234,
+      "actionType": "CREATE_NEW",
+      "matchedConsumerId": null,
+      "inactivateOnCase": []
+    }
+  ],
+  "caseId": "1234",
+  "auditInfo":{
+    "createdBy": "2492",
+    "updatedBy": "3155"
+  }
+}

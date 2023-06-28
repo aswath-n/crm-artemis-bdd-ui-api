@@ -1,0 +1,57 @@
+{
+  "anchor": {
+    "regardingConsumerId": [
+
+    ]
+  },
+  "correspondenceDefinitionMMSCode": "000001",
+  "id": "",
+  "language": "English",
+  "recipients": [
+    {
+      "notifications": [
+        {
+          "channelType": "Email",
+          "channelDefinitionId": 376,
+          "language": "English",
+          "returnedDate": null,
+          "template": null,
+          "version": null,
+          "createdBy": 2132,
+          "createdDatetime": "2020-04-08T13:47:21.057Z"
+        }
+      ],
+      "recipientInfo": {
+        "firstName": "Many",
+        "lastName": "Correspondence",
+        "role": "Primary Individual",
+        "emailAddress": "test@test.com",
+        "faxNumber": "3453523443",
+        "textNumber": "3453523443"
+      }
+    }
+  ],
+  "requester": {
+    "requesterId": "2425",
+    "requesterType": "ConnectionPoint"
+  },
+  "status": "",
+  "createdBy": 2425,
+  "statusMessage": "",
+  "bodyData": {
+    "effectiveDate": "2021-11-01",
+    "premium":
+    {
+      "amountDue": 20.56,
+      "premiumOwed": true
+    },
+    "persons": [{
+      "firstName1": "JAMES",
+      "lastName1": "MADISON"
+    },{
+      "firstName2": "RICKY",
+      "lastName2": "POINT"
+    }],
+    "explanation": "This is a paragraph blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah "
+  }
+}

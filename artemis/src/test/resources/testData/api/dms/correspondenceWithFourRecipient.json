@@ -1,0 +1,76 @@
+{
+  "anchor": {
+    "caseId": 7348,
+    "regardingConsumerId": ["17501"]
+  },
+  "correspondenceDefinitionMMSCode": "000001",
+  "id": "",
+  "language": "English",
+  "recipients": [
+    {
+      "notifications": [
+        {
+          "channelType": "Mail",
+          "channelDefinitionId": 377,
+          "language": "English",
+          "returnedDate": null,
+          "template": null,
+          "version": null,
+          "createdBy": 2492,
+          "createdDatetime": "2020-07-29T16:46:18.970Z"
+        },
+        {
+          "channelType": "Email",
+          "channelDefinitionId": 376,
+          "language": "English",
+          "returnedDate": null,
+          "template": null,
+          "version": null,
+          "createdBy": 2492,
+          "createdDatetime": "2020-07-29T16:46:18.971Z"
+        },
+        {
+          "channelType": "Text",
+          "channelDefinitionId": 378,
+          "language": "English",
+          "returnedDate": null,
+          "template": null,
+          "version": null,
+          "createdBy": 2492,
+          "createdDatetime": "2020-07-29T16:46:18.971Z"
+        },
+        {
+          "channelType": "Fax",
+          "channelDefinitionId": 379,
+          "language": "English",
+          "returnedDate": null,
+          "template": null,
+          "version": null,
+          "createdBy": 2492,
+          "createdDatetime": "2020-07-29T16:46:18.971Z"
+        }
+      ],
+      "recipientInfo": {
+        "firstName": "Arthur",
+        "lastName": "Curry",
+        "role": "Primary Individual",
+        "streetAddress": "1st address st",
+        "streetAddionalLine1": "2nd address line",
+        "city": "Canaan",
+        "state": "NY",
+        "zipcode": "12029",
+        "emailAddress": "hello@test.com",
+        "faxNumber": "7131112222",
+        "textNumber": "7134443333"
+      }
+    }
+  ],
+  "requester": {
+    "requesterId": 2492,
+    "requesterType": "ConnectionPoint"
+  },
+  "status": "Requested",
+  "createdBy": 2492,
+  "statusMessage": "checking error",
+  "createdDatetime": "2020-07-29T16:46:18.971Z"
+}

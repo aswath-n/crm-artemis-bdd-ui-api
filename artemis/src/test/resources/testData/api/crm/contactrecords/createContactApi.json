@@ -1,0 +1,49 @@
+{
+  "contactRecordId": 182172,
+  "contactRecordType": "Inbound",
+  "consumerType": null,
+  "contactType": "General",
+  "preferredLanguageCode": null,
+  "interactionId": null,
+  "businessUnit": null,
+  "contactRecordStartTime": "2021-05-21T16:26:51.045Z",
+  "contactRecordEndTime": "2021-05-21T16:40:22.249Z",
+  "consumerPhone": "4575475474",
+  "consumerFirstName": null,
+  "consumerLastName": null,
+  "consumerEmail": null,
+  "contactRecordStatusType": "Complete",
+  "consumerAuthenticatedInd": true,
+  "createdBy": 3455,
+  "createdOn": "2021-05-21T16:26:49.530000+00:00",
+  "updatedBy": 3455,
+  "updatedOn": "2021-05-21T16:40:31.448Z",
+  "linkRefType": "case",
+  "linkRefId": 56403,
+  "userId": null,
+  "correlationId": "345540883337",
+  "uiid": "345539935537",
+  "wrapUpTime": "00:00:09",
+  "callDuration": 812000,
+  "inboundCallQueue": "Claims",
+  "contactChannelType": "Phone",
+  "contactCampaignType": null,
+  "contactReasonEditType": null,
+  "contactOutcome": null,
+  "organizationName": null,
+  "programTypes": [
+    {
+      "programType": "Program B"
+    },
+    {
+      "programType": "Program A"
+    }
+  ],
+  "contactRecordEditFields": null,
+  "ctiMessageId": null,
+  "transcriptId": null,
+  "contactTranslationService": null,
+  "spokenLanguageCode": "English",
+  "writtenLanguageCode": "Spanish",
+  "genericFieldText1": null
+}

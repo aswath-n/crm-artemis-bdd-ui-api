@@ -1,0 +1,25 @@
+{
+  "consumerAuthenticatedInd": true,
+  "consumerType": "Agency",
+  "contactChannelType": "Email",
+  "contactCampaignType": "Enrollment Reminder",
+  "contactOutcome": "Invalid Phone Number",
+  "contactReasonEditType": "Adding Additional Comment",
+  "contactRecordEndTime": "2019-03-15T15:20:32.799Z",
+  "contactRecordStartTime": "2019-03-15T15:20:32.799Z",
+  "contactRecordStatusType": "Complete",
+  "contactRecordType": "Outbound",
+  "contactType": "General",
+  "correlationId": "234782",
+  "createdBy": "event",
+  "createdOn": "2019-03-15T15:20:32.799Z",
+  "inboundCallQueue": "Eligibility",
+  "linkRefId": null,
+  "linkRefType": "Case",
+  "programTypes": [
+    {
+      "programType": "Program B"
+    }
+  ],
+  "uiid": "234782"
+}

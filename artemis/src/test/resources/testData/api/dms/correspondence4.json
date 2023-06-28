@@ -1,0 +1,55 @@
+{
+  "anchor": {
+    "caseId": 488,
+    "regardingConsumerIds": []
+  },
+  "correspondenceDefinitionMMSCode": "4328csid",
+  "id": "",
+  "recipients": [{
+    "notifications": [{
+      "channelType": "Mail",
+      "channelDefinitionId": 346,
+      "returnedDate": null,
+      "template": null,
+      "version": null
+    }, {
+      "channelType": "Email",
+      "channelDefinitionId": 347,
+      "returnedDate": null,
+      "template": null,
+      "version": null
+    }, {
+      "channelType": "Fax",
+      "channelDefinitionId": 345,
+      "returnedDate": null,
+      "template": null,
+      "version": null
+    }, {
+      "channelType": "Text",
+      "channelDefinitionId": 348,
+      "returnedDate": null,
+      "template": null,
+      "version": null
+    }],
+    "recipientInfo": {
+      "consumerId": "5162",
+      "firstName": "Woods",
+      "lastName": "Blanche",
+      "role": "Primary Individual",
+      "streetAddress": "111 mail address",
+      "streetAddionalLine1": "",
+      "city": "Alpharetta",
+      "state": "Georgia",
+      "zipcode": "30004",
+      "emailAddress": "2wfkl23@maersktesting24.com",
+      "faxNumber": "1111111111",
+      "textNumber": "2222222222"
+    }
+  }],
+  "requester": {
+    "requesterId": "",
+    "requesterType": "ConnectionPoint"
+  },
+  "status": "",
+  "statusMessage": ""
+}

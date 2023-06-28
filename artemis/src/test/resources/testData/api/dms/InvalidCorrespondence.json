@@ -1,0 +1,43 @@
+{
+  "anchor": {
+    "caseId": 7347,
+    "projectId": 6203,
+    "regardingConsumerId": [
+      "287"
+    ]
+  },
+  "correspondenceDefinitionMMSCode": null,
+  "id": "",
+  "language": "English",
+  "recipients": [
+    {
+      "notifications": [
+        {
+          "channelType": "Email",
+          "channelDefinitionId": 376,
+          "language": "English",
+          "returnedDate": null,
+          "template": null,
+          "version": null,
+          "createdBy": 2132,
+          "createdDatetime": "2020-04-08T13:47:21.057Z"
+        }
+      ],
+      "recipientInfo": {
+        "firstName": "Many",
+        "lastName": "Correspondence",
+        "role": "Primary Individual",
+        "emailAddress": "test@test.com",
+        "faxNumber": "3453523443",
+        "textNumber": "3453523443"
+      }
+    }
+  ],
+  "requester": {
+    "requesterId": "2425",
+    "requesterType": "ConnectionPoint"
+  },
+  "status": "",
+  "createdBy": 2425,
+  "statusMessage": ""
+}

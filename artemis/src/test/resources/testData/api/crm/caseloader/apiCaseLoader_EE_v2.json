@@ -1,0 +1,178 @@
+{
+  "caseLoaderRequest": [
+    {
+      "case": {
+
+        "caseIdentificationNumber": "86687709",
+        "caseIdentificationNumberType": "CHIP",
+        "caseStatus": "Active",
+        "caseType": "Member",
+        "portfolioIdentificationNo": null,
+        "programName": "CRM",
+        "subProgramName": "",
+        "effectiveStartDate": "2019-05-08T14:05:31.798Z",
+        "needTranslatorInd": "true",
+        "jobId": "1",
+        "correlationId": "1184575891",
+        "requestedBy": "597",
+        "consumers": [
+          {
+            "wardType": "test",
+            "consumerDateOfBirth": "2000-12-14",
+            "consumerFirstName": "FnSYeoB",
+            "consumerLastName": "LnrJkvY",
+            "consumerMiddleName": "R",
+            "consumerRole": "Primary Individual",
+            "consumerSSN": "532403271",
+            "consumerPrefix": "Mrs",
+            "consumerSuffix": "Esq",
+            "consumerType": "Consumer",
+            "correlationId": "1184575891",
+            "dateOfDeath": null,
+            "dateOfDeathNotifiedBy": null,
+            "dateOfDeathNotifiedDate": null,
+            "dateOfSsnValidation": "2021-08-04T14:40:11.909Z",
+            "effectiveEndDate": "",
+            "effectiveStartDate": "2021-08-04T14:40:11.909Z",
+            "writtenLanguage": "EN",
+            "spokenLanguage": "EN",
+            "correspondencePreference": null,
+            "ethnicityCode": "",
+            "aiNa": "",
+            "genderCode": "F",
+            "mergeReason": "",
+            "raceCode": null,
+            "relationShip": "spouse",
+            "ssnValidationAgency": "",
+            "ssnValidationCode": "",
+            "uiid": "",
+            "usResidentStatusCode": "",
+            "pregnancyInd": "false",
+            "pregnancyDueDate": null,
+            "consumerIdentificationNumber": [
+              {
+                "externalConsumerId": "x361246",
+                "identificationNumberType": "MEDICAID",
+                "effectiveStartDate": "2019-05-08T14:05:31.799Z"
+              }
+            ],
+            "contacts": {
+              "address": {
+                "addrAttn": "",
+                "addrHouseCode": "003",
+                "addressCity": "Preble",
+                "addressCounty": "Adams",
+                "addressState": "IN",
+                "addressStreet1": "22 main st",
+                "addressStreet2": "",
+                "addressType": "Physical",
+                "addressVerified": false,
+                "addressZip": "46782",
+                "stateProvidedContact": false,
+                "addressZipFour": "4345",
+                "outOfStateIndicator":"true"
+              },
+              "email": null,
+              "phone": {
+                "phoneNumber": "6789098767",
+                "phoneType": "Cell"
+              }
+            },
+            "consumerConsent": [
+              {
+                "consentType": "Phone",
+                "dateOfConsent": "2019-10-31T15:59:27.657Z",
+                "howConsentProvided": "Email",
+                "optIn": true,
+                "effectiveStartDate": "2019-05-08T14:05:31.798Z",
+                "effectiveEndDate": "2019-05-08T14:05:31.798Z"
+              }],
+            "eligibility": [
+              {
+                "coreEligibility": {
+                  "consumerDeprivationCode": "string",
+                  "correlationId": "1213920642149056",
+                  "coverageCode": "string",
+                  "createdBy": "SYSTEM_INTEGRATION",
+                  "eligibilityStatusCode": "M",
+                  "exemptionCode": "qwer",
+                  "programCode": "H",
+                  "programTypeCode": "MEDICAID",
+                  "subProgramTypeCode": "HealthyIndianaPlan",
+                  "referralCountyCode": "string",
+                  "startDate": "2021-09-01T13:51:10.010Z",
+                  "endDate": "2299-12-31T13:51:10.010Z",
+                  "uiid": "7777845201",
+                  "createdOn": "2021-08-04T13:51:10.010Z",
+                  "fileSource": "RECIPIENT"
+                },
+                "otherEligibilitySegments" : [
+                  {
+                    "correlationId" : "9A8E120AC78A9A1AE10D678FBD7E5A78",
+                    "createdBy" : "240",
+                    "createdOn" : "2021-11-01T22:52:25Z",
+                    "endDate" : "2021-07-08",
+                    "segmentDetailValue1" : "",
+                    "segmentDetailValue2" : "NHN",
+                    "segmentTypeCode" : "FACILITY",
+                    "startDate" : "2020-06-29",
+                    "uiid" : "00c15f21-2745-4be8-863b-488003dc179d",
+                    "updatedBy" : "240",
+                    "updatedOn" : "2021-11-01T22:52:25Z"
+                  }
+                ],
+                "dbChanges": "string",
+                "recordId": "3"
+              }
+
+            ],
+            "enrollment": [{
+
+              "createdBy": "POSTMAN",
+              "enrollmentType": "MEDICAL",
+              "planCode": "300119960",
+              "anniversaryDate": "2022-07-04T13:51:31.031Z",
+              "autoAssignIndicator": "a",
+              "lockInStartDate": "2020-11-30",
+              "lockInEndDate": "2020-12-31",
+              "lockInStatusCode": "jg",
+              "lockInExemptionReason": "hvj",
+              "planId": "1267",
+              "programTypeCode": "MEDICAID",
+              "serviceRegionCode": "string",
+              "specialNeedFlag": "string",
+              "startDate": "2021-09-01T13:51:31.031Z",
+              "subProgramTypeCode": "HealthyIndianaPlan",
+              "endDate": "2299-12-31T13:51:31.031Z",
+              "otherEnrollmentSegments": [
+                {
+                  "endDate": "2022-04-30",
+                  "startDate": "2020-04-30",
+                  "segmentTypeCode": "LILO",
+                  "genericFieldDate1": "2021-07-16",
+                  "genericFieldDate2": "2022-04-30",
+                  "genericFieldText1": "I",
+                  "genericFieldText2": "300027308",
+                  "genericFieldText3": "Medical",
+                  "genericFieldText4": null,
+                  "genericFieldText5": "SPEERS                   MACKENZIE",
+                  "correlationId": "5866418855",
+                  "uiid": null
+                }
+              ],
+              "openEnrollmentStartDate": null,
+              "openEnrollmentEndDate": null,
+              "updatedBy": "SYSTEM_INTEGRATION",
+              "txnStatus": "Accepted",
+              "uiid": "3333335353"
+            }
+            ],
+            "recordId": 3,
+            "createdOn": "2021-07-07T09:11:34.369Z",
+            "updatedOn": "2021-07-07T09:11:34.369Z"
+          }
+        ]
+      }
+    }
+  ]
+}

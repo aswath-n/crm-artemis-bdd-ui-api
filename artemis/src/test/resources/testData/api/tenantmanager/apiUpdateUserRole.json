@@ -1,0 +1,42 @@
+{
+  "maxId": "",
+   "user": {
+    "projectId": "",
+    "userId": "",
+    "inactivateImmediately": ""
+    },
+
+  "userProjectRoleVOList": [
+    {
+         "projectRole": [
+          {
+            "roleName": "",
+            "roleDesc": "",
+            "startDate": "",
+            "endDate": "",
+            "projectId": "",
+            "projectRoleId": "",
+            "createdOn": "",
+            "createdBy": null,
+            "updatedOn": null,
+            "updatedBy": null
+          }
+      ]
+    }
+
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

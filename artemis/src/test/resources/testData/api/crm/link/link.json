@@ -1,0 +1,16 @@
+{
+  "uiid": "249213495650",
+  "correlationId": "249226046184",
+  "externalLinkPayload": {
+    "createdBy": 2492,
+    "createdOn": "2020-07-17T11:49:42.933Z",
+    "updatedOn": 2492,
+    "updatedBy": "2020-07-17T11:49:42.934Z",
+    "internalId": 118391,
+    "externalId": 6118,
+    "internalRefType": "contact_record",
+    "externalRefType": "consumer",
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2020-07-17T11:49:42.934Z"
+  }
+}

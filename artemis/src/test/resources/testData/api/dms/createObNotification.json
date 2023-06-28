@@ -1,0 +1,31 @@
+{
+  "correspondenceId": "",
+  "notificationId": "",
+  "createdBy": "2492",
+  "notificationChannelType": "Email",
+  "notificationStatus": {
+    "changedBy": "2492",
+    "status": "Requested",
+    "statusReason": null
+  },
+  "notificationStatusDate": null,
+  "recipient": {
+    "consumerId": "17500",
+    "firstName": "Bruce",
+    "lastName": "Wayne",
+    "middleName": "",
+    "nameSuffix": "",
+    "role": "Primary Individual",
+    "streetAddress": "123 street name",
+    "streetAddionalLine1": null,
+    "city": "Burke",
+    "state": "VA",
+    "zipcode": "22030",
+    "faxNumber": "4567788989",
+    "textNumber": "5558889999",
+    "emailAddress": "asdf@jiasdf.com"
+  },
+  "resendFlag": true,
+  "updatedBy": "1646",
+  "updatedDatetime": "2020-03-09T14:01:06.085Z"
+}

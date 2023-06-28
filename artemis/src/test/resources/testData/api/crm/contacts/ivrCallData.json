@@ -1,0 +1,21 @@
+{
+  "tenant": null,
+  "interactionId": null,
+  "callType": "Inbound",
+  "consumerPhone": null,
+  "inboundCallQueue": "queueinbound",
+  "contactCampaignType": "DMI",
+  "contactChannelType": "Phone",
+  "surveyPhoneNumber": null,
+  "consumerFirstName": null,
+  "consumerLastName": null,
+  "consumerSSN": null,
+  "consumerDateOfBirth": null,
+  "consumerIdType": null,
+  "consumerID": null,
+  "caseIdType": "Medicaid",
+  "caseID": null,
+  "applicationId": null,
+  "createdOn": null,
+  "createdBy": "IVRUser"
+}

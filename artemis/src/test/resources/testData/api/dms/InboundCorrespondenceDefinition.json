@@ -1,0 +1,22 @@
+{
+  "barcode": 0,
+  "createdBy": null,
+  "description": "string",
+  "inboundCorrespondenceDefinitionId": 0,
+  "inboundCorrespondenceTaskRule": [
+    {
+      "requiredDataElements": "CaseId",
+      "taskTypeId": 15581,
+      "createdBy": "2741",
+      "updatedBy": "2741",
+      "createdDatetime":"2022-06-08T17:03:10.000000+00:00",
+      "updatedDatetime":"2022-06-08T17:03:10.000000+00:00",
+      "rank": 1,
+      "linkSameSetTaskFlag": false,
+      "noSiblingCorrespondenceTypes": null
+    }
+  ],
+  "name": "string",
+  "projectId": 0,
+  "updatedBy": "string"
+}

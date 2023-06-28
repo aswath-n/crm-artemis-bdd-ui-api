@@ -1,0 +1,10 @@
+{
+  "planCode":"84",
+  "planPercentage":25.0,
+  "programTypeCd":"MEDICAID",
+  "subProgramTypeCd":"MEDICAIDGF",
+  "population":"MEDICAID-GENERAL",
+  "approval":true,
+  "autoAssignmentPlanPercentageId":null,
+  "createdBy":"admin"
+}

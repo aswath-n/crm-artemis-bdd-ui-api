@@ -1,0 +1,30 @@
+{
+  "transactionType": "grid",
+  "projectId": 99,
+  "roleId": 546,
+  "gridPayload": [
+    {
+      "key": "demographicCaseMemberGrid",
+      "transactionType": "grid",
+      "gridId": 100,
+      "sectionId": 303,
+      "createdOn": null,
+      "createdBy": null,
+      "updatedOn": null,
+      "updatedBy": null,
+      "permissions": [
+        {
+          "effectiveStartDate": null,
+          "uiPermissionId": 18248,
+          "noPermission": false,
+          "applyMask": false,
+          "effectiveEndDate": null,
+          "write": true,
+          "permissionGroupId": 62,
+          "objectType": "grid",
+          "objectId": 100,
+          "read": true
+        }],
+      "columns": []
+    }]
+}

@@ -1,0 +1,6 @@
+{ "caseId": 89629,
+  "channels": [
+    "Mail", "Email", "Text", "Fax"
+  ],
+  "includeNonDefaultRecipients": true
+}

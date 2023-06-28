@@ -1,0 +1,18 @@
+[
+  {
+    "applicationConsumerId": null,
+    "applicationProgramId": null,
+
+    "createdBy": null,
+    "createdOn": null,
+    "denialReasons":[
+    ],
+    "determinationDate": null,
+    "eligibilityId": null,
+    "eligibilityStatus": null,
+    "endDate": null,
+    "startDate": null,
+    "updatedBy": null,
+    "updatedOn":null
+  }
+]

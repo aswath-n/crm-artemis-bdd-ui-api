@@ -1,0 +1,64 @@
+[
+  {
+    "addresses": [
+      {
+        "addrAttn": "",
+        "addrHouseCode": "002",
+        "addressCity": "Washington DC",
+        "addressCounty": "Northeast",
+        "addressState": "GA",
+        "addressStreet1": "22 main st",
+        "addressStreet2": "",
+        "addressType": "Physical",
+        "addressVerified": false,
+        "addressZip": "20510",
+        "addressZipFour": "4345",
+        "stateProvidedContact": false,
+        "uiid": "7262471136",
+        "addressSource": "MMIS",
+        "correlationId": "731838763"
+      },
+      {
+        "addrAttn": "",
+        "addrHouseCode": "002",
+        "addressCity": "Washington DC",
+        "addressCounty": "Northeast",
+        "addressState": "GA",
+        "addressStreet1": "22 main st",
+        "addressStreet2": "",
+        "addressType": "Mailing",
+        "addressVerified": false,
+        "addressZip": "20510",
+        "addressZipFour": "4345",
+        "stateProvidedContact": false,
+        "uiid": "7262471136",
+        "addressSource": "MMIS",
+        "correlationId": "731838763"
+      }
+    ],
+    "email": {
+      "emailAddress": "qe-automation@dceb.com",
+      "emailType": "Primary",
+      "primaryIndicator": true,
+      "effectiveStartDate": "",
+      "effectiveEndDate": "",
+      "emailSource": "MMIS",
+      "correlationId": "731838763"
+    },
+    "phone": {
+      "phoneNumber": "320-905-2382",
+      "phoneType": "Cell",
+      "smsEnabledInd": false,
+      "primaryIndicator": true,
+      "effectiveStartDate": "",
+      "effectiveEndDate": "",
+      "phoneSource": "MMIS",
+      "correlationId": "731838763"
+    },
+    "externalRefId": 2227,
+    "externalRefType": "Consumer",
+    "correlationId": "string",
+    "uiid": "string",
+    "recordId": 0
+  }
+]

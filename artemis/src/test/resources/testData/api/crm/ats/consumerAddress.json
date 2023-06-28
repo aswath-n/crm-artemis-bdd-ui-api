@@ -1,0 +1,16 @@
+{
+  "addressCity": null,
+  "addressCounty": null,
+  "addressState": null,
+  "addressStreet1": null,
+  "addressStreet2": null,
+  "addressType": null,
+  "addressZip": null,
+  "addressZipFour": null,
+  "createdBy": "1066",
+  "createdOn": null,
+  "updatedBy": "1066",
+  "updatedOn": null,
+  "effectiveEndDate": null,
+  "effectiveStartDate": null
+}

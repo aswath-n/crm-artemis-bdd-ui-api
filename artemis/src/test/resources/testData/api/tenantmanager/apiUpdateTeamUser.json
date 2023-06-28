@@ -1,0 +1,15 @@
+{
+  "teamUserVO": [
+    {
+      "effectiveStartDate": "",
+      "createdOn": "",
+      "createdBy": null,
+      "updatedOn": null,
+      "updatedBy": null,
+      "userId": null,
+      "teamId": null,
+      "supervisorFlag": false,
+      "teamUserId": null
+    }
+  ]
+}

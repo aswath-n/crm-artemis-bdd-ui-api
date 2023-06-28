@@ -1,0 +1,96 @@
+[
+  {
+    "coreEligibility": {
+      "categoryCode": "string",
+      "consumerDeprivationCode": "string",
+      "consumerId": 38906,
+      "coreEligibilitySegmentsId": 0,
+      "correlationId": "string",
+      "coverageCode": "string",
+      "createdBy": "string",
+      "createdOn": "2020-02-03T12:50:13.466Z",
+      "eligibilityStatusCode": "string",
+      "endDate": "2020-12-03T12:50:13.466Z",
+      "exemptionCode": "string",
+      "fileHandle": "string",
+      "programCode": "M",
+      "programTypeCode": "M",
+      "referralCountyCode": "string",
+      "startDate": "2020-03-03",
+      "subProgramTypeCode": "string",
+      "uiid": "string",
+      "updatedBy": "string",
+      "updatedOn": "2020-02-03T12:50:13.466Z"
+    },
+    "dbChanges": "string",
+    "facilityInfo": {
+      "eligibilitySegmentsId": 0,
+      "endDate": "2020-12-03",
+      "placementCode": "123Facility",
+      "placementCountyCode": "string",
+      "referralCountyCode": "string",
+      "startDate": "2020-02-03"
+    },
+    "financialInfo": {
+      "caseId": 0,
+      "costShareAmount": 0,
+      "endDate": "2020-12-03T12:50:13.466Z",
+      "familySize": 0,
+      "fpil": 0,
+      "income": 0,
+      "spendDownCode": "string",
+      "startDate": "2020-12-03T12:50:13.466Z"
+    },
+    "hospiceInfo": {
+      "eligibilitySegmentsId": 0,
+      "endDate": "",
+      "hospiceIndicator": "string",
+      "startDate": "2020-02-03T12:50:13.466Z"
+    },
+    "longTermCareInfo": {
+      "coverageCode": "string",
+      "eligibilitySegmentsId": 0,
+      "endDate": "",
+      "npiId": "string",
+      "providerName": "string",
+      "startDate": "2022-02-03T12:50:13.466Z"
+    },
+    "medicareInfo": {
+      "eligibilitySegmentsId": 0,
+      "partAEndDate": "",
+      "partAStartDate": "2020-02-03T12:50:13.466Z",
+      "partBEndDate": "",
+      "partBStartDate": "2020-02-03T12:50:13.466Z",
+      "partDEndDate": "",
+      "partDStartDate": "2020-02-03T12:50:13.466Z",
+      "titleXVIII": "string",
+      "titleXVIIIEndDate": "",
+      "titleXVIIIStartDate": "2020-02-03T12:50:13.467Z"
+    },
+    "specialPopulationInfo": {
+      "eligibilitySegmentsId": 0,
+      "endDate": "",
+      "specialEligibilityCode": "string",
+      "specialPopulationCaseNumber": "string",
+      "specialPopulationIndicator": "string",
+      "startDate": "2020-02-03T12:50:13.467Z"
+    },
+    "thirdPartyInsuranceInfo": {
+      "eligibilitySegmentsId": 0,
+      "endDate": "2020-02-03",
+      "insuranceCode": "code001",
+      "insuranceGroupNumber": "g001",
+      "insuranceName": "delta",
+      "insurancePolicyHolderName": "Test",
+      "insuranceSource": "third party",
+      "startDate": "2019-02-03"
+    },
+    "waiverInfo": {
+      "eligibilitySegmentsId": 0,
+      "endDate": "2020-02-03T12:50:13.467Z",
+      "startDate": "2020-02-03T12:50:13.467Z",
+      "waiverCode": "string",
+      "waiverCounty": "string"
+    }
+  }
+]

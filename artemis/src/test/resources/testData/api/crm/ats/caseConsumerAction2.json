@@ -1,0 +1,21 @@
+{
+  "applicationConsumers": [
+    {
+      "applicationConsumerId":null,
+      "actionType": "null",
+      "matchedConsumerId": null,
+      "inactivateOnCase": []
+    },
+    {
+      "applicationConsumerId":null,
+      "actionType": "null",
+      "matchedConsumerId": null,
+      "inactivateOnCase": []
+    }
+  ],
+  "caseId": null,
+  "auditInfo":{
+    "createdBy": "1066",
+    "updatedBy": "3155"
+  }
+}

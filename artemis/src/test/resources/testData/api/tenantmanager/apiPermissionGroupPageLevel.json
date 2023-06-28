@@ -1,0 +1,33 @@
+{
+  "transactionType": "page",
+  "pagePayload": [
+    {
+      "key": "contact",
+      "transactionType": "page",
+      "sections": [],
+      "pageId": 61,
+      "createdOn": null,
+      "createdBy": null,
+      "updatedOn": null,
+      "updatedBy": null,
+      "permissions": [
+        {
+          "effectiveStartDate": null,
+          "noPermission": false,
+          "applyMask": true,
+          "effectiveEndDate": null,
+          "write": true,
+          "permissionGroupId": 62,
+          "objectType": "page",
+          "objectId": 61,
+          "read": true
+        }
+      ],
+      "correlationId": null,
+      "uiid": null,
+      "projectId": 99
+    }
+  ],
+  "projectId": 99,
+  "roleId": 546
+}

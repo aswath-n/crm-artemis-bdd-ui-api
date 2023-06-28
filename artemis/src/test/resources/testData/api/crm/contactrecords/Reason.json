@@ -1,0 +1,18 @@
+{
+  "contactRecordActions": [
+    {
+      "contactRecordActionType": "Provided Appeal Information",
+      "contactRecordActionId": ""
+    }
+  ],
+  "contactRecordId": 0,
+  "contactRecordReasonId": "",
+  "contactRecordReasonType": "",
+  "notes": "",
+  "correlationId": "",
+  "createdBy": 0,
+  "updatedBy": 0,
+  "updatedOn": 0,
+  "createdOn": "",
+  "uiid": ""
+}

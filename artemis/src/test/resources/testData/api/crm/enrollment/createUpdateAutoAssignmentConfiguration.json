@@ -1,0 +1,44 @@
+{
+  "programTypeCode": "MEDICAID",
+  "subprogramTypeCode": "MEDICAIDGF",
+  "population": "MEDICAID-GENERAL",
+  "createdBy": "2795",
+  "configuration": {
+    "sequence": [
+      "priorPlan",
+      "familyPlan",
+      "marketShare"
+    ],
+    "priorPlan": {
+      "isPcpMandatory": true,
+      "preferredPlanToSelect": {
+        "isMostRecentPlan": true,
+        "isLrgerDurationPlan": false
+      },
+      "priorEnrollmentNoOfMonths": 12
+    },
+    "familyPlan": {
+      "typeOfEnrollment": {
+        "isPendingPlan": false,
+        "isEnrolledPlan": true,
+        "isEnrolledAndPendingPlan": true
+      },
+      "determinationBasedOn": "Family",
+      "planSelectionPriotiry": {
+        "isNearestAge": false,
+        "isMajorityPlan": true
+      },
+      "priorEnrollmentNoOfMonths": 12,
+      "isCompanionPlanAllowed": true
+    },
+    "marketShare": {
+      "planAssignmentPercentage": [
+        {
+          "planCode": "A",
+          "assignmentPercentage": 100
+        }
+      ],
+      "groupBy": "A"
+    }
+  }
+}

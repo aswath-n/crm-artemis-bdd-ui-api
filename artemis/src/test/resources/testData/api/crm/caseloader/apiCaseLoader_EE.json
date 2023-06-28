@@ -1,0 +1,131 @@
+{
+  "caseLoaderRequest": [
+    {
+      "case": {
+        "caseIdentificationNumber": "KKDDUU001",
+        "caseIdentificationNumberType": "CHIP",
+        "caseStatus": "Active",
+        "caseType": "Member",
+        "portfolioIdentificationNo": null,
+        "programName": "CRM",
+        "subProgramName": "",
+        "effectiveStartDate": "2019-05-08T14:05:31.798Z",
+        "needTranslatorInd": "true",
+        "jobId": "1",
+        "correlationId": "1",
+        "requestedBy": "597",
+        "consumers": [
+          {
+            "consumerDateOfBirth": null,
+            "consumerFirstName": "Stephen",
+            "consumerLastName": "nicks",
+            "consumerMiddleName": "R",
+            "consumerRole": "Primary Individual",
+            "consumerSSN": "354652134",
+            "consumerPrefix": "Mrs",
+            "consumerSuffix": "Esq",
+            "consumerType": "Consumer",
+            "correlationId": "999933336",
+            "dateOfDeath": null,
+            "dateOfDeathNotifiedBy": null,
+            "dateOfDeathNotifiedDate": null,
+            "dateOfSsnValidation": "2019-05-08T14:05:31.799Z",
+            "effectiveEndDate": null,
+            "effectiveStartDate": "2019-05-08T14:05:31.799Z",
+            "writtenLanguage": "EN",
+            "spokenLanguage": "EN",
+            "correspondencePreference": null,
+            "ethnicityCode": "",
+            "aiNa": "",
+            "genderCode": "Female",
+            "mergeReason": "",
+            "raceCode": null,
+            "relationShip": "spouse",
+            "ssnValidationAgency": "",
+            "ssnValidationCode": "",
+            "uiid": "",
+            "usResidentStatusCode": "",
+            "pregnancyInd": "",
+            "pregnancyDueDate": "",
+            "processingOrder": "",
+            "fileSource": "State Reported",
+            "consumerIdentificationNumber": [
+              {
+                "externalConsumerId": "7898",
+                "identificationNumberType": "MEDICAID",
+                "effectiveStartDate": "2019-05-08T14:05:31.799Z"
+              }
+            ],
+            "contacts": {
+              "address": {
+                "addrAttn": "",
+                "addrHouseCode": "003",
+                "addressCity": "Mckinney",
+                "addressCounty": "",
+                "addressState": "TX",
+                "addressStreet1": "516 Farmington Circle Cir",
+                "addressStreet2": "",
+                "addressType": "Physical",
+                "addressVerified": false,
+                "addressZip": "12345",
+                "addressZipFour": "4345",
+                "addressSource": "State Reported",
+                "correlationId": "5866418855"
+              },
+              "address": {
+                "addrAttn": "",
+                "addrHouseCode": "003",
+                "addressCity": "Wildwood",
+                "addressCounty": "Dade",
+                "addressState": "TX",
+                "addressStreet1": "22 main st",
+                "addressStreet2": "",
+                "addressType": "Physical",
+                "addressVerified": false,
+                "addressZip": "30757",
+                "addressZipFour": "4345",
+                "stateProvidedContact": false,
+                "uiid": "3333335353",
+                "addressSource": "State Reported",
+                "correlationId": "5866418855"
+              },
+              "email": {
+                "emailAddress": "qe-automation@blcrm.com",
+                "emailType": "Primary",
+                "primaryIndicator": true,
+                "effectiveStartDate": "",
+                "effectiveEndDate": "",
+                "emailSource": "State Reported",
+                "correlationId": "5866418855"
+              },
+              "phone": {
+                "phoneNumber": "6789098767",
+                "phoneType": "Cell",
+                "smsEnabledInd": false,
+                "primaryIndicator": true,
+                "effectiveStartDate": "",
+                "effectiveEndDate": "",
+                "phoneSource": "State Reported",
+                "correlationId": "5866418855"
+              }
+                      },
+            "consumerConsent": [
+              {
+                "consentType": "Phone",
+                "dateOfConsent": "2019-10-31T15:59:27.657Z",
+                "howConsentProvided": "Email",
+                "optIn": true,
+                "effectiveStartDate": "2019-05-08T14:05:31.798Z",
+                "effectiveEndDate": "2019-05-08T14:05:31.798Z"
+              }
+            ],
+            "eligibility": null,
+            "enrollment": null,
+            "recordId":2
+          }
+        ]
+      }
+    }
+  ]
+}
+

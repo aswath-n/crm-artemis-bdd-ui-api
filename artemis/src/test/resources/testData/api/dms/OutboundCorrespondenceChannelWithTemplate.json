@@ -1,0 +1,26 @@
+{
+    "projectChannelId": 162,
+    "endDate": null,
+    "endReason": "",
+    "sendImmediately": false,
+    "mandatory": false,
+    "senderEmailId": "",
+    "createdBy": "144",
+    "channelDefinitionId": null,
+    "includeOnWeb": false,
+    "languageTemplate": [
+        {
+            "channelDefinitionId": null,
+            "documentId": "147934",
+            "endDate": null,
+            "language": "English",
+            "startDate": "2021-10-05T02:56:03.654Z",
+            "templateName": "Multi page document.pdf",
+            "templateSystem": "ONBASE",
+            "version": "1",
+            "createdBy": "144",
+            "createdOn": 1633402570693
+        }
+    ],
+    "createdOn": 1633402570693
+}

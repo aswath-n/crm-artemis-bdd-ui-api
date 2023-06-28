@@ -1,0 +1,321 @@
+{
+  "type": "PROCESSEDDOCUMENT",
+  "document": {
+    "properties": {
+      "createdBy": "3163",
+      "dateStored": "2022-07-06T11:12:04.000000-04:00",
+      "documentDate": "2020-11-07",
+      "documentHandle": 42542,
+      "documentName": "maersk Application - 07/06/2022",
+      "documentStatus": "Active",
+      "documentType": "maersk Application",
+      "documentTypeID": 142,
+      "documentTypeName": "maersk Application",
+      "pageCount": 2
+    },
+    "keywordFields": [
+      {
+        "keywordTypeName": "Batch #",
+        "value": "1958"
+      },
+      {
+        "keywordTypeName": "Channel",
+        "value": "Phone"
+      },
+      {
+        "keywordTypeName": "CreatedByUser",
+        "value": "3163"
+      },
+      {
+        "keywordTypeName": "Document Handle",
+        "value": "29499"
+      },
+      {
+        "keywordTypeName": "Language",
+        "value": "ENGLISH"
+      },
+      {
+        "keywordTypeName": "ProcessType",
+        "value": "INBOUND CORRESPONDENCE"
+      },
+      {
+        "keywordTypeName": "ScannedOn",
+        "value": "2020-10-07T11:12:04.000000-04:00"
+      },
+      {
+        "keywordTypeName": "SetId",
+        "value": "944AF388-E38C-4F19-8006-6FEB6D2E0CBC"
+      },
+      {
+        "keywordTypeName": "Status",
+        "value": "TRANSMITTING"
+      },
+      {
+        "keywordTypeName": "StatusSetOn",
+        "value": "2020-10-07T11:12:04.000000-04:00"
+      },
+      {
+        "keywordTypeName": "UpdatedByUser",
+        "value": "3163"
+      },
+      {
+        "keywordTypeName": "UpdatedOn",
+        "value": "2020-10-07T11:12:04.000000-04:00"
+      },
+      {
+        "keywordTypeName": "Application Type",
+        "value": "MEDICAL ASSISTANCE"
+      },
+      {
+        "keywordTypeName": "Residence Address Line 1",
+        "value": "1891 Metro Center Dr"
+      },
+      {
+        "keywordTypeName": "Residence Address Line 2",
+        "value": "SUITE 1"
+      },
+      {
+        "keywordTypeName": "Residence Address City",
+        "value": "Reston"
+      },
+      {
+        "keywordTypeName": "Residence Address State",
+        "value": "VA"
+      },
+      {
+        "keywordTypeName": "Residence Address Zip",
+        "value": "20190"
+      },
+      {
+        "keywordTypeName": "Residence Address County",
+        "value": "JEFFERSON"
+      },
+      {
+        "keywordTypeName": "Mailing is Same As Residence Address",
+        "value": "NO"
+      },
+      {
+        "keywordTypeName": "Mailing Address Line 1",
+        "value": "1700 TANGLEWOOD DR"
+      },
+      {
+        "keywordTypeName": "Mailing Address Line 2",
+        "value": "APT B"
+      },
+      {
+        "keywordTypeName": "Mailing Address City",
+        "value": "FORT COLLINS"
+      },
+      {
+        "keywordTypeName": "Mailing Address State",
+        "value": "CO"
+      },
+      {
+        "keywordTypeName": "Mailing Address Zip",
+        "value": "80525"
+      },
+      {
+        "keywordTypeName": "Spoken Language",
+        "value": "ENGLISH"
+      },
+      {
+        "keywordTypeName": "Written Language",
+        "value": "ENGLISH"
+      },
+      {
+        "keywordTypeName": "Application Signature",
+        "value": "YES"
+      },
+      {
+        "keywordTypeName": "Application Signature Date",
+        "value": "2020-10-05"
+      },
+      {
+        "keywordTypeName": "Cell Phone Number",
+        "value": "703-456-7890"
+      },
+      {
+        "keywordTypeName": "Home Phone Number",
+        "value": "703-456-4444"
+      },
+      {
+        "keywordTypeName": "Primary Phone Type",
+        "value": "CELL"
+      },
+      {
+        "keywordTypeName": "Email Address",
+        "value": "EMAIL@GMAIL.COM"
+      },
+      {
+        "keywordTypeName": "SMS Text Opt-In",
+        "value": "NO"
+      },
+      {
+        "keywordTypeName": "Email Opt-In",
+        "value": "NO"
+      },
+      {
+        "keywordTypeName": "Mail Opt-In",
+        "value": "NO"
+      },
+      {
+        "keywordTypeName": "Fax Opt-In",
+        "value": "NO"
+      },
+      {
+        "keywordTypeName": "Phone Opt-In",
+        "value": "NO"
+      }
+    ],
+    "keywordRecords": [
+      {
+        "name": "Member",
+        "keywords": [
+          {
+            "keywordTypeName": "Gender",
+            "value": "M"
+          },
+          {
+            "keywordTypeName": "Pregnant",
+            "value": "NO"
+          },
+          {
+            "keywordTypeName": "External Consumer ID",
+            "value": "MED0102030405"
+          },
+          {
+            "keywordTypeName": "External Consumer ID Type",
+            "value": "MEDICAID"
+          },
+          {
+            "keywordTypeName": "Is Primary",
+            "value": "YES"
+          },
+          {
+            "keywordTypeName": "Selected Program",
+            "value": "medicaid"
+          },
+          {
+            "keywordTypeName": "Selected Program",
+            "value": "chip"
+          },
+          {
+            "keywordTypeName": "Selected Program",
+            "value": "pregnancy assistance"
+          }
+        ]
+      },
+      {
+        "name": "Member",
+        "keywords": [
+          {
+            "keywordTypeName": "Selected Program",
+            "value": "MEDICAID"
+          },
+          {
+            "keywordTypeName": "Is Primary",
+            "value": "NO"
+          },
+          {
+            "keywordTypeName": "Gender",
+            "value": "M"
+          },
+          {
+            "keywordTypeName": "Pregnant",
+            "value": "NO"
+          }
+        ]
+      },
+      {
+        "name": "Authorized Representative",
+        "keywords": [
+          {
+            "keywordTypeName": "AR First Name",
+            "value": "Johnathon"
+          },
+          {
+            "keywordTypeName": "AR Middle Initial",
+            "value": "G"
+          },
+          {
+            "keywordTypeName": "AR Last Name",
+            "value": "Blaze"
+          },
+          {
+            "keywordTypeName": "AR Address Line 1",
+            "value": "123 Circle Place"
+          },
+          {
+            "keywordTypeName": "AR Address Line 2",
+            "value": "BOX 33"
+          },
+          {
+            "keywordTypeName": "AR Address City",
+            "value": "New York"
+          },
+          {
+            "keywordTypeName": "AR Address State",
+            "value": "New York"
+          },
+          {
+            "keywordTypeName": "AR Address Zip",
+            "value": "00001"
+          },
+          {
+            "keywordTypeName": "AR Organization Name",
+            "value": "Rider"
+          },
+          {
+            "keywordTypeName": "AR ID Number",
+            "value": "123abc"
+          },
+          {
+            "keywordTypeName": "AR Authorization Signature Date",
+            "value": "2021-03-30"
+          },
+          {
+            "keywordTypeName": "Correspondence",
+            "value": "Receive in Place Of"
+          },
+          {
+            "keywordTypeName": "AR Authorization Type",
+            "value": "Full Access"
+          }
+        ]
+      },
+      {
+        "name": "Authorized Representative",
+        "keywords": [
+          {
+            "keywordTypeName": "AR First Name",
+            "value": "JANE"
+          },
+          {
+            "keywordTypeName": "AR Middle Initial",
+            "value": "T"
+          },
+          {
+            "keywordTypeName": "AR Last Name",
+            "value": "Porter"
+          },
+          {
+            "keywordTypeName": "AR Address Line 1",
+            "value": "123 STRAIN STREET"
+          },
+          {
+            "keywordTypeName": "AR Address City",
+            "value": "City"
+          },
+          {
+            "keywordTypeName": "AR Address State",
+            "value": "CO"
+          },
+          {
+            "keywordTypeName": "AR Address Zip",
+            "value": "44345"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "caseLoaderRequest": [
+    {
+      "case": {
+        "caseIdentificationNumber": "",
+        "caseIdentificationNumberType": "CHIP",
+        "caseStatus": "Active",
+        "caseType": "Member",
+        "portfolioIdentificationNo": null,
+        "programName": "CRM",
+        "subProgramName": "",
+        "needTranslatorInd": "true",
+        "jobId": "",
+        "correlationId": "1",
+        "requestedBy": "3455",
+        "consumers": [
+          {
+            "consumerDateOfBirth": "2020-06-01",
+            "consumerFirstName": "",
+            "consumerLastName": "",
+            "consumerMiddleName": "",
+            "consumerRole": "Primary Individual",
+            "consumerSSN": "454544334",
+            "consumerPrefix": "",
+            "consumerSuffix": "",
+            "consumerType": "Consumer",
+            "correlationId": "999933336",
+            "dateOfDeath": null,
+            "dateOfDeathNotifiedBy": null,
+            "dateOfDeathNotifiedDate": null,
+            "dateOfSsnValidation": "2019-05-08T14:05:31.799Z",
+            "effectiveEndDate": null,
+            "effectiveStartDate": "2020-05-08T14:05:31.799Z",
+            "writtenLanguage": "",
+            "ethnicityCode": "",
+            "correspondencePreference": "",
+            "aiNa": "",
+            "genderCode": "Female",
+            "mergeReason": "",
+            "raceCode": null,
+            "relationShip": "",
+            "ssnValidationAgency": "",
+            "ssnValidationCode": "",
+            "uiid": "",
+            "citizenship": "",
+            "usResidentStatusCode": "",
+            "pregnancyInd": "",
+            "pregnancyDueDate": "",
+            "receiveCorrespondence": "Yes",
+            "communicationPreferences": [
+              {
+                "communicationPreferencesId": 3555,
+                "caseId": null,
+                "consumerId": 1636,
+                "defaultInd": true,
+                "effectiveStartDate": "2021-10-04T14:59:02.000000+00:00",
+                "effectiveEndDate": null,
+                "createdOn": "2021-10-04T14:59:05.000000+00:00",
+                "createdBy": "152",
+                "updatedOn": "2021-10-04T15:05:22.000000+00:00",
+                "updatedBy": "152",
+                "valuePairIdCommPref": "CORRESPONDENCE_PAPERLESS"
+              }
+            ],
+            "consumerIdentificationNumber": [
+              {
+                "externalConsumerId": "",
+                "identificationNumberType": "CHIP",
+                "effectiveStartDate": "2019-05-08T14:05:31.799Z"
+              }
+            ],
+            "contacts": {
+              "address": {
+                "addrAttn": "",
+                "addrHouseCode": "",
+                "addressCity": "testCity",
+                "addressCounty": "testCountry",
+                "addressState": "TX",
+                "addressStreet1": "1234 Test street",
+                "addressStreet2": "",
+                "addressType": "Mailing",
+                "addressVerified": false,
+                "addressZip": "12345",
+                "addressZipFour": "4345",
+                "primaryIndicator": true,
+                "effectiveStartDate": "",
+                "effectiveEndDate": "",
+                "addressSource": "Consumer Reported"
+              },
+              "email": {
+                "emailAddress": "qe-automation@blcrm.com",
+                "emailType": "Primary",
+                "primaryIndicator": true,
+                "effectiveStartDate": "",
+                "effectiveEndDate": ""
+              },
+              "phone": {
+                "phoneNumber": "6789098767",
+                "phoneType": "Cell",
+                "smsEnabledInd": false,
+                "primaryIndicator": true,
+                "effectiveStartDate": "",
+                "effectiveEndDate": ""
+              }
+            },
+            "consumerConsent": [
+              {
+                "consentType": "Phone",
+                "dateOfConsent": "2021-10-31T15:59:27.657Z",
+                "howConsentProvided": "Email",
+                "optIn": true,
+                "effectiveStartDate": "2019-05-08T14:05:31.798Z",
+                "effectiveEndDate": null
+              },
+              {
+                "consentType": "Email",
+                "dateOfConsent": "2021-10-31T15:59:27.657Z",
+                "howConsentProvided": "Email",
+                "optIn": true,
+                "effectiveStartDate": "2019-05-08T14:05:31.798Z",
+                "effectiveEndDate": null
+              },
+              {
+                "consentType": "Mail",
+                "dateOfConsent": "2021-10-31T15:59:27.657Z",
+                "howConsentProvided": "Email",
+                "optIn": true,
+                "effectiveStartDate": "2019-05-08T14:05:31.798Z",
+                "effectiveEndDate": null
+              },
+              {
+                "consentType": "Text",
+                "dateOfConsent": "2021-10-31T15:59:27.657Z",
+                "howConsentProvided": "Email",
+                "optIn": true,
+                "effectiveStartDate": "2019-05-08T14:05:31.798Z",
+                "effectiveEndDate": null
+              },
+              {
+                "consentType": "Fax",
+                "dateOfConsent": "2021-10-31T15:59:27.657Z",
+                "howConsentProvided": "Email",
+                "optIn": true,
+                "effectiveStartDate": "2019-05-08T14:05:31.798Z",
+                "effectiveEndDate": null
+              }
+            ],
+            "eligibility": null,
+            "enrollment": null
+          }
+        ]
+      }
+    }
+  ]
+}

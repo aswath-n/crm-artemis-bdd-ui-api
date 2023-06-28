@@ -1,0 +1,14 @@
+{
+  "anchor": {
+    "caseId": 7347,
+    "regardingConsumerId": ["16723"]
+  },
+  "correspondenceDefinitionMMSCode": "000001",
+  "id": "",
+  "language": "English",
+  "recipients": null,
+  "requester": {
+    "requesterId": 2492,
+    "requesterType": "ConnectionPoint"
+  }
+}

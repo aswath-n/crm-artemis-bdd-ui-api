@@ -1,0 +1,15 @@
+{
+  "caseId": 1111,
+  "caseContacts": {
+    "address": {
+      "addressStreet1": "string",
+      "addressStreet2": "string",
+      "addressCity": "string",
+      "addressState": "string",
+      "addressCounty": "string",
+      "addressCountyCode": "string",
+      "addressZip": "string",
+      "addressZipFour": "string"
+    }
+  }
+}

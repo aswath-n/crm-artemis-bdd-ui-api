@@ -1,0 +1,17 @@
+{
+  "correspondenceId": 0,
+  "channelId": 0,
+  "channelType": "",
+  "projectChannelId": 0,
+  "projectId": 0,
+  "startDate": "",
+  "endDate": null,
+  "endReason": "",
+  "sendImmediately": false,
+  "mandatory": false,
+  "senderEmailId": "",
+  "createdBy": "Service Account1",
+  "channelDefinitionId": null,
+  "createdOn": 0,
+  "channelDefinitionElements": []
+}

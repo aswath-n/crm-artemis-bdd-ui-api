@@ -1,0 +1,128 @@
+{
+  "languageId": 1,
+  "defaultLanguageName": "English",
+  "createdDate": "2021-11-05T01:19:13.000000+00:00",
+  "createdBy": "System",
+  "updatedDate": 1636075700802,
+  "updatedBy": "System",
+  "projectChannel": [
+    {
+      "channelName": "Mail",
+      "channelId": 1,
+      "correspondenceSettingId": 1,
+      "projectId": 6203,
+      "projectChannelId": 194
+    },
+    {
+      "channelName": "Email",
+      "channelId": 2,
+      "correspondenceSettingId": 1,
+      "projectId": 6203,
+      "projectChannelId": 193
+    },
+    {
+      "channelName": "Text",
+      "channelId": 3,
+      "correspondenceSettingId": 1,
+      "projectId": 6203,
+      "projectChannelId": 190
+    },
+    {
+      "channelName": "Fax",
+      "channelId": 4,
+      "correspondenceSettingId": 1,
+      "projectId": 6203,
+      "projectChannelId": 267
+    },
+    {
+      "channelName": "Web Portal",
+      "channelId": 5,
+      "correspondenceSettingId": 1,
+      "projectId": 6203,
+      "projectChannelId": 234
+    },
+    {
+      "channelName": "Mobile App",
+      "channelId": 6,
+      "correspondenceSettingId": 1,
+      "projectId": 6203,
+      "projectChannelId": 269
+    },
+    {
+      "channelName": "Web Chat",
+      "channelId": 8,
+      "correspondenceSettingId": 1,
+      "projectId": 6203,
+      "projectChannelId": 278
+    }
+  ],
+  "vendorDetails": [
+    {
+      "vendorCompanyName": "random",
+      "vendorcontactName": "pPqtOoGcMVJogk2lgQUDio8BUPP7RXsy3HhQcUWb",
+      "vendorPhone": "8882224444",
+      "vendorEmail": "!#$%&'*+-/=?^_`{}~a1.b2@maersktesting123-a1.asdf.com",
+      "outboundFileFormat": "JSON DEFAULT",
+      "outboundCorrespondenceFileNamePrefix": "novel",
+      "vendorId": 1,
+      "correspondenceSettingId": 1
+    }
+  ],
+  "outboundSMTPDetails": [
+    {
+      "host": "",
+      "user": "",
+      "password": "",
+      "port": null,
+      "senderEmailAddress": "!#$%&'*+-/=?^_`{}~a1.b2@maersktesting123-a1.asdf.com",
+      "senderEmailName": "jimmy sender",
+      "smtpid": 1,
+      "correspondenceSettingId": 1,
+      "replyToEmailAddress": "!#$%^&*a1.b2@me-a1.asdf.com"
+    }
+  ],
+  "donotCombineRecipientsAtSameAddress": true,
+  "sendCorrespondenceToAdultConsumersRegarding": false,
+  "correspondenceSettingId": 1,
+  "projectLanguages": [
+    {
+      "languageName": "Italian",
+      "projectId": null,
+      "correspondenceSettingId": 1,
+      "projectLanguageId": null
+    },
+    {
+      "languageName": "Korean",
+      "projectId": null,
+      "correspondenceSettingId": 1,
+      "projectLanguageId": null
+    },
+    {
+      "languageName": "Aleut",
+      "projectId": null,
+      "correspondenceSettingId": 1,
+      "projectLanguageId": null
+    },
+    {
+      "languageName": "Spanish",
+      "projectId": null,
+      "correspondenceSettingId": 1,
+      "projectLanguageId": null
+    },
+    {
+      "languageName": "French",
+      "projectId": null,
+      "correspondenceSettingId": 1,
+      "projectLanguageId": null
+    }
+  ],
+  "projectId": 6203,
+  "outboundCorrespondenceEcmsDocumentType": "maersk Outbound Correspondence",
+  "outboundCorrespondenceTemplateEcmsDocumentType": "maersk Outbound Correspondence Template",
+  "customerServiceTTYNumber": "",
+  "customerServicePhoneNumber": "5554443333",
+  "customerServiceFaxNumber": "5554443333",
+  "customerServiceEmailAddress": "#$%^&*a1.b2@me-a1.asdf.com",
+  "customerServiceWebUrl": "1dom2-2.com",
+  "customerServiceMobileAppName": "xyz"
+}

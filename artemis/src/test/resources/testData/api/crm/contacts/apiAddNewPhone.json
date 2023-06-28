@@ -1,0 +1,18 @@
+{
+  "externalRefType": "case",
+  "externalRefId": 101,
+  "correlationId": "1134606402395",
+  "uiid": "79520396782",
+  "phone": {
+    "effectiveStartDate": "2018-11-01T04:00:00.000Z",
+    "associatedCaseMember": "qHOkCXWlSn kSpvfQykGK (3293)",
+    "comments": "test add two",
+    "phoneNumber": "5712341234",
+    "createdOn": "2019-02-21T14:36:30.308Z",
+    "createdBy": 180,
+    "effectiveEndDate": "2019-07-31T03:59:59.999Z",
+    "updatedOn": null,
+    "updatedBy": null,
+    "phoneType": "Cell"
+  }
+}

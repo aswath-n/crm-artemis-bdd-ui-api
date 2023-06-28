@@ -1,0 +1,101 @@
+{
+  "applicationId": null,
+  "applicationCycle": "New",
+  "createdBy": 152,
+  "createdOn": null,
+  "updatedBy": 152,
+  "updatedOn": null,
+  "applicationType": "Medical Assistance",
+  "applicationName": "Application for Medical Assistance",
+  "applicationSignatureDate": "2022-03-05",
+  "applicationSignatureExistsInd": false,
+  "channelId": "Mail",
+  "applicationReceivedDate": "2022-03-05",
+  "submittedInd": false,
+  "interactiveInd": false,
+  "applicationConsumers": [
+    {
+      "applicationConsumerEmail": [
+        {
+          "emailAddress": "Kavon.Stanton19@gmail.com",
+          "createdBy": 152,
+          "createdOn": null,
+          "updatedBy": 152,
+          "updatedOn": null
+        }
+      ],
+      "applicationConsumerPhone": [
+        {
+          "phoneNumber": 2499057994,
+          "phoneType": "faxNumber",
+          "primaryContactTypeInd": false,
+          "createdBy": 152,
+          "createdOn": null,
+          "updatedBy": 152,
+          "updatedOn": null
+        }
+      ],
+      "applicationConsumerAddress": [
+        {
+          "addressStreet1": "262 Schoen Shore",
+          "addressStreet2": "PO BOX 3234",
+          "addressCity": "Reston",
+          "addressState": "Virginia",
+          "addressCounty": "Fairfax",
+          "addressZip": "20190",
+          "addressType": "Mailing",
+          "createdBy": 152,
+          "createdOn": null,
+          "updatedBy": 152,
+          "updatedOn": null
+        }
+      ],
+      "consumerFirstName": "Rempel",
+      "consumerLastName": "Predovic",
+      "consumerMiddleName": null,
+      "consumerSuffix": null,
+      "notApplyingIndicator": false,
+      "consumerRoleType": "Primary Individual",
+      "createdBy": 152,
+      "createdOn": null,
+      "updatedBy": 152,
+      "updatedOn": null,
+      "dateOfBirth": "1998-10-28",
+      "expectedBabies": 1,
+      "expectedDueDate": null,
+      "externalConsumerId": null,
+      "externalConsumerIdType": null,
+      "genderCode": "Female",
+      "pregnancyInd": "true",
+      "spokenLanguage": "English",
+      "ssn": "806107425",
+      "writtenLanguage": "English",
+      "programs": [
+        {
+          "programId": null,
+          "programType": "Medicaid",
+          "eligibilityId": null,
+          "startDate": null,
+          "endDate": null,
+          "determinationDate": null,
+          "denialReasons": null,
+          "eligibilityStatus": null,
+          "createdOn": null,
+          "createdBy": "2492",
+          "updatedOn": null,
+          "updatedBy": "2492"
+        }
+      ],
+      "consumerOptInInformation": [
+        "Mail"
+      ]
+    }
+  ],
+  "applicationPriority": "Normal",
+  "externalApplicationId": null
+}
+
+
+
+
+

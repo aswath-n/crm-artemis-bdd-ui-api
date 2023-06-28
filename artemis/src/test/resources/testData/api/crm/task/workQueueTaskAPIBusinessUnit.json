@@ -1,0 +1,10 @@
+{
+  "businessUnits": [],
+  "taskTypes": [
+    {
+      "taskTypeId": null,
+      "includeEscalated": false,
+      "includeNonEscalated": true
+    }
+  ]
+}

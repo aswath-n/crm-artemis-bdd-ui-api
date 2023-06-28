@@ -1,0 +1,23 @@
+{
+  "applicationConsumerId": null,
+  "consumerFirstName": null,
+  "consumerLastName": null,
+  "consumerMiddleName": null,
+  "consumerRoleType": "Application Member",
+  "consumerSuffix": null,
+  "createdBy": "1066",
+  "createdOn": null,
+  "dateOfBirth": null,
+  "expectedBabies": null,
+  "expectedDueDate": null,
+  "externalConsumerId": null,
+  "externalConsumerIdType": null,
+  "notApplyingIndicator" :false,
+  "genderCode": null,
+  "pregnancyInd": null,
+  "programs": [
+  ],
+  "ssn": null,
+  "updatedBy": "1066",
+  "updatedOn": null
+}

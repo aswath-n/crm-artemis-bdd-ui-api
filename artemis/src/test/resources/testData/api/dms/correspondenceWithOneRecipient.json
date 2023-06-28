@@ -1,0 +1,45 @@
+{
+  "anchor": {
+    "caseId": 7347,
+    "regardingConsumerId": []
+  },
+  "correspondenceDefinitionMMSCode": "000001",
+  "id": "",
+  "language": "English",
+  "recipients": [
+    {
+      "notifications": [
+        {
+          "channelType": "Mail",
+          "channelDefinitionId": 377,
+          "language": "English",
+          "returnedDate": null,
+          "template": "143",
+          "version": "1",
+          "createdBy": 2492
+        }
+      ],
+      "recipientInfo": {
+        "consumerId":"17500",
+        "firstName": "Bruce",
+        "lastName": "Wayne",
+        "role": "Primary Individual",
+        "streetAddress": "123 KAJSDFLJ",
+        "streetAddionalLine1": "",
+        "city": "Herndon",
+        "state": "VA",
+        "zipcode": "20171",
+        "emailAddress": "",
+        "faxNumber": "",
+        "textNumber": ""
+      }
+    }
+  ],
+  "requester": {
+    "requesterId": 2492,
+    "requesterType": "ConnectionPoint"
+  },
+  "status": "",
+  "createdBy": 2492,
+  "statusMessage": ""
+}

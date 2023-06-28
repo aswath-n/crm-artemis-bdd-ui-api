@@ -1,0 +1,63 @@
+{
+  "ethnicityCode": "",
+  "effectiveStartDate": "2020-03-09T13:40:43.392Z",
+  "relationShip": "Child",
+  "preferredLanguage": "English",
+  "raceCode": "",
+  "consumerConsent": [
+    {
+      "optIn": false,
+      "effectiveStartDate": "",
+      "effectiveEndDate": null,
+      "howConsentProvided": "Phone",
+      "consentType": "Email"
+    },{
+      "optIn": false,
+      "effectiveStartDate": "",
+      "effectiveEndDate": null,
+      "howConsentProvided": "Phone",
+      "consentType": "Fax"
+    },{
+      "optIn": true,
+      "effectiveStartDate": "",
+      "effectiveEndDate": null,
+      "howConsentProvided": "Phone",
+      "consentType": "Mail"
+    },{
+      "optIn": true,
+      "effectiveStartDate": "",
+      "effectiveEndDate": null,
+      "howConsentProvided": "Phone",
+      "consentType": "Phone"
+    },{
+      "optIn": false,
+      "effectiveStartDate": "",
+      "effectiveEndDate": null,
+      "howConsentProvided": "Phone",
+      "consentType": "Text"
+    }],
+  "genderCode": "Female",
+  "consumerLastName": "KdJNfEPnTw",
+  "effectiveEndDate": null,
+  "caseId": 3351,
+  "ssnValidationAgency": "",
+  "consumerSuffix": "",
+  "consumerStatus": null,
+  "consumerFirstName": "ZHdWtmDdRK",
+  "usResidentStatusCode": "",
+  "consumerType": "Consumer",
+  "consumerRole": "Member",
+  "notBornInd": true,
+  "consumerMiddleName": "",
+  "correlationId": "",
+  "consumerSSN": "288617278",
+  "consumerDateOfBirth": "2020-03-02",
+  "uiid": "691743377808",
+  "correspondencePreference": [
+    {
+      "effectiveStartDate": "",
+      "effectiveEndDate": null,
+      "valuePairIdCommPref": null
+    }],
+  "ssnValidationCode": ""
+}

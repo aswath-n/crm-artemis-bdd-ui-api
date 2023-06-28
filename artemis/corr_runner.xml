@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="2" name="AUX SRE API Automation">
+    <test name="AUX SRE Suite Automated Test">
+        <classes>
+            <class name="com.maersk.crm.runners.AutomationRunner"/>
+        </classes>
+    </test>
+</suite>

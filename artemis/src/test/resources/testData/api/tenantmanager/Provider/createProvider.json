@@ -1,0 +1,221 @@
+{
+  "uiid": "766868787",
+  "correlationId": "84376587458",
+  "providers": [
+    {
+      "planCode": "84",
+      "planName": "AMERIGROUP COMMUNITY CARE",
+      "acceptNewPatientsInd": true,
+      "mcoId": "103",
+      "programTypeCd": "Medicaid",
+      "effectiveStartDate": "2021-01-05T09:39:04.000Z",
+      "effectiveEndDate": null,
+      "npi": null,
+      "stateProviderId": "003107043B",
+      "pcpFlag": "Y",
+      "genderCd": "F",
+      "sexLimitsCd": null,
+      "ageLowLimit": "0",
+      "ageHighLimit": "99",
+      "classificationCd": null,
+      "groupFlag": "1",
+      "groupName": null,
+      "groupId": "",
+      "firstName": "aswa",
+      "lastName": "HORN",
+      "nameSuffix": null,
+      "titleName": null,
+      "ssn": "255692970",
+      "fein": "581973570",
+      "emailAddress": null,
+      "middleName": "B",
+      "acceptObInd": null,
+      "handicappedAccesibleInd": true,
+      "reasonForChange": null,
+      "createdOn": "2021-01-05T09:39:04.000Z",
+      "createdBy": "2612",
+      "updatedOn": null,
+      "updatedBy": null,
+      "providerType": [
+        {
+          "providerTypeCd": "Medical",
+          "createdOn": "2021-01-05T09:39:04.000Z",
+          "createdBy": "2612",
+          "updatedOn": "2021-01-05T09:39:04.000Z",
+          "updatedBy": "2612"
+        }
+      ],
+      "providerHospitalAffilation": [
+        {
+          "hospitalName": null,
+          "effectiveStartDate": "2021-01-05T09:39:04.000Z",
+          "effectiveEndDate": null,
+          "createdOn": "2021-01-05T09:39:04.000Z",
+          "createdBy": "2612",
+          "updatedOn": "2021-01-05T09:39:04.000Z",
+          "updatedBy": "2612"
+        }
+      ],
+      "providerOfficeHours": [
+        {
+          "dayOfWeek": "1",
+          "openFrom": "09:00:00",
+          "closeAt": "17:00:00",
+          "createdOn": "2021-01-05T09:39:04.000Z",
+          "createdBy": "2612",
+          "updatedOn": "2021-01-05T09:39:04.000Z",
+          "updatedBy": "2612"
+        },
+        {
+          "dayOfWeek": "2",
+          "openFrom": "09:00:00",
+          "closeAt": "17:00:00",
+          "createdOn": "2021-01-05T09:39:04.000Z",
+          "createdBy": "2612",
+          "updatedOn": "2021-01-05T09:39:04.000Z",
+          "updatedBy": "2612"
+        },
+        {
+          "dayOfWeek": "3",
+          "openFrom": "09:00:00",
+          "closeAt": "17:00:00",
+          "createdOn": "2021-01-05T09:39:04.000Z",
+          "createdBy": "2612",
+          "updatedOn": "2021-01-05T09:39:04.000Z",
+          "updatedBy": "2612"
+        },
+        {
+          "dayOfWeek": "4",
+          "openFrom": "09:00:00",
+          "closeAt": "17:00:00",
+          "createdOn": "2021-01-05T09:39:04.000Z",
+          "createdBy": "2612",
+          "updatedOn": "2021-01-05T09:39:04.000Z",
+          "updatedBy": "2612"
+        },
+        {
+          "dayOfWeek": "5",
+          "openFrom": "09:00:00",
+          "closeAt": "17:00:00",
+          "createdOn": "2021-01-05T09:39:04.000Z",
+          "createdBy": "2612",
+          "updatedOn": "2021-01-05T09:39:04.000Z",
+          "updatedBy": "2612"
+        },
+        {
+          "dayOfWeek": "6",
+          "openFrom": null,
+          "closeAt": null,
+          "createdOn": "2021-01-05T09:39:04.000Z",
+          "createdBy": "2612",
+          "updatedOn": "2021-01-05T09:39:04.000Z",
+          "updatedBy": "2612"
+        },
+        {
+          "dayOfWeek": "7",
+          "openFrom": null,
+          "closeAt": null,
+          "createdOn": "2021-01-05T09:39:04.000Z",
+          "createdBy": "2612",
+          "updatedOn": "2021-01-05T09:39:04.000Z",
+          "updatedBy": "2612"
+        }
+      ],
+      "providerPanelLimit": [
+        {
+          "panelSize": null,
+          "enrolledCount": null,
+          "panelStatus": 1,
+          "holdCd": null,
+          "panelTypeCd": null,
+          "createdOn": "2021-01-05T09:39:04.000Z",
+          "createdBy": "2612",
+          "updatedOn": "2021-01-05T09:39:04.000Z",
+          "updatedBy": "2612"
+        }
+      ],
+      "providerAddress": [
+        {
+          "addressType": "Physical",
+          "addressLine1": "48 Hills Creek Rd",
+          "addressLine2": null,
+          "city": "Taylorsville",
+          "state": "GA",
+          "zipCode": "30178",
+          "countyCd": "008",
+          "effectiveStartDate": "2021-01-05T09:39:04.000Z",
+          "effectiveEndDate": null,
+          "createdOn": "2021-01-05T09:39:04.000Z",
+          "createdBy": "2612",
+          "updatedOn": "2021-01-05T09:39:04.000Z",
+          "updatedBy": "2612",
+          "phoneNumbers": [
+            {
+              "phoneNumber": "7704791986",
+              "faxNumber": "7706844603",
+              "phoneType": null,
+              "effectiveStartDate": "2021-01-05T09:39:04.000Z",
+              "effectiveEndDate": "2021-07-05T09:39:04.000Z",
+              "createdOn": "2021-01-05T09:39:04.000Z",
+              "createdBy": "2612",
+              "updatedOn": "2021-01-05T09:39:04.000Z",
+              "updatedBy": "2612"
+            }
+          ]
+        },
+        {
+          "addressType": "Mailing",
+          "addressLine1": "PO Box 1882",
+          "addressLine2": null,
+          "city": "Rome",
+          "state": "GA",
+          "zipCode": "301621882",
+          "countyCd": null,
+          "effectiveStartDate": "2021-01-05T09:39:04.000Z",
+          "effectiveEndDate": null,
+          "createdOn": "2021-01-05T09:39:04.000Z",
+          "createdBy": "2612",
+          "updatedOn": "2021-01-05T09:39:04.000Z",
+          "updatedBy": "2612",
+          "phoneNumbers": [
+            {
+              "phoneNumber": "7065093040",
+              "faxNumber": null,
+              "phoneType": null,
+              "effectiveStartDate": "2021-01-05T09:39:04.000Z",
+              "effectiveEndDate": null,
+              "createdOn": "2021-01-05T09:39:04.000Z",
+              "createdBy": "2612",
+              "updatedOn": "2021-01-05T09:39:04.000Z",
+              "updatedBy": "2612"
+            }
+          ]
+        }
+      ],
+      "providerLanguages": [
+        {
+          "languageTypeCd": "EN",
+          "providerSpeaksInd": true,
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2021-01-05T09:39:04.000Z",
+          "createdBy": "2612",
+          "updatedOn": "2021-01-05T09:39:04.000Z",
+          "updatedBy": "2612"
+        }
+      ],
+      "providerSpeciality": [
+        {
+          "specialityCd": "170",
+          "primarySpecialityInd": true,
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2021-01-05T09:39:04.000Z",
+          "createdBy": "2612",
+          "updatedOn": "2021-01-05T09:39:04.000Z",
+          "updatedBy": "2612"
+        }
+      ]
+    }
+  ]
+}

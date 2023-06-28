@@ -1,0 +1,14 @@
+{
+  "correlationId": "456456",
+  "createdBy": "2492",
+  "externalLinks": [],
+  "taskDetails": [
+    {
+      "selectionNumeric": "",
+      "selectionFieldName": ""
+    }
+  ],
+  "taskInfo": "Manual task creating from external links",
+  "taskTriggerDate": null,
+  "taskTypeId": 15350
+}

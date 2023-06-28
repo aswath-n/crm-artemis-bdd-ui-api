@@ -1,0 +1,11 @@
+src.test.java.com.maersk.crm.api_step_definitions
+src.test.java.com.maersk.crm.beans
+src.test.java.com.maersk.crm.pages
+src.test.java.com.maersk.crm.pages.crm
+src.test.java.com.maersk.crm.pages.tm
+src.test.java.com.maersk.crm.runners
+src.test.java.com.maersk.crm.step_definitions
+src.test.java.com.maersk.crm.utilities
+src.test.java.com.maersk.dms.beans.outboundCorrespondence
+src.test.java.com.maersk.dms.step_definitions
+src.test.java.com.maersk.dms.steps

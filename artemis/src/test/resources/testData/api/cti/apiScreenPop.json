@@ -1,0 +1,28 @@
+{
+  "callData": {
+    "SSN": 121533665,
+    "DOB": "11/16/1994",
+    "id": "DAL20170711090052_maxilces_DX17_041",
+    "IVR_EXIT_POINT": "",
+    "requesttime": "",
+    "MAIN_MENU_SELECTION": ""
+  },
+  "ivrstatus": "",
+  "messageId": "",
+  "connectdn": "1",
+  "sessionId": "1223123132",
+  "metaData": {
+    "CDN": "",
+    "ANI": "7082709847",
+    "ConnectTime": "1499778202991",
+    "DeliveryTime": "1499778202991",
+    "callID": "10505",
+    "CallType": "INBOUND",
+    "QueueTime": "",
+    "DNIS": "",
+    "IvrRespTime": ""
+  },
+  "type": "Screen Pop",
+  "ciscoAgentId": "1111115",
+  "tenantId": "LA0001"
+}

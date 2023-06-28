@@ -1,0 +1,16 @@
+{
+  "anchor": {
+    "regardingConsumerId": []
+  },
+  "requester": {
+    "requesterId": 1066,
+    "requesterType": "ConnectionPoint"
+  },
+  "recipients": [
+    {
+      "notifications": [],
+      "recipientInfo": {}
+    }
+  ],
+  "bodyData": {}
+}

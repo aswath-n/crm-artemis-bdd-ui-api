@@ -1,0 +1,42 @@
+{
+  "anchor": {
+    "caseId": 802,
+    "regardingConsumerId": []
+  },
+  "correspondenceDefinitionMMSCode": "ALLCHANNEL",
+  "id": "",
+  "language": "English",
+  "recipients": [
+    {
+      "notifications": [
+        {
+          "channelType": "Email",
+          "channelDefinitionId": 20,
+          "language": "English",
+          "returnedDate": null,
+          "template": "27",
+          "version": "1",
+          "createdBy": 1066,
+          "createdDatetime": "2021-10-15T13:01:00.870Z"
+        }
+      ],
+      "recipientInfo": {
+        "consumerId": "1334",
+        "firstName": "RgjxpMt",
+        "lastName": "vSMjgKV",
+        "role": "Primary Individual",
+        "emailAddress": "qe-automation@blcrm.com",
+        "faxNumber": "6789098767",
+        "textNumber": "6789098767"
+      }
+    }
+  ],
+  "requester": {
+    "requesterId": 1066,
+    "requesterType": "ConnectionPoint"
+  },
+  "status": "",
+  "createdBy": 1066,
+  "statusMessage": "",
+  "bodyData": {}
+}

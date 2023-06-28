@@ -1,0 +1,52 @@
+{
+  "payload": {
+    "taskType": {
+      "startDate": "2019-06-26T05:00:00.469Z",
+      "priority": "3",
+      "uiPageId": 161,
+      "taskTypeId": "",
+      "createdOn": 1561578889015,
+      "createdBy": "Service Account1",
+      "dueInDays": "5",
+      "updatedOn": null,
+      "updatedBy": null,
+      "serviceRequestInd": false,
+      "taskTypeName": "task 1",
+      "taskTypeDesc": "",
+      "endDate": null,
+      "workingDayFlag": 0,
+      "correlationId": "1300516592898",
+      "uiid": "190034312330",
+      "projectId": 431,
+      "srCategory": null
+    },
+    "templates": [
+      {
+        "startDate": "2019-06-26T05:00:00.469Z",
+        "taskTemplateId": 35,
+        "createdOn": 1561578889015,
+        "createdBy": "Service AccountOne",
+        "endDate": null,
+        "correlationId": "258923010425",
+        "uiid": "1069183521265",
+        "updatedBy": null,
+        "updatedOn": null
+      }],
+    "permissions": [
+      {
+        "taskTypePermissionId": null,
+        "startDate": "2020-03-19T15:54:55.734Z",
+        "rolePermissionId": 623,
+        "createdOn": "2020-03-19T15:54:55.734Z",
+        "createdBy": "Service AccountOne",
+        "permissionGroupType": "ROUTE_NON_ESCALATED_TASK",
+        "permissionGroupName": "Csr",
+        "updatedOn": null,
+        "updatedBy": null,
+        "endDate": "2020-03-19T15:54:55.734Z",
+        "correlationId": "1345367124548",
+        "uiid": "717440241318"
+      }]
+  },
+  "eventType": "create-task-type"
+}

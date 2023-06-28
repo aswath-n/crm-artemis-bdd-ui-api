@@ -1,0 +1,20 @@
+{
+  "batchNumber": null,
+  "caseId": "",
+  "channel": "",
+  "consumerId": "",
+  "dateReceivedMax": "",
+  "dateReceivedMin": "",
+  "fileExtension": null,
+  "fromEmailAddress": "",
+  "fromName": "",
+  "fromPhoneNumber": "",
+  "notificationId": null,
+  "origin": "",
+  "originItemId": "",
+  "originSetId": "",
+  "setId": "",
+  "status": "",
+  "type": "",
+  "id": ""
+}

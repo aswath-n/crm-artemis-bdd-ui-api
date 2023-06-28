@@ -1,0 +1,30 @@
+[{
+  "channel": "SYSTEM_INTEGRATION",
+  "consumerId": 13728,
+  "endDate": "2021-01-31",
+  "enrollmentType": "MEDICAL",
+  "planCode": "84",
+  "planEndDateReason": "PLAN_HAS_TERMINATED",
+  "planId": 7,
+  "programTypeCode": "MEDICAID",
+  "serviceRegionCode": "East",
+  "startDate": "2021-01-01",
+  "subProgramTypeCode": "MEDICAIDGF",
+  "txnStatus": "DISENROLL_SUBMITTED",
+  "status":"DISENROLL_SUBMITTED"
+},
+  {
+    "channel": null,
+    "consumerId": 13728,
+    "endDate": null,
+    "enrollmentType": "MEDICAL",
+    "planCode": "87",
+    "planId": 10,
+    "programTypeCode": "MEDICAID",
+    "serviceRegionCode": "East",
+    "startDate": "2021-02-01",
+    "subProgramTypeCode": "MEDICAIDGF",
+    "txnStatus": "SUBMITTED_TO_STATE",
+    "status":"SUBMITTED_TO_STATE"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "bodyDataSource": "",
+  "correspondenceId": "",
+  "correspondenceName": "",
+  "correspondenceRequiredKeys": [
+    {
+      "requiredkeyid": 1,
+      "requiredKeyValue": "Case ID"
+    }
+  ],
+  "createdBy": "2662",
+  "createdDatetime": "2020-08-31T04:00:00.000Z",
+  "description": "description",
+  "endDate": null,
+  "inboundCorrespondenceDefinitionId": 38,
+  "mmsId": "",
+  "projectId": 6203,
+  "reasonForEnding": "",
+  "startDate": "2020-08-31T04:00:00.000Z",
+  "stateReferenceId": "",
+  "updatedBy": null,
+  "updatedDatetime": null,
+  "userMayRequest": false
+}

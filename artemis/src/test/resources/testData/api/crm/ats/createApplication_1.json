@@ -1,0 +1,54 @@
+{
+  "applicationCycle": "New",
+  "applicationId": null,
+  "applicationType": null,
+  "applicationSignatureDate": null,
+  "applicationSignatureExistsInd": false,
+  "channelId": "Web",
+  "createdBy": "1066",
+  "createdOn": null,
+  "applicationReceivedDate": null,
+  "updatedBy": "1066",
+  "updatedOn": null,
+  "validApplicationInd": null,
+  "interactiveInd": null,
+  "submittedInd": false,
+  "applicationDeadlineDate": null,
+  "externalApplicationId": null,
+  "applicationConsumers": [
+    {
+      "applicationConsumerAddress": [
+      ],
+      "applicationConsumerEmail": [
+      ],
+      "applicationConsumerPhone": [
+      ],
+      "programs": [
+      ],
+      "consumerOptInInformation": [
+      ],
+      "consumerFirstName": null,
+      "consumerLastName": null,
+      "consumerMiddleName": null,
+      "consumerSuffix": null,
+      "consumerRoleType": "Primary Individual",
+      "dateOfBirth": null,
+      "ssn": null,
+      "genderCode": null,
+      "pregnancyInd": null,
+      "expectedBabies": null,
+      "expectedDueDate": null,
+      "writtenLanguage": "English",
+      "spokenLanguage": "English",
+      "externalConsumerId": null,
+      "externalConsumerIdType": null,
+      "effectiveEndDate": null,
+      "effectiveStartDate": null,
+      "createdBy": "1066",
+      "createdOn": null,
+      "updatedBy": "1066",
+      "notApplyingIndicator" :false,
+      "updatedOn": null
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "externalRefType": "case",
+  "externalRefId": 101,
+  "correlationId": null,
+  "uiid": null,
+  "phone": {
+    "effectiveStartDate": "2019-02-01T05:00:00.000Z",
+    "associatedCaseMember": "Auth Rep (4402)",
+    "comments": "Call M-F after 6pm CST",
+    "phoneNumber": "8121289121",
+    "effectiveEndDate": "2019-02-16T04:59:59.999Z",
+    "phoneId": 234320,
+    "updatedOn": "2019-02-19T14:54:27.591Z",
+    "updatedBy": 180,
+    "phoneType": "Work"
+  }
+}

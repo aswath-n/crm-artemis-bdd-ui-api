@@ -1,0 +1,9 @@
+{
+  "referenceType":"consumer",
+  "referenceId": "123",
+  "startDate": "2022-06-10",
+  "endDate": "2022-06-12",
+  "size": 1,
+  "from": 1,
+  "status":"complete"
+}

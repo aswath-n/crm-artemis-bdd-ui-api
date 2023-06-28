@@ -1,0 +1,260 @@
+{
+  "uiid": "766868787",
+  "correlationId": "aeb66737d37cac958fe772e12c5c16dd",
+  "providers": [
+    {
+      "planCode": "044733300",
+      "planName": "MEDSTAR FAMILY CHOICE",
+      "acceptNewPatientsInd": false,
+      "mcoId": "1234567",
+      "programTypeCd": "Medicaid",
+      "subProgramTypeCd": "DCHF",
+      "effectiveStartDate": "2022-02-07T09:24:19.000Z",
+      "effectiveEndDate": null,
+      "npi": "2236405966",
+      "stateProviderId": "670684247C",
+      "pcpFlag": "Y",
+      "genderCd": null,
+      "sexLimitsCd": "F",
+      "ageLowLimit": 0,
+      "ageHighLimit": 60,
+      "classificationCd": null,
+      "groupFlag": "991334678C",
+      "groupId": "100003920H",
+      "allWomanInd": true,
+      "groupName": "WOMENS HEALTH NEW CENTER",
+      "firstName": "Mckenna",
+      "lastName": "Grace",
+      "nameSuffix": null,
+      "titleName": null,
+      "ssn": "382574943",
+      "fein": null,
+      "emailAddress": null,
+      "middleName": "A",
+      "acceptObInd": null,
+      "handicappedAccesibleInd": false,
+      "reasonForChange": "01",
+      "createdOn": "2021-12-17T09:24:19.000Z",
+      "createdBy": "2964",
+      "updatedOn": null,
+      "updatedBy": null,
+      "providerType": [
+        {
+          "providerTypeCd": "D",
+          "createdOn": "2021-12-17T09:24:19.000Z",
+          "createdBy": "2964",
+          "updatedOn": "2021-12-17T09:24:19.000Z",
+          "updatedBy": "2964"
+        }
+      ],
+      "providerHospitalAffilation": [
+        {
+          "hospitalName": "Columbia Hospital",
+          "effectiveStartDate": "2022-01-01T09:24:19.000Z",
+          "effectiveEndDate": null,
+          "createdOn": "2022-01-01T09:24:19.000Z",
+          "createdBy": "2964",
+          "updatedOn": "2022-01-01T09:24:19.000Z",
+          "updatedBy": "2964"
+        },
+        {
+          "hospitalName": "DC General Hospital",
+          "effectiveStartDate": "2022-01-01T09:24:19.000Z",
+          "effectiveEndDate": null,
+          "createdOn": "2022-01-01T09:24:19.000Z",
+          "createdBy": "2964",
+          "updatedOn": "2022-01-01T09:24:19.000Z",
+          "updatedBy": "2964"
+        },
+        {
+          "hospitalName": "Test Hospital",
+          "effectiveStartDate": "2022-01-01T09:24:19.000Z",
+          "effectiveEndDate": null,
+          "createdOn": "2022-01-01T09:24:19.000Z",
+          "createdBy": "2964",
+          "updatedOn": "2022-01-01T09:24:19.000Z",
+          "updatedBy": "2964"
+        }
+      ],
+      "providerOfficeHours": [
+        {
+          "dayOfWeek": "1",
+          "openFrom": "03:30:00",
+          "closeAt": "11:30:00",
+          "createdOn": "2022-01-01T09:24:19.000Z",
+          "createdBy": "242",
+          "updatedOn": "2022-01-01T09:24:19.000Z",
+          "updatedBy": "242"
+        },
+        {
+          "dayOfWeek": "2",
+          "openFrom": "03:30:00",
+          "closeAt": "11:30:00",
+          "createdOn": "2022-01-01T09:24:19.000Z",
+          "createdBy": "242",
+          "updatedOn": "2022-01-01T09:24:19.000Z",
+          "updatedBy": "242"
+        },
+        {
+          "dayOfWeek": "3",
+          "openFrom": "03:30:00",
+          "closeAt": "11:30:00",
+          "createdOn": "2022-01-01T09:24:19.000Z",
+          "createdBy": "242",
+          "updatedOn": "2022-01-01T09:24:19.000Z",
+          "updatedBy": "242"
+        },
+        {
+          "dayOfWeek": "4",
+          "openFrom": "03:30:00",
+          "closeAt": "11:30:00",
+          "createdOn": "2022-01-01T09:24:19.000Z",
+          "createdBy": "242",
+          "updatedOn": "2022-01-01T09:24:19.000Z",
+          "updatedBy": "242"
+        },
+        {
+          "dayOfWeek": "5",
+          "openFrom": "03:30:00",
+          "closeAt": "11:30:00",
+          "createdOn": "2022-01-01T09:24:19.000Z",
+          "createdBy": "242",
+          "updatedOn": "2022-01-01T09:24:19.000Z",
+          "updatedBy": "242"
+        },
+        {
+          "dayOfWeek": "6",
+          "openFrom": "06:30:00",
+          "closeAt": "12:30:00",
+          "createdOn": "2022-01-01T09:24:19.000Z",
+          "createdBy": "242",
+          "updatedOn": "2022-01-01T09:24:19.000Z",
+          "updatedBy": "242"
+        },
+        {
+          "dayOfWeek": "7",
+          "openFrom": "06:30:00",
+          "closeAt": "12:30:00",
+          "createdOn": "2022-01-01T09:24:19.000Z",
+          "createdBy": "242",
+          "updatedOn": "2022-01-01T09:24:19.000Z",
+          "updatedBy": "242"
+        }
+      ],
+      "providerPanelLimit": [
+        {
+          "panelSize": 150,
+          "enrolledCount": 76,
+          "panelStatus": 1,
+          "holdCd": null,
+          "panelTypeCd": null,
+          "createdOn": "2022-01-01T09:24:19.000Z",
+          "createdBy": "242",
+          "updatedOn": "2022-01-01T09:24:19.000Z",
+          "updatedBy": "242"
+        }
+      ],
+      "providerAddress": [
+        {
+          "addressType": "Physical",
+          "addressLine1": "1201 S Miller St",
+          "addressLine2": null,
+          "city": "Wenatchee",
+          "state": "WA",
+          "zipCode": "98801",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2022-01-01T09:24:19.000Z",
+          "createdBy": "242",
+          "updatedOn": "2022-01-01T09:24:19.000Z",
+          "updatedBy": "242",
+          "phoneNumbers": [
+            {
+              "phoneNumber": "(765)662-3971",
+              "faxNumber": "(765)662-7480",
+              "phoneType": "Tel",
+              "effectiveStartDate": "2022-01-01T09:24:19.000Z",
+              "effectiveEndDate": "2023-01-01T09:24:19.000Z",
+              "createdOn": "2021-12-17T09:24:19.000Z",
+              "createdBy": "2964",
+              "updatedOn": "2021-12-17T09:24:19.000Z",
+              "updatedBy": "2964"
+            }
+          ]
+        },
+        {
+          "addressType": "Mailing",
+          "addressLine1": null,
+          "addressLine2": null,
+          "city": null,
+          "state": null,
+          "zipCode": null,
+          "countyCd": null,
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2021-12-17T09:24:19.000Z",
+          "createdBy": "2964",
+          "updatedOn": "2021-12-17T09:24:19.000Z",
+          "updatedBy": "2964",
+          "phoneNumbers": [
+            {
+              "phoneNumber": null,
+              "faxNumber": null,
+              "phoneType": null,
+              "effectiveStartDate": null,
+              "effectiveEndDate": null,
+              "createdOn": "2021-12-17T09:24:19.000Z",
+              "createdBy": "2964",
+              "updatedOn": "2021-12-17T09:24:19.000Z",
+              "updatedBy": "2964"
+            }
+          ]
+        }
+      ],
+      "providerLanguages": [
+        {
+          "languageTypeCd": "ENG",
+          "providerSpeaksInd": false,
+          "effectiveStartDate": "2022-01-01T09:24:19.000Z",
+          "effectiveEndDate": null,
+          "createdOn": "2021-12-17T09:24:19.000Z",
+          "createdBy": "2964",
+          "updatedOn": "2021-12-17T09:24:19.000Z",
+          "updatedBy": "2964"
+        },
+        {
+          "languageTypeCd": "ARA",
+          "providerSpeaksInd": true,
+          "effectiveStartDate": "2022-01-01T09:24:19.000Z",
+          "effectiveEndDate": null,
+          "createdOn": "2021-12-17T09:24:19.000Z",
+          "createdBy": "2964",
+          "updatedOn": "2021-12-17T09:24:19.000Z",
+          "updatedBy": "2964"
+        }
+      ],
+      "providerSpeciality": [
+        {
+          "specialityCd": "200",
+          "primarySpecialityInd": false,
+          "effectiveStartDate": "2022-01-01T09:24:19.000Z",
+          "effectiveEndDate": null,
+          "createdOn": "2021-12-17T09:24:19.000Z",
+          "createdBy": "2964",
+          "updatedOn": "2021-12-17T09:24:19.000Z",
+          "updatedBy": "2964"
+        },
+        {
+          "specialityCd": "235",
+          "primarySpecialityInd": true,
+          "effectiveStartDate": "2022-01-01T09:24:19.000Z",
+          "effectiveEndDate": null,
+          "createdOn": "2021-12-17T09:24:19.000Z",
+          "createdBy": "2964",
+          "updatedOn": "2021-12-17T09:24:19.000Z",
+          "updatedBy": "2964"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+ "eventType": "create-task-template",
+ "payload": {
+  "correlationId": "1260071407285",
+  "createdBy": "Service AccountOne",
+  "createdOn": "2020-02-25T17:21:45.743Z",
+  "projectId": 5204,
+  "uiid": "352968009691",
+  "correlationId": "936936776065",
+  "taskTemplateId": "",
+  "templateName": "sdsbj",
+  "templateDescription": "scsjkcsh",
+  "createdBy": "2662",
+  "createdOn": "2022-10-28T05:57:53.768Z",
+  "projectId": 8618,
+  "taskFieldVO": [
+   {
+    "displayName": "Assignee",
+    "isRequired": false,
+    "taskFieldKey": "assignee"
+   },
+   {
+    "displayName": "Created By",
+    "isRequired": false,
+    "taskFieldKey": "createdBy"
+   },
+   {
+    "displayName": "Created On",
+    "isRequired": false,
+    "taskFieldKey": "createdOn"
+   },
+   {
+    "displayName": "Due Date",
+    "isRequired": false,
+    "taskFieldKey": "dueDate"
+   },
+   {
+    "displayName": "Due In",
+    "isRequired": false,
+    "taskFieldKey": "dueIn"
+   },
+   {
+    "displayName": "Priority",
+    "isRequired": false,
+    "taskFieldKey": "priority"
+   },
+   {
+    "displayName": "Status",
+    "isRequired": false,
+    "taskFieldKey": "status"
+   },
+   {
+    "displayName": "Status Date",
+    "isRequired": false,
+    "taskFieldKey": "statusDate"
+   },
+   {
+    "displayName": "Task ID",
+    "isRequired": false,
+    "taskFieldKey": "taskId"
+   },
+   {
+    "displayName": "Task Info",
+    "isRequired": false,
+    "taskFieldKey": "taskInfo"
+   },
+   {
+    "displayName": "Task Type",
+    "isRequired": false,
+    "taskFieldKey": "taskType"
+   },
+   {
+    "displayName": "Abcd",
+    "isRequired": false,
+    "taskFieldKey": "abcd",
+    "fieldOrder": 1
+   },
+   {
+    "displayName": "Xyz",
+    "isRequired": false,
+    "taskFieldKey": "xyz",
+    "fieldOrder": 2
+   }
+  ],
+  "versionId": 1
+ }
+}

@@ -1,0 +1,17 @@
+{
+  "planSearch": {
+    "stateWide": false,
+    "planName": "ANTHEM",
+    "planCode": "",
+    "serviceRegion": "",
+    "programType": "",
+    "subProgramTypes": [],
+    "countyCode": "",
+    "zipCode": "",
+    "sdaId": null,
+    "planProviderCd": "",
+    "planEnrollmentStartDate": ""
+  },
+  "from": 0,
+  "size": 100
+}

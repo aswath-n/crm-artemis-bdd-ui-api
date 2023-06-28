@@ -1,0 +1,48 @@
+{
+  "transactionType": "section",
+  "sectionPayload": [
+    {
+      "key": "demographicCaseMember",
+      "fields": [],
+      "transactionType": "section",
+      "sectionId": 303,
+      "pageId": 61,
+      "createdOn": null,
+      "createdBy": null,
+      "updatedOn": null,
+      "updatedBy": null,
+      "grids": [],
+      "labels": [
+        {
+          "sectionId": 303,
+          "fieldId": null,
+          "languageCode": "english",
+          "createdOn": null,
+          "createdBy": null,
+          "updatedOn": null,
+          "updatedBy": null,
+          "value": "CASE MEMBERS",
+          "displayLabelId": 2376
+        }
+      ],
+      "permissions": [
+        {
+          "effectiveStartDate": null,
+          "noPermission": false,
+          "applyMask": true,
+          "effectiveEndDate": null,
+          "write": false,
+          "permissionGroupId": 62,
+          "objectType": "section",
+          "objectId": 303,
+          "read": true
+        }
+      ],
+      "correlationId": null,
+      "uiid": null,
+      "icon": null
+    }
+  ],
+  "projectId": 99,
+  "roleId": 546
+}

@@ -1,0 +1,16 @@
+{
+  "uiid": "352309434188",
+  "correlationId": "352271946296",
+  "externalLinkPayload": {
+    "createdBy": 352,
+    "createdOn": "2020-10-08T14:40:46.859Z",
+    "updatedOn": "2020-10-08T14:40:46.859Z",
+    "updatedBy": 352,
+    "internalId": "",
+    "externalId": 7317,
+    "internalRefType": "contact_record",
+    "externalRefType": "case",
+    "effectiveEndDate": null,
+    "effectiveStartDate": "2020-10-08T14:40:46.859Z"
+  }
+}

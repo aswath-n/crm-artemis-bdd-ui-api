@@ -1,0 +1,14 @@
+{
+  "teamUserVO": [
+    {
+      "effectiveStartDate": "2020-02-27",
+      "createdOn": "2020-02-27T14:17:52.654Z",
+      "createdBy": 98,
+      "updatedOn": null,
+      "updatedBy": null,
+      "userId": 1586,
+      "teamId": 2433,
+      "supervisorFlag": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+ "firstName": "",
+ "userProjectRoleVOList": [
+  {
+   "projectRole": [
+    {
+     "startDate": "2019-02-21T05:59:59.999Z",
+     "roleName": "Qa",
+     "roleDesc": "",
+     "projectRoleId": 298,
+     "isDefault": true,
+     "endDate": "",
+     "projectId": 1
+    }]
+  }],
+ "maxId": "",
+ "lastName": "",
+ "ismaerskInternalEmployee": "No",
+ "email": "",
+ "user": {
+  "requirePHIAccess": "No",
+  "startDate": "",
+  "userStatus": "ACTIVE",
+  "accountType": "Individual - maersk",
+  "overrideAuthorization": "No",
+  "endDate": "",
+  "reasonPIIAccess": "",
+  "accountAuthorizationdate": "",
+  "requirePIIAccess": "No",
+  "overrideAuthorizationReason": "",
+  "projectId": 0,
+  "accountAuthorization": "",
+  "reasonPHIAccess": ""
+ },
+ "middleName": ""
+}

@@ -1,0 +1,43 @@
+{
+  "consumerId": 30570,
+  "enrollments": [
+    {
+      "consumerId": 30570,
+      "aidCategoryCode": "string",
+      "anniversaryDate": "2020-10-08",
+      "autoAssignIndicator": "A",
+      "correlationId": "",
+      "createdOn": "2019-09-04T09:27:30.257Z",
+      "endDate": "2020-11-30T14:20:11.011Z",
+      "enrollmentProviders": null,
+      "enrollmentType": "MEDICAL",
+      "lockInEndDate": "2019-09-04T09:27:30.257Z",
+      "lockInExemptionReason": "string",
+      "lockInStartDate": "2019-09-04T09:27:30.257Z",
+      "lockInStatusCode": "string",
+      "openEnrollmentEndDate": null,
+      "openEnrollmentStartDate": null,
+      "openEnrollmentStatus": null,
+      "planCode": "86",
+      "planEndDateReason": "string",
+      "planId": "1945",
+      "programTypeCode": "MEDICAID",
+      "reinstatementDate": "2019-09-04T09:27:30.257Z",
+      "reinstatementIndicator": "A",
+      "retroactiveDate": "2019-09-04T09:27:30.257Z",
+      "retroactiveIndicator": "A",
+      "riskCode": "A",
+      "serviceRegionCode": "string",
+      "specialNeedFlag": "string",
+      "startDate": "2020-11-01T14:20:11.011Z",
+      "subProgramTypeCode": "MEDICAIDGF",
+      "uiid": "454374343",
+      "waiverCode": "A",
+      "selectionReason": null,
+      "txnStatus": "Accepted",
+      "rejectionReason":"Consumer is not eligible"
+    }
+  ],
+  "recordId": 16,
+  "requestedBy": 2893
+}

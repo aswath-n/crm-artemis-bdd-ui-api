@@ -1,0 +1,15 @@
+[
+  {
+    "recordId": 21,
+    "consumerId": 1,
+    "correlationId": "999999567xyz",
+    "otherEnrollmentSegments": [
+      {
+        "genericFieldText1": "C",
+        "segmentTypeCode": "OPEN_ENROLLMENT",
+        "uiid": null,
+        "correlationId": null
+      }
+    ]
+  }
+]

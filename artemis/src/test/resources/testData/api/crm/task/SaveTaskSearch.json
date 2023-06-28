@@ -1,0 +1,31 @@
+{
+  "taskSearchName": "",
+  "taskSearchParam": {
+    "taskId": "",
+    "taskType": null,
+    "statusDate": null,
+    "dueDate": null,
+    "taskStatus": [],
+    "searchCase": "Internal",
+    "searchConsumer": "Internal",
+    "caseId": null,
+    "consumerId": null,
+    "consumerFirstName": null,
+    "consumerLastName": null,
+    "source": [],
+    "assignee": null,
+    "createdBy": null,
+    "defaultPriority": [],
+    "savedSearch": null,
+    "staffAssignedTo": null,
+    "taskSearchName": null,
+    "taskTypeId": [],
+    "defaultDueDate": null,
+    "assigneeBusinessUnit": null,
+    "assigneeTeam": null,
+    "userRole": null,
+    "createdOn": null
+  },
+  "createdOn": "2020-08-25T11:22:25.274Z",
+  "userId": 2492
+}

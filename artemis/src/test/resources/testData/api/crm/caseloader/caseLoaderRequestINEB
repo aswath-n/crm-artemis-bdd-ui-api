@@ -1,0 +1,69 @@
+{
+    "caseLoaderRequest": [
+        {
+            "case": {
+                "caseIdentificationNumber": 32452345,
+                "caseIdentificationNumberType": "State",
+                "caseStatus": "Active",
+                "caseType": "Member",
+                "portfolioIdentificationNo": null,
+                "programName": "crm",
+                "subProgramName": "",
+                "needTranslatorInd": "true",
+                "jobId": "",
+                "correlationId": "1",
+                "requestedBy": "2492",
+                "consumers": [
+                    {
+                        "consumerDateOfBirth": "1955-01-01",
+                        "consumerFirstName": "Jefrfl",
+                        "consumerLastName": "Consumer",
+                        "consumerMiddleName": "",
+                        "consumerRole": "Member",
+                        "consumerSSN": "988866432",
+                        "consumerPrefix": "",
+                        "consumerSuffix": "",
+                        "consumerType": "Consumer",
+                        "correlationId": "4562882",
+                        "dateOfDeath": null,
+                        "dateOfDeathNotifiedBy": "Anonimus",
+                        "dateOfDeathNotifiedDate": "2022-01-01T14:05:31.799Z",
+                        "dateOfSsnValidation": "2021-01-01T14:05:31.799Z",
+                        "effectiveEndDate": null,
+                        "effectiveStartDate": "2021-01-01T14:05:31.799Z",
+                        "ethnicityCode": "",
+                        "aiNa": "",
+                        "genderCode": "Female",
+                        "mergeReason": "",
+                        "raceCode": null,
+                        "relationShip": "",
+                        "ssnValidationAgency": "",
+                        "ssnValidationCode": "",
+                        "uiid": "",
+                        "citizenship": "",
+                        "usResidentStatusCode": "",
+                        "pregnancyInd": "",
+                        "pregnancyDueDate": "",
+                        "receiveCorrespondence": "Yes",
+                        "communicationPreferences": null,
+                        "consumerIdentificationNumber": [
+                            {
+                                "externalConsumerId": "xcom.maersk.crm.utilities.ApiTestDataUtil@e50a1b9",
+                                "identificationNumberType": "Medicaid",
+                                "effectiveStartDate": "2021-01-01T14:05:31.799Z"
+                            }
+                        ],
+                        "contacts": {
+                            "address": null,
+                            "email": null,
+                            "phone": null
+                        },
+                        "consumerConsent": null,
+                        "eligibility": null,
+                        "enrollment": null
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+  "anchor": {
+    "projectId": 91,
+    "regardingConsumerId": [
+      "88"
+    ]
+  },
+  "correspondenceDefinitionMMSCode": "25376",
+  "language": null,
+  "recipients": [
+    {
+      "notifications": [
+        {
+          "channelType": "Mail",
+          "language":"English"
+        }
+      ],
+      "recipientInfo": {
+        "consumerId": "88",
+        "firstName": "Gerard",
+        "lastName": "Aufderhar",
+        "role": "Primary Individual",
+        "streetAddress": "37580 Hegmann Islands",
+        "streetAddionalLine1": "Apt 1",
+        "city": "Herndon",
+        "state": "VA",
+        "zipcode": "20171",
+        "emailAddress": "kjasd@joiajsdf.com",
+        "faxNumber": "5555555555",
+        "textNumber": "4444444444"
+      }
+    }
+  ],
+  "requester": {
+    "requesterId": 2492,
+    "requesterType": "ConnectionPoint"
+  },
+  "bodyData":{
+    "LIST":["item 1", "item 2"],
+    "firstName":"John",
+    "lastName": "smith",
+    "streetAddress":"213 main st",
+    "city": "burke",
+    "state":"VA",
+    "zip":22030,
+    "fromLastName":"Jerry",
+    "fromFirstName":"Garcia",
+    "date":"2021-09-19",
+    "box": true
+  }
+}

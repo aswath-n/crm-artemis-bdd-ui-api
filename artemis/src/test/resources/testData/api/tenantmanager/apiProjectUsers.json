@@ -1,0 +1,11 @@
+{
+  "firstName": "Service",
+  "maxId": "Scv_mars_user_1",
+  "lastName": "Account1",
+  "email": "ServiceAccount1@email.com",
+  "user": {
+    "userStatus": "ACTIVE",
+    "accountType": "Individual - maersk",
+    "projectId": 2706
+  }
+}

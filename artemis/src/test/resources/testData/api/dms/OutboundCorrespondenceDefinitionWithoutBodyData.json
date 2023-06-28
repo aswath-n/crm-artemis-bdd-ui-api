@@ -1,0 +1,21 @@
+{
+  "correspondenceId": "",
+  "mmsId": "",
+  "correspondenceName": "",
+  "description": "",
+  "stateReferenceId": "",
+  "userMayRequest": true,
+  "reasonForEnding": "",
+  "createdBy": "144",
+  "createdDatetime": "2021-09-27T19:35:36.000+00:00",
+  "projectId": 92,
+  "startDate": "2021-09-27T04:00:00.000Z",
+  "endDate": null,
+  "updatedBy": "144",
+  "updatedDatetime": 1633362503425,
+  "bodyDataSource": "https://mars-ecmcor-correspondenceorderservice-qa-dev.apps.non-prod.pcf-maersk.com/app/ecms/letterdata",
+  "bodyDataSchema": {},
+  "approvalRequired": false,
+  "userMayEnterBodyData": false,
+  "correspondenceRequiredKeys": []
+}

@@ -1,0 +1,39 @@
+{
+  "projectId": 8690,
+  "roleId": 4898,
+  "pageV2Payload": [
+    {
+      "pageId": 5863,
+      "projectId": 8690,
+      "key": "Pkey4",
+      "createdOn": "2022-08-09T06:08:06.000000+00:00",
+      "createdBy": "384053",
+      "updatedOn": "2022-08-09T06:08:34.000000+00:00",
+      "updatedBy": "384053",
+      "templates": null,
+      "permissions": [
+        {
+          "uiPermissionId": null,
+          "read": false,
+          "write": false,
+          "applyMask": false,
+          "applyToAllRoles": null,
+          "noPermission": false,
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "objectId": 5863,
+          "objectType": "pagev2",
+          "permissionGroupId": 460,
+          "permissionGroupName": null,
+          "createdOn": "2022-07-30T09:05:48.000000+00:00",
+          "createdBy": "384053",
+          "updatedOn": "2022-08-09T09:05:49.000000+00:00",
+          "updatedBy": "384053"
+        }
+      ],
+      "name": null
+    }
+  ],
+  "transactionType": "pagev2",
+  "userId": 1042
+}

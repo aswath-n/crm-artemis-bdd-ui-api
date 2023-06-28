@@ -1,0 +1,19 @@
+{
+  "correspondenceId": "",
+  "approvalRequired": true,
+  "mmsId": "1oiboireoi",
+  "correspondenceName": "kjalkj4wklajsdlkjfkldsjf",
+  "description": "dessc",
+  "stateReferenceId": "",
+  "userMayRequest": false,
+  "reasonForEnding": "",
+  "createdBy": "2662",
+  "projectId": 6203,
+  "startDate": "2021-04-07T04:00:00.000Z",
+  "endDate": null,
+  "updatedBy": null,
+  "updatedDatetime": null,
+  "bodyDataSource": "sdfasfdasfd",
+  "inboundCorrespondenceDefinitionId": 38,
+  "correspondenceRequiredKeys": []
+}

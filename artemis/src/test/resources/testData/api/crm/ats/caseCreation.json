@@ -1,0 +1,24 @@
+{
+  "caseConsumers": [],
+  "caseId": null,
+  "caseIdentificationNumber": [
+    {
+      "agencyName": null,
+      "caseId": null,
+      "caseIdentificationNumberId": null,
+      "caseIdentificationNumberTypeId": "Application",
+      "caseIdentificationNumberTypeReportLabel": "Application",
+      "createdBy": null,
+      "createdOn": "2021-11-09T21:17:37.463Z",
+      "effectiveEndDate": null,
+      "effectiveStartDate": "2021-11-09T21:17:37.464Z",
+      "externalCaseId": "10",
+      "updatedBy": null,
+      "updatedOn": "2021-11-09T21:17:37.464Z"
+    }
+  ],
+  "caseStatus": "Active",
+  "caseType": "Member",
+  "programName":"CRM"
+}
+

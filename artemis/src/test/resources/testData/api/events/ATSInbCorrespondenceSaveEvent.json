@@ -1,0 +1,37 @@
+{
+  "type": "INBOUND_CORRESPONDENCE_SAVE_EVENT",
+  "document": {
+    "keywordFields": [
+      {
+        "keywordTypeName": "Channel",
+        "value": null
+      },
+      {
+        "keywordTypeName": "Status",
+        "value": "TRANSMITTING"
+      },
+      {
+        "keywordTypeName": "StatusSetOn",
+        "value": null
+      },
+      {
+        "keywordTypeName": "ApplicationID",
+        "value": ""
+      },
+      {
+        "keywordTypeName": "ProcessType",
+        "value": "INBOUND_CORRESPONDENCE"
+      }
+    ],
+    "properties": {
+      "createdBy": "2492",
+      "dateStored": null,
+      "documentDate": null,
+      "documentHandle": "",
+      "documentStatus": null,
+      "documentType": null,
+      "pageCount": 1
+    },
+    "keywordRecords": []
+  }
+}

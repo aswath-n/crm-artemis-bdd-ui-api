@@ -1,0 +1,28 @@
+{
+  "surveyDetails": [
+    {
+      "surveyDetailsId": "71",
+      "surveyTemplateId": "950",
+      "questionNumber": "1",
+      "questionTextForm": "new field questionTextForm2?",
+      "questionText": "Where Test Question 11?",
+      "answerText": "Yes, No, Don't Know",
+      "parentSurveyDetailId": "728",
+      "answerTrigger": "Yes",
+      "questionType": "TEXT"
+    }
+  ],
+  "surveyTemplates": [
+    {
+      "surveyTemplateId": "950",
+      "description": "HRA",
+      "templateType": "Consumer"
+    }
+  ],
+  "effectiveStartDate": "2022-01-10",
+  "effectiveEndDate": "2025-01-10",
+  "createdOn": "2022-09-23",
+  "createdBy": "john",
+  "updatedBy": "john",
+  "updatedOn": "2022-09-23"
+}

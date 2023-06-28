@@ -1,0 +1,42 @@
+{
+  "contactReasonActions": [
+    {
+      "contactRecordActions": [
+        {
+          "contactRecordActionId": "",
+          "contactRecordActionType": "Provided Appeal Information"
+        },
+        {
+          "contactRecordActionId": "",
+          "contactRecordActionType": "Provided Case Status/Information"
+        },
+        {
+          "contactRecordActionId": "",
+          "contactRecordActionType": "Provided Eligibility Status/Information"
+        },
+        {
+          "contactRecordActionId": "",
+          "contactRecordActionType": "Provided Enrollment Status/Information"
+        },
+        {
+          "contactRecordActionId": "",
+          "contactRecordActionType": "Provided Financial Information"
+        },
+        {
+          "contactRecordActionId": "",
+          "contactRecordActionType": "Provided Program Information"
+        }
+      ],
+      "contactRecordId": 80412,
+      "contactRecordReasonId": "",
+      "contactRecordReasonType": "Information Request",
+      "correlationId": "924380477587",
+      "createdBy": 1582,
+      "createdOn": "2020-02-20T14:34:21.130Z",
+      "notes": "",
+      "uiid": "1551506152104",
+      "updatedBy": null,
+      "updatedOn": null
+    }
+  ]
+}

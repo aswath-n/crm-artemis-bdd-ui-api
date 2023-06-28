@@ -1,0 +1,19 @@
+{
+  "applicationCycle": null,
+  "applicationId": null,
+  "channel":null,
+  "dob":null,
+  "firstName": null,
+  "lastName": null,
+  "program": null,
+  "status": null,
+  "externalApplicationId": null,
+  "applicationCode": null,
+  "applicationReceivedDateFrom": null,
+  "applicationReceivedDateTo": null,
+  "applicationDeadlineDateFrom":null,
+  "applicationDeadlineDateTo":null,
+  "refType":null,
+  "refIdType":null,
+  "refId":null
+}

@@ -1,0 +1,89 @@
+{
+  "applicationId": null,
+  "applicationCycle": "New",
+  "createdBy": 1066,
+  "createdOn": "2020-11-14T20:22:42.080Z",
+  "updatedBy": 1066,
+  "updatedOn": "2020-11-14T20:22:42.080Z",
+  "applicationType": "Medical Assistance",
+  "applicationName": "Application for Medical Assistance",
+  "applicationSignatureDate": "2020-11-14",
+  "applicationSignatureExistsInd": null,
+  "channelId": "Phone",
+  "applicationReceivedDate": "2020-11-14",
+  "submittedInd": false,
+  "applicationConsumers": [
+    {
+      "applicationConsumerEmail": [
+        {
+          "emailAddress": null
+        }
+      ],
+      "applicationConsumerPhone": [
+        {
+          "phoneNumber": 5345345435,
+          "phoneType": "cellPhoneNumber",
+          "primaryContactTypeInd": true
+        },
+        {
+          "phoneNumber": null,
+          "phoneType": "faxnumber",
+          "primaryContactTypeInd": false
+        },
+        {
+          "phoneNumber": 4564734475,
+          "phoneType": "homePhoneNumber",
+          "primaryContactTypeInd": false
+        },
+        {
+          "phoneNumber": null,
+          "phoneType": "workPhoneNumber",
+          "primaryContactTypeInd": false
+        }
+      ],
+      "applicationConsumerAddress": [
+        {
+          "addressStreet1": "1234 test ln",
+          "addressStreet2": null,
+          "addressCity": "Irving",
+          "addressState": "tx",
+          "addressCounty": "dallas county",
+          "addressZip": "75039",
+          "addressType": "Residential"
+        },
+        {
+          "addressStreet1": "1234 test ln",
+          "addressStreet2": null,
+          "addressCity": "Irving",
+          "addressState": "tx",
+          "addressCounty": null,
+          "addressZip": "75039",
+          "addressType": "Mailing"
+        }
+      ],
+      "consumerFirstName": "Fnfsdfls",
+      "consumerLastName": "Lnsdfksjld",
+      "consumerMiddleName": null,
+      "consumerSuffix": null,
+      "consumerRoleType": "Primary Individual",
+      "createdBy": 1066,
+      "createdOn": "2020-11-14T20:22:42.082Z",
+      "updatedBy": 1066,
+      "updatedOn": "2020-11-14T20:22:42.082Z",
+      "dateOfBirth": "1997-11-14T20:21:37.000Z",
+      "expectedBabies": null,
+      "expectedDueDate": null,
+      "externalConsumerId": null,
+      "externalConsumerIdType": null,
+      "genderCode": "Male",
+      "pregnancyInd": "false",
+      "spokenLanguage": "English",
+      "ssn": "346457568",
+      "writtenLanguage": "English",
+      "notApplyingIndicator" :false,
+      "programs": ["CHIP"],
+      "consumerOptInInformation": []
+    }
+  ],
+  "interactiveInd": null
+}

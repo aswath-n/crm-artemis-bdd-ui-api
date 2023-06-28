@@ -1,0 +1,24 @@
+{
+  "address":{
+    "addrAttn":null,
+    "addrHouseCode":null,
+    "addressCity":"",
+    "addressState":"",
+    "addressCounty":"",
+    "addressStreet1":"",
+    "addressStreet2":"",
+    "addressType":"",
+    "addressZip":"",
+    "addressZipFour":"",
+    "effectiveStartDate":"",
+    "effectiveEndDate":null,
+    "createdBy": "112",
+    "updatedBy":"128",
+    "updatedOn":1549298472000,
+    "createdOn":1548916248000
+  },
+  "uiid":0,
+  "externalRefId":0,
+  "externalRefType":"Consumer",
+  "correlationId":0
+}

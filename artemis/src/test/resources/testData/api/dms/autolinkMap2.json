@@ -1,0 +1,14 @@
+{
+  "inboundCorrespondenceTypes": [null,null],
+  "serviceRequestTypeIDs": [null,null],
+  "fieldMappings": [
+    {
+      "correspondenceMetadataName": null,
+      "serviceRequestFieldName": null
+    },
+    {
+      "correspondenceMetadataName": null,
+      "serviceRequestFieldName": null
+    }
+  ]
+}

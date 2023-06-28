@@ -1,0 +1,37 @@
+{
+  "anchor": {
+    "caseId": 488,
+    "regardingConsumerIds": []
+  },
+
+  "id": "",
+  "recipients": [
+    {
+      "notifications": [
+        {
+          "channelType": "Fax",
+          "channelDefinitionId": 240,
+          "returnedDate": null,
+          "template": null,
+          "version": null
+        }
+      ],
+      "recipientInfo": {
+        "consumerId": "5162",
+        "firstName": "Woods",
+        "lastName": "Blanche",
+        "role": "Primary Individual",
+        "emailAddress": "",
+        "faxNumber": "2323323333",
+        "textNumber": ""
+      }
+    }
+  ],
+  "requester": {
+    "requesterId": "CRM",
+    "requesterType": "ConnectionPoint"
+  },
+  "status": "",
+  "statusMessage": "",
+  "language": "English"
+}

@@ -1,0 +1,152 @@
+{
+  "batchId": "131",
+  "consumerRequests": [
+    {
+      "uuid": "6227064307",
+      "activeEligibility": true,
+      "recordId": 25,
+      "dataSource": "MMIS",
+      "createdBy": "3493",
+      "createdOn": "2022-06-23T16:06:53.304Z",
+      "dateOfBirth": "1979-01-02",
+      "firstName": "Vernie",
+      "lastName": "Hackett",
+      "middleName": "G",
+      "sexCode": "F",
+      "mothersMaidenName": "Something",
+      "suffix": null,
+      "ssn": "724097705",
+      "type": "Individual",
+      "dateOfDeath": null,
+      "dateOfSsnValidation": null,
+      "ethnicityCode": "U",
+      "raceCode": "American Indian or Alaska Native",
+      "ssnValidationAgency": null,
+      "ssnValidationCode": null,
+      "residencyStatus": "Non-Resident",
+      "nativeAmerican": true,
+      "communicationPreferences": [
+        {
+          "valuePairIdCommPref": "LANGUAGE_PREFERENCE",
+          "preference": 2,
+          "value": "ENGLISH"
+        },
+        {
+          "valuePairIdCommPref": "LANGUAGE_PREFERENCE",
+          "preference": 1,
+          "value": "SPANISH"
+        }
+      ],
+      "correspondencePref": "Digital",
+      "contact": {
+        "residentialCounty": "Northeast",
+        "addresses": [
+          {
+            "addressType" : "Mailing",
+            "addressCountyCode": "002",
+            "addressStreet1": "22 main st",
+            "addressStreet2": "",
+            "addressCity": "Washington DC",
+            "addressState": "GA",
+            "addressZip": "20510",
+            "addressZipFour": "4345",
+            "latitude": null,
+            "longitude": null,
+            "intelligentMailBarcode": null
+          }
+        ],
+        "phones": [
+          {
+            "phoneNumber": "575-604-8584",
+            "preference": 1
+          },
+          {
+            "phoneNumber": "669-315-3818",
+            "preference": 2
+          }
+        ],
+        "smsPhoneNumber": "2024465525",
+        "emails": [
+          {
+            "emailAddress": "Audreanne.Dach53@hotmail.com",
+            "emailType": "Personal"
+          }
+        ]
+      },
+      "pregnancyInd": null,
+      "pregnancyDueDate": null,
+      "attributes": [
+        {
+          "key": "driverLicense",
+          "value": "123451131",
+          "generic": {
+            "dlExp": "2022-12-12",
+            "dlIssuedBy": "Texas"
+          }
+        },
+        {
+          "key": "certifications",
+          "value": "String",
+          "generic": null
+        },
+        {
+          "key": "specialties",
+          "value": "String",
+          "generic": null
+        },
+        {
+          "key": "title",
+          "value": "String",
+          "generic": null
+        }
+      ],
+      "consumerProfile": {
+        "type": "MEDICAID",
+        "externalId": "MS9727293"
+      },
+      "priorConsumerProfile": null,
+      "case": {
+        "caseId": null,
+        "externalId": "26533687287",
+        "type": "MEDICAID",
+        "caseAttributes": [
+          {
+            "key": "Primary Individual",
+            "value": {
+              "firstName": "KKKKKK",
+              "lastName": "Smithhh",
+              "middleName": null
+            },
+            "dataType": "consumer"
+          }
+        ]
+      },
+      "consumerRelations": [
+        {
+          "relatedConsumerId": null,
+          "relationType": "Parent",
+          "relatedConsumerProfile": {
+            "type": "MEDICAID",
+            "externalId": "2342343466"
+          }
+        },
+        {
+          "relatedConsumerId": null,
+          "relationType": "AuthRep",
+          "relatedConsumerProfile": {
+            "type": "MEDICAID",
+            "externalId": "312311455"
+          }
+        },
+        {
+          "relatedConsumerId": null,
+          "relationType": "Reports To",
+          "relatedConsumerProfile": {
+            "type": "EMPLOYEE",
+            "externalId": "231111"
+          }
+        }
+      ]
+    }
+  ]
+}

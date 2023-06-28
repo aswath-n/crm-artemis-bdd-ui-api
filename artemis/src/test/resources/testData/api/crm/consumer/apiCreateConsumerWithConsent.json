@@ -1,0 +1,92 @@
+{
+  "uiid": "1520440664459",
+  "aiNa": "",
+  "caseId": null,
+  "consumerDateOfBirth": "",
+  "consumerFirstName": "",
+  "consumerIdentificationNumber": [
+    {
+      "externalConsumerId": "",
+      "identificationNumberType": null
+    }
+  ],
+  "consumerLastName": "",
+  "consumerMiddleName": "",
+  "consumerSSN": "",
+  "consumerStatus": null,
+  "consumerSuffix": null,
+  "consumerType": "Consumer",
+  "correlationId": "1395504360611362",
+  "createdBy": null,
+  "createdOn": null,
+  "dateOfDeath": null,
+  "dateOfDeathNotifiedBy": null,
+  "dateOfDeathNotifiedDate": null,
+  "dateOfSsnValidation": null,
+  "ethnicityCode": "Not Hispanic or Latino",
+  "genderCode": "Male",
+  "mergeReason": "",
+  "mergedConsumerId": 0,
+  "notBornInd": true,
+  "raceCode": "Asian",
+  "ssnValidationAgency": null,
+  "ssnValidationCode": null,
+  "updatedBy": null,
+  "updatedOn": null,
+  "usResidentStatusCode": null,
+  "communicationPreferences": [],
+  "consumerConsent": [
+    {
+    "consumerConsentId": "",
+    "consumerId": "",
+    "consentType": "Phone",
+    "optIn": "true",
+    "howConsentProvided": "Phone",
+    "effectiveStartDate": "2019-12-19T05:16:34.770Z",
+    "effectiveEndDate": null,
+    "createdOn": "2019-12-19T05:16:34.770Z",
+    "createdBy": "",
+    "updatedOn": "2019-12-19T05:16:34.770Z",
+    "updatedBy": ""
+  }],
+  "effectiveEndDate": null,
+  "contacts": {
+    "address": {
+      "addrAttn": "",
+      "addrHouseCode": "",
+      "addressCity": "kjhgfdsglkjhgfd",
+      "addressCounty": "Dutchess",
+      "addressState": "Iowa",
+      "addressStreet1": "asdfghjkl",
+      "addressStreet2": "sz.,mnbvcxvnm,",
+      "addressType": "Mailing",
+      "addressVerified": false,
+      "addressZip": "66666",
+      "addressZipFour": "6666",
+      "createdBy": 1395,
+      "primaryIndicator": "true",
+      "effectiveStartDate": "2019-12-19T05:16:34.770Z",
+      "createdOn": "2019-12-19T05:16:34.770Z"
+    },
+    "email": {
+      "effectiveStartDate": "",
+      "emailAddress": "abc123@test.com",
+      "emailType": "Primary",
+      "primaryIndicator": "true"
+    },
+    "phone": {
+      "smsEnabledInd": false,
+      "effectiveStartDate": "",
+      "phoneNumber": "9999999999",
+      "createdBy": "",
+      "primaryIndicator": "true",
+      "updatedOn": "",
+      "updatedBy": "",
+      "phoneType": "Home"
+    }
+  },
+  "pregnancyInd": null,
+  "pregnancyDueDate": null,
+  "effectiveStartDate": "2023-02-13T17:46:12.801Z",
+  "consumerIdentificationNumber": []
+}

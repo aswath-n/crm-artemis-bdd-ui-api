@@ -1,0 +1,29 @@
+{
+  "consumerId": null,
+  "eligibilities": [
+    {
+      "coreEligibility": {
+        "consumerDeprivationCode": "string",
+        "consumerId": null,
+        "correlationId": "6445950065937913",
+        "coverageCode": "130",
+        "createdBy": "SYSTEM_INTEGRATION",
+        "eligibilityStatusCode": "xyz",
+        "exemptionCode": "qwer",
+        "programCode": "MEDICAID",
+        "programTypeCode": "MEDICAID",
+        "subProgramTypeCode": "DCHF",
+        "referralCountyCode": "string",
+        "startDate": "2023-01-01",
+        "endDate": "9999-12-31",
+        "uiid": "2561833199",
+        "createdOn": "2023-01-12T08:40:47.704Z",
+        "categoryCode": "10"
+      },
+      "dbChanges": "string"
+    }
+  ],
+  "recordId": 25,
+  "requestedBy": "597",
+  "createdOn": "2023-01-12T08:40:47.704Z"
+}

@@ -1,0 +1,165 @@
+{
+ "uiid": "260191457980",
+ "aiNa": null,
+ "caseId": null,
+ "consumerDateOfBirth": "1995-07-16",
+ "consumerFirstName": "Testqa",
+ "consumerLastName": "Gap",
+ "consumerMiddleName": "A",
+ "consumerSSN": "989799765",
+ "consumerStatus": null,
+ "consumerSuffix": null,
+ "consumerType": "Consumer",
+ "correlationId": "260152898419",
+ "createdBy": "",
+ "createdOn": "2020-07-17T10:29:13.936Z",
+ "dateOfDeath": null,
+ "dateOfDeathNotifiedBy": null,
+ "dateOfDeathNotifiedDate": null,
+ "dateOfSsnValidation": null,
+ "ethnicityCode": null,
+ "genderCode": "Male",
+ "mergeReason": null,
+ "mergedConsumerId": null,
+ "notBornInd": null,
+ "raceCode": null,
+ "ssnValidationAgency": null,
+ "ssnValidationCode": null,
+ "updatedBy": null,
+ "updatedOn": null,
+ "usResidentStatusCode": null,
+ "communicationPreferences": [
+  {
+   "createdBy": null,
+   "createdOn": "2020-07-17T10:28:23.019Z",
+   "updatedBy": null,
+   "updatedOn": "2020-07-17T10:28:23.020Z",
+   "effectiveEndDate": null,
+   "effectiveStartDate": "2020-07-17T10:28:23.020Z",
+   "valuePairIdCommPref": "CORRESPONDENCE_PAPERLESS",
+   "defaultInd": true,
+   "communicationPreferencesId": null
+  },
+  {
+   "createdBy": null,
+   "createdOn": "2020-07-17T10:27:49.214Z",
+   "updatedBy": null,
+   "updatedOn": "2020-07-17T10:27:49.215Z",
+   "effectiveEndDate": null,
+   "effectiveStartDate": "2020-07-17T10:27:49.215Z",
+   "valuePairIdCommPref": "WRITTEN_LANGUAGE_ENGLISH",
+   "defaultInd": true,
+   "communicationPreferencesId": null
+  },
+  {
+   "createdBy": null,
+   "createdOn": "2020-07-17T10:27:49.215Z",
+   "updatedBy": null,
+   "updatedOn": "2020-07-17T10:27:49.215Z",
+   "effectiveEndDate": null,
+   "effectiveStartDate": "2020-07-17T10:27:49.215Z",
+   "valuePairIdCommPref": "SPOKEN_LANGUAGE_ENGLISH",
+   "defaultInd": true,
+   "communicationPreferencesId": null
+  }
+ ],
+ "consumerConsent": [
+  {
+   "consumerId": null,
+   "howConsentProvided": "Phone",
+   "consentType": "Mail",
+   "optIn": true,
+   "createdBy": "",
+   "createdOn": "2020-07-17T10:27:49.536Z",
+   "updatedBy": null,
+   "updatedOn": null,
+   "effectiveEndDate": null,
+   "effectiveStartDate": "2020-07-17T10:27:49.536Z"
+  },
+  {
+   "consumerId": null,
+   "howConsentProvided": "Phone",
+   "consentType": "Phone",
+   "optIn": true,
+   "createdBy": "",
+   "createdOn": "2020-07-17T10:27:49.536Z",
+   "updatedBy": null,
+   "updatedOn": null,
+   "effectiveEndDate": null,
+   "effectiveStartDate": "2020-07-17T10:27:49.536Z"
+  },
+  {
+   "consumerId": null,
+   "howConsentProvided": "Phone",
+   "consentType": "Email",
+   "optIn": true,
+   "createdBy": "",
+   "createdOn": "2020-07-17T10:27:49.536Z",
+   "updatedBy": null,
+   "updatedOn": null,
+   "effectiveEndDate": null,
+   "effectiveStartDate": "2020-07-17T10:28:24.467Z"
+  },
+  {
+   "consumerId": null,
+   "howConsentProvided": "Phone",
+   "consentType": "Fax",
+   "optIn": true,
+   "createdBy": "",
+   "createdOn": "2020-07-17T10:27:49.536Z",
+   "updatedBy": null,
+   "updatedOn": null,
+   "effectiveEndDate": null,
+   "effectiveStartDate": "2020-07-17T10:28:24.919Z"
+  },
+  {
+   "consumerId": null,
+   "howConsentProvided": "Phone",
+   "consentType": "Text",
+   "optIn": true,
+   "createdBy": "",
+   "createdOn": "2020-07-17T10:27:49.536Z",
+   "updatedBy": null,
+   "updatedOn": null,
+   "effectiveEndDate": null,
+   "effectiveStartDate": "2020-07-17T10:28:26.155Z"
+  }
+ ],
+ "effectiveEndDate": null,
+ "contacts": {
+  "address": {
+   "addressStreet1": "1 Street",
+   "addressStreet2": "1 Street",
+   "addressCity": "Alpharetta",
+   "addressState": "Iowa",
+   "addressCounty": "Delaware",
+   "addressType": "Mailing",
+   "addressZip": "12345",
+   "addressZipFour": null,
+   "effectiveStartDate": "2020-07-17T10:29:13.937Z",
+   "createdOn": "2020-07-17T10:29:13.937Z",
+   "createdBy": "2601"
+  },
+  "email": {
+   "emailAddress": "teste@gl.com",
+   "emailType": "Primary",
+   "effectiveStartDate": "2020-07-17T10:29:13.937Z",
+   "createdBy": "",
+   "createdOn": "2020-07-17T10:29:13.937Z"
+  },
+  "phone": {
+   "phoneNumber": "6740750304",
+   "effectiveStartDate": "2020-07-17T10:29:13.937Z",
+   "createdOn": "2020-07-17T10:29:13.937Z",
+   "createdBy": "",
+   "phoneType": "Cell"
+  }
+ },
+ "effectiveStartDate": "2020-07-17T10:29:13.936Z",
+ "consumerIdentificationNumber": [
+  {
+   "identificationNumberType": "CHIP",
+   "externalConsumerId": "dgcvnghghbncfgb"
+  }
+ ]
+}

@@ -1,0 +1,4 @@
+qa-automation\target\*
+target
+.idea/workspace.xml
+/.idea/

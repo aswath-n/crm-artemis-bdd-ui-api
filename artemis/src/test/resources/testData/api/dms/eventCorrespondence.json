@@ -1,0 +1,60 @@
+{
+  "type": "PROCESSEDDOCUMENT",
+  "document": {
+    "keywordFields": [
+      {
+        "keywordTypeName": "CaseID",
+        "value": "3122"
+      },
+      {
+        "keywordTypeName": "ConsumerID",
+        "value": "9111"
+      },
+      {
+        "keywordTypeName": "Channel",
+        "value": "Mail"
+      },
+      {
+        "keywordTypeName": "FromName",
+        "value": "James"
+      },
+      {
+        "keywordTypeName": "FromPhoneNumber",
+        "value": "7034552921"
+      },
+      {
+        "keywordTypeName": "FromEmailAddress",
+        "value": "Jamesmlacson@maersk.com"
+      },
+      {
+        "keywordTypeName": "Returned Mail Reason",
+        "value": "invalid address"
+      },
+      {
+        "keywordTypeName": "ProcessType",
+        "value": "INBOUND CORRESPONDENCE"
+      },
+      {
+        "keywordTypeName": "Status",
+        "value": "TRANSMITTING"
+      },
+      {
+        "keywordTypeName": "StatusSetOn",
+        "value": "2020-07-01T23:57:51.176000+00:00"
+      }
+    ],
+    "properties": {
+      "createdBy": "Testing",
+      "dateStored": "2020-07-01T23:57:51.176000+00:00",
+      "documentDate": "2021-03-05",
+      "documentHandle": "15336",
+      "documentName": "maersk Case + Consumer - 8/14/2020",
+      "documentStatus": "Active",
+      "documentType": "maersk Case + Consumer",
+      "documentTypeID": 103,
+      "documentTypeName": "maersk Case + Consumer",
+      "pageCount": 1
+    },
+    "keywordRecords": []
+  }
+}

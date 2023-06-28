@@ -1,0 +1,17 @@
+{
+  "planSearch": {
+    "stateWide": "",
+    "planName": "CARESOURCE GEORGIA",
+    "planCode": "",
+    "serviceRegion": "",
+    "programType": "",
+    "subProgramType": "",
+    "countyCode": "",
+    "zipCode": "",
+    "sdaId": null,
+    "planProviderCd": "",
+    "planEnrollmentStartDate": ""
+  },
+  "from": 0,
+  "size": 100
+}

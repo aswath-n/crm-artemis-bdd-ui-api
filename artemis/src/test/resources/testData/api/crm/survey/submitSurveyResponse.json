@@ -1,0 +1,25 @@
+[{
+  "referenceType": "Consumer",
+  "referenceId": 789,
+  "surveyDate": "2022-11-11",
+  "surveyResponse":
+  [
+    {
+      "surveyDetailsId": 700,
+      "questionNumber": "1",
+      "questionText": "Test question3?",
+      "answerText": ["yes","no"],
+      "parentSurveyDetailId":300
+    },
+    {
+      "surveyDetailsId": 700,
+      "questionNumber": "1a",
+      "questionText": "Test question4?",
+      "answerText": ["2022-06-07"],
+      "parentSurveyDetailId":301
+    }
+  ],
+  "status": "Complete",
+  "createdOn": "2022-06-07T15:16:30.017Z",
+  "createdBy": "131108"
+}]

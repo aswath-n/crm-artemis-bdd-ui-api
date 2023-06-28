@@ -1,0 +1,21 @@
+{
+  "caseIdentificationNo": null,
+  "caseId": null,
+  "caseType": null,
+  "consumerAddress1": null,
+  "consumerAddress2": null,
+  "consumerCity": null,
+  "consumerCounty": null,
+  "consumerDateOfBirth": null,
+  "consumerEmail": null,
+  "consumerFirstName": null,
+  "consumerId": null,
+  "consumerIdentificationNo": null,
+  "consumerLastName": null,
+  "consumerMiddleName": null,
+  "consumerPhoneNumber": null,
+  "consumerSSN": null,
+  "consumerState": null,
+  "consumerType": null,
+  "zipCode": null
+}

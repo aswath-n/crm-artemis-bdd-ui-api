@@ -1,0 +1,8 @@
+{
+  "inboundCallQueue": "Lion Bridge",
+  "contactType": "Inbound",
+  "contactChannelType": "Phone",
+  "dnis": "9898981345",
+  "ciscoAgentId": "9295224",
+  "ani": "1234566458"
+}

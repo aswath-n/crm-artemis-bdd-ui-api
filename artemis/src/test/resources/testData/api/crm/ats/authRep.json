@@ -1,0 +1,21 @@
+{
+  "consumerType": null,
+  "authorizedRepOrgName": null,
+  "authorizedRepExternalId": null,
+  "authorizedRepAppEndDate": null,
+  "authorizedRepAppStartDate": null,
+  "accessType": null,
+  "correspondence": null,
+  "authorizedRepSignature": false,
+  "authorizedRepSignatureDate": null,
+  "consumerFirstName": null,
+  "consumerLastName": null,
+  "consumerMiddleName": null,
+  "consumerRoleType": "Authorized Rep",
+  "createdBy": "1066",
+  "createdOn": null,
+  "updatedBy": "1066",
+  "updatedOn": null,
+  "applicationConsumerAddress": [
+  ]
+}

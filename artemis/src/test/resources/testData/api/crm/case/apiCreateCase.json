@@ -1,0 +1,29 @@
+{
+  "caseIdentificationNumber": [
+    {
+      "externalCaseId": "AA6755",
+      "identificationNumberType": "Medicaid",
+      "createdBy": "APIAutomation"
+    }
+  ],
+  "translatorLanguageCode": null,
+  "writtenLanguageCode": "English",
+  "effectiveStartDate": "2019-01-02T06:30:03.000+0000",
+  "assistiveHearingServicesIndicator": true,
+  "caseType": "Member",
+  "caseStatus": "Active",
+  "spokenLanguageCode": null,
+  "createdOn": 1564583873116,
+  "createdBy": "APIAut",
+  "effectiveEndDate": null,
+  "caseId": "",
+  "updatedOn": null,
+  "updatedBy": null,
+  "subProgramName": "SUB",
+  "needTranslatorIndicator": true,
+  "portfolioId": null,
+  "caseHeadId": "5812",
+  "correlationId": "5876992385778177",
+  "uiid": "495056026803",
+  "programName": "CRM"
+}

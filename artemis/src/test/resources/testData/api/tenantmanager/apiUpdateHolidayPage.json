@@ -1,0 +1,98 @@
+{
+  "holidayYear": 2020,
+  "period": "1/1/2020-12/31/2020",
+  "projectId": 6203,
+  "holidaysList": [
+    {
+      "holidayId": 212,
+      "holidayName": "Good firday",
+      "excludeForTaskInd": false,
+      "holidayDate": "2020-04-09",
+      "excludeForSrInd": false
+    },
+    {
+      "holidayId": 200,
+      "holidayName": "new year",
+      "excludeForTaskInd": false,
+      "holidayDate": "2020-04-16",
+      "excludeForSrInd": false
+    },
+    {
+      "holidayId": 202,
+      "holidayName": "May 1st",
+      "excludeForTaskInd": false,
+      "holidayDate": "2020-04-30",
+      "excludeForSrInd": false
+    },
+    {
+      "holidayId": 207,
+      "holidayName": "Enjoy Day",
+      "excludeForTaskInd": true,
+      "holidayDate": "2020-05-04",
+      "excludeForSrInd": true
+    },
+    {
+      "holidayId": 213,
+      "holidayName": "Lock Down",
+      "excludeForTaskInd": false,
+      "holidayDate": "2020-05-05",
+      "excludeForSrInd": false
+    },
+    {
+      "holidayId": 203,
+      "holidayName": "lockdown holidays",
+      "excludeForTaskInd": true,
+      "holidayDate": "2020-05-14",
+      "excludeForSrInd": true
+    },
+    {
+      "holidayId": 204,
+      "holidayName": "Dabba Haliday",
+      "excludeForTaskInd": false,
+      "holidayDate": "2020-05-17",
+      "excludeForSrInd": false
+    },
+    {
+      "holidayId": 205,
+      "holidayName": "CP-5190 Holiday",
+      "excludeForTaskInd": false,
+      "holidayDate": "2020-05-18",
+      "excludeForSrInd": false
+    },
+    {
+      "holidayId": 209,
+      "holidayName": "Don't consider ",
+      "excludeForTaskInd": true,
+      "holidayDate": "2020-06-02",
+      "excludeForSrInd": true
+    },
+    {
+      "holidayId": 206,
+      "holidayName": "Test Holiday",
+      "excludeForTaskInd": false,
+      "holidayDate": "2020-06-03",
+      "excludeForSrInd": false
+    },
+    {
+      "holidayId": 210,
+      "holidayName": "Demo Holiday",
+      "excludeForTaskInd": false,
+      "holidayDate": "2020-06-04",
+      "excludeForSrInd": false
+    },
+    {
+      "holidayId": 211,
+      "holidayName": "Ignore Holiday ",
+      "excludeForTaskInd": true,
+      "holidayDate": "2020-06-08",
+      "excludeForSrInd": true
+    },
+    {
+      "holidayId": null,
+      "holidayDate": "",
+      "holidayName": "",
+      "excludeForTaskInd": false,
+      "excludeForSrInd": false
+    }
+  ]
+}

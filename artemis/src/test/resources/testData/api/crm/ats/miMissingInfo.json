@@ -1,0 +1,16 @@
+[
+  {
+    "attributeName": null,
+    "attributeValue": null,
+    "comments": null,
+    "createdBy": "1066",
+    "entityId": "123",
+    "entityRecordType": null,
+    "missingInformationDependents": [
+    ],
+    "recordClass": null,
+    "status": null,
+    "tags": {"application": 1},
+    "updatedBy": "1066"
+  }
+]

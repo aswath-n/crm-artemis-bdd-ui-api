@@ -1,0 +1,16 @@
+{
+  "documentType": "maersk Case + Consumer",
+  "fileType": "pdf",
+  "metaData": [
+    {
+      "name": "Status",
+      "value": "COMPLETE"
+    },
+    {
+      "name": "Channel",
+      "value": "MAIL"
+    }
+  ],
+  "metaDataRecords": [],
+  "fileContentsAsBase64EncodedString": "VGhpcyBpcyBhIHRlc3QgdGV4dCBmaWxlLg=="
+}

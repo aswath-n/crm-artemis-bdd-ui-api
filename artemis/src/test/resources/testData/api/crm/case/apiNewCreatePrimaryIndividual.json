@@ -1,0 +1,76 @@
+{
+  "consumerId": null,
+  "caseId": null,
+  "consumerFirstName": "Fgdafgd",
+  "consumerMiddleName": null,
+  "consumerLastName": "Sdfgsdfg",
+  "consumerDateOfBirth": "2022-08-01",
+  "genderCode": "Female",
+  "effectiveStartDate": "2022-08-02T07:00:00Z",
+  "effectiveEndDate": null,
+  "consumerSSN": "315134513",
+  "consumerType": "Consumer",
+  "consumerRole": "Member",
+  "raceCode": null,
+  "ssnValidationAgency": "",
+  "ssnValidationCode": "",
+  "createdOn": "2022-08-02T18:26:53.406Z",
+  "createdBy": "8369",
+  "updatedBy": null,
+  "updatedOn": null,
+  "usResidentStatusCode": null,
+  "ethnicityCode": null,
+  "consumerSuffix": null,
+  "uiid": "999121781816",
+  "correlationId": "749238007",
+  "consumerConsent": [
+    {
+      "optIn": false,
+      "consentType": "Email",
+      "effectiveStartDate": "2022-08-02T17:59:36.738454500Z",
+      "effectiveEndDate": null,
+      "howConsentProvided": "Phone",
+      "createdOn": "2022-08-02T17:59:36.738454500Z"
+    },
+    {
+      "optIn": false,
+      "consentType": "Fax",
+      "effectiveStartDate": "2022-08-02T17:59:36.738454500Z",
+      "effectiveEndDate": null,
+      "howConsentProvided": "Phone",
+      "createdOn": "2022-08-02T17:59:36.738454500Z"
+    },
+    {
+      "optIn": false,
+      "consentType": "Mail",
+      "effectiveStartDate": "2022-08-02T17:59:36.738454500Z",
+      "effectiveEndDate": null,
+      "howConsentProvided": "Phone",
+      "createdOn": "2022-08-02T17:59:36.738454500Z"
+    },
+    {
+      "optIn": true,
+      "consentType": "Phone",
+      "effectiveStartDate": "2022-08-02T17:59:36.738454500Z",
+      "effectiveEndDate": null,
+      "howConsentProvided": "Phone",
+      "createdOn": "2022-08-02T17:59:36.738454500Z"
+    },
+    {
+      "optIn": false,
+      "consentType": "Text",
+      "effectiveStartDate": "2022-08-02T17:59:36.738454500Z",
+      "effectiveEndDate": null,
+      "howConsentProvided": "Phone",
+      "createdOn": "2022-08-02T17:59:36.738454500Z"
+    }
+  ],
+  "communicationPreferences": [
+    {
+      "valuePairIdCommPref": null,
+      "effectiveStartDate": "2022-08-02T17:59:36.738454500Z",
+      "effectiveEndDate": null,
+      "createdOn": "2022-08-02T17:59:36.738454500Z"
+    }
+  ]
+}

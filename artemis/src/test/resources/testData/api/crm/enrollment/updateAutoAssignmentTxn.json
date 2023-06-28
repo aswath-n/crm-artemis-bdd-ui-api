@@ -1,0 +1,15 @@
+{
+  "autoAssignmentTransactionId": 0,
+  "consumerId": 0,
+  "createdBy": "string",
+  "createdOn": "2021-06-11T13:33:40.770Z",
+  "planCode": null,
+  "programTypeCode": "MEDICAID",
+  "subprogramTypeCode": "MEDICAIDGF",
+  "population": "MEDICAID-GENERAL",
+  "resolution": "Selection Not Made",
+  "serviceRequestId": 0,
+  "status": null,
+  "updatedBy": "222",
+  "updatedOn": "2021-06-11T13:33:40.770Z"
+}

@@ -1,0 +1,77 @@
+{
+  "searchConsumerProfile": {
+    "type": null,
+    "externalId": null,
+    "profileId": null
+  },
+  "consumerAttributes": {
+    "optInAddress": {
+      "optInAddress": false,
+      "addressStreet1": "..123-Street...",
+      "addressStreet2": null,
+      "addressCity": "string",
+      "addressState": "Texas",
+      "addressZip": "12435",
+      "addressZipFour": null,
+      "latitude": null,
+      "longitude": null,
+      "intelligentMailBarcode": null
+    },
+    "optInPhone": {
+      "optInPhone": true,
+      "phoneNumber": "3435370261"
+    },
+    "optInEmail": {
+      "optInEmail": true,
+      "emailAddress": "test3@yahoo.com"
+    },
+    "doNotCall": true,
+    "languageCodes": [
+      {
+        "valuePairIdCommPref": "LANGUAGE_PREFERENCE",
+        "preference": 2,
+        "value": "SPANISH"
+      },
+      {
+        "valuePairIdCommPref": "LANGUAGE_PREFERENCE",
+        "preference": 1,
+        "value": "CLINGONIAN"
+      }
+    ],
+    "addresses": [
+      {
+        "addressType": "Mailing",
+        "addressStreet1": "Silver 1",
+        "addressStreet2": "address street 2",
+        "addressCity": "Gotom",
+        "addressState": "Texas",
+        "addressZip": "12435",
+        "addressZipFour": null,
+        "inactiveInd": null,
+        "latitude": null,
+        "longitude": null,
+        "intelligentMailBarcode": null
+      }
+    ],
+    "phones": [
+      {
+        "phoneNumber": "4435370200",
+        "preference": 0,
+        "phoneType": "Work",
+        "inactiveInd": false
+      }
+    ],
+    "emails": [
+      {
+        "emailAddress": "test3@yahoo.com",
+        "emailType": "Personal",
+        "preference": 0,
+        "inactiveInd": false
+      }
+    ]
+  },
+  "dataSource": "UI",
+  "createdBy": "1111",
+  "createdOn": "2022-11-30T16:06:53.304Z",
+  "uuid": "0000000000111111hhh"
+}

@@ -1,0 +1,7 @@
+{
+  "caseId": null,
+  "channels": [
+    "Mail","Email","Fax","Text"
+  ],
+  "includeNonDefaultRecipients": false
+}

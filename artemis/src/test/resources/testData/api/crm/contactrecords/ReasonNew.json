@@ -1,0 +1,22 @@
+{
+  "contactReasonActions": [
+    {
+      "contactRecordActions": [
+        {
+          "contactRecordActionId": "",
+          "contactRecordActionType": "Enrolled - CHP"
+        }
+      ],
+      "contactRecordId": "",
+      "contactRecordReasonId": "",
+      "contactRecordReasonType": "Enrollment - Pediatric Dental",
+      "correlationId": "1036743174922",
+      "createdBy": 1524,
+      "createdOn": "2020-02-14T16:17:11.949Z",
+      "notes": "",
+      "uiid": "306421355337",
+      "updatedBy": null,
+      "updatedOn": null
+    }
+  ]
+}

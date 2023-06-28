@@ -1,0 +1,11 @@
+[{
+  "planId":"1945",
+  "planCode":"85",
+  "channel":"SYSTEM_INTEGRATION",
+  "updatedBy":1234,
+  "enrollmentId": 4361,
+  "consumerId": 30569,
+  "createdBy": "2893",
+  "status" : "SUBMITTED_TO_STATE",
+  "txnStatus": "SUBMITTED_TO_STATE"
+}]

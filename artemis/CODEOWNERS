@@ -1,0 +1,14 @@
+*.xml @204692 @m200341 @276155 @200089
+
+**/maersk/dms/utilities/ @204692 @m200341 @276155 @200089
+
+**/maersk/crm/utilities/ @204692 @m200341 @276155 @200089
+
+**/maersk/crm/step_definitions/LoginStepDef.java @204692 @m200341 @276155 @200089
+
+**/maersk/crm/step_definitions/Hooks.java @204692 @m200341 @276155 @200089
+
+**/maersk/crm/api_step_definitions/Hooks.java @204692 @m200341 @276155 @200089
+
+**/maersk/crm/runners/AutomationRunner.java @204692 @m200341 @276155 @200089
+

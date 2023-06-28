@@ -1,0 +1,33 @@
+{
+  "anchor": {
+    "caseId": 7347,
+    "regardingConsumerId": []
+  },
+  "correspondenceDefinitionMMSCode": "000001",
+  "id": "",
+  "language": "English",
+  "recipients": [
+    {
+      "notifications": [
+      ],
+      "recipientInfo": {
+        "consumerId": "17500",
+        "firstName": "Bruce",
+        "lastName": "Wayne",
+        "role": "Primary Individual",
+        "streetAddress": "12 address st",
+        "streetAddionalLine1": "",
+        "city": "Canaan",
+        "state": "NY",
+        "zipcode": "12029",
+        "emailAddress": "kljasdf@liausdf.com",
+        "faxNumber": "5552959484",
+        "textNumber": "3232959484"
+      }
+    }
+  ],
+  "requester": {
+    "requesterId": 2492,
+    "requesterType": "ConnectionPoint"
+  }
+}

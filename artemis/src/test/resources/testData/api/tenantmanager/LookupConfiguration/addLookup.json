@@ -1,0 +1,14 @@
+{
+  "value": "TEST3",
+  "tableName": "ENUM_RACE_CODE",
+  "description": "tes",
+  "reportLabel": "asasa",
+  "scope": "asas",
+  "orderbyDefault": "1",
+  "effectiveStartDate": "2020-06-24",
+  "effectiveEndDate": null,
+  "createdBy": 98,
+  "createdOn": "2020-06-24T17:01:56.505Z",
+  "updatedBy": null,
+  "updatedOn": null
+}

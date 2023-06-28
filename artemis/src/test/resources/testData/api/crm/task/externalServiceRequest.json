@@ -1,0 +1,22 @@
+{
+  "taskTypeId":null,
+  "taskInfo":null,
+  "createdBy":null,
+  "correlationId":null,
+  "taskDetails":[
+  ],
+  "externalLinks":[
+    {
+      "externalRefType":"INBOUND_CORRESPONDENCE",
+      "externalRefId":null
+    },
+    {
+      "externalRefType":"CASE",
+      "externalRefId":null
+    },
+    {
+      "externalRefType":"CONSUMER",
+      "externalRefId":null
+    }
+  ]
+}

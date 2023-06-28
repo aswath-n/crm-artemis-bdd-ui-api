@@ -1,0 +1,110 @@
+{
+  "anchor": {
+    "projectId": null,
+    "regardingConsumerId": [
+    ],
+    "applicationId": null
+  },
+  "correspondenceDefinitionMMSCode": "AppId",
+  "id": "",
+  "language": "English",
+
+  "requester": {
+    "requesterId": 937,
+    "requesterType": "ConnectionPoint"
+  },
+  "status": "",
+  "createdBy": 937,
+  "statusMessage": "",
+  "bodyData": {
+    "phone": [],
+    "Firstname": "qwerty",
+    "pincode": 12017,
+    "Address": "add1"
+  },
+  "bodyDataSchemaVersion": 3,
+  "taskId": "",
+  "createdDatetime": "2021-10-26T11:06:17.252Z",
+
+  "recipients": [
+    {
+      "notifications": [
+        {
+          "channelType": "Mail"
+        },
+        {
+          "channelType": "Fax",
+          "language": "English"
+        }
+      ],
+      "recipientInfo": {
+        "firstName": "",
+        "lastName": "",
+        "role": "",
+        "emailAddress": "",
+        "faxNumber": "2342344555",
+        "textNumber": "9990087654",
+        "externalRefType": "Application Consumer",
+        "externalRefId": "",
+        "streetAddress": "1234 Test street",
+        "streetAddionalLine1": "2345 Test street",
+        "city": "testCity",
+        "state": "TX",
+        "zipcode": "12345"
+      }
+    },
+    {
+      "notifications": [
+        {
+          "channelType": "Mail",
+          "language": "English"
+        },
+        {
+          "channelType": "Fax",
+          "language": "English"
+        }
+      ],
+      "recipientInfo": {
+        "firstName": "",
+        "lastName": "",
+        "role": "",
+        "emailAddress": "",
+        "faxNumber": "2342344555",
+        "textNumber": "9990087654",
+        "externalRefType": "Application Consumer",
+        "externalRefId": "",
+        "streetAddress": "1234 Test street",
+        "streetAddionalLine1": "2345 Test street",
+        "city": "testCity",
+        "state": "TX",
+        "zipcode": "12345"
+      }
+    },
+    {
+      "notifications": [
+        {
+          "channelType": "Mail"
+        },
+        {
+          "channelType": "Fax",
+          "language": "English"
+        }
+      ],
+      "recipientInfo": {
+        "firstName": "",
+        "lastName": "",
+        "role": "",
+        "emailAddress": "",
+        "faxNumber": "2342344555",
+        "textNumber": "9990087654",
+        "externalRefType": "Application Consumer",
+        "externalRefId": "",
+        "streetAddress": "1234 Test street",
+        "streetAddionalLine1": "2345 Test street",
+        "city": "testCity",
+        "state": "TX",
+        "zipcode": "12345"
+      }
+    }
+  ]
+}

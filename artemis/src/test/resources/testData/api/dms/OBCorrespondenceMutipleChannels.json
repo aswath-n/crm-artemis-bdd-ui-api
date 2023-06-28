@@ -1,0 +1,46 @@
+{
+  "language": "English",
+  "recipients": [
+    {
+      "notifications": [
+        {
+          "channelType": "Fax"
+        },
+        {
+          "channelType": "Text"
+        }
+      ],
+      "recipientInfo": {
+        "firstName": "Dan",
+        "lastName": "Oconner",
+        "role": "Primary Individual",
+        "emailAddress": "",
+        "faxNumber": "4434354353",
+        "textNumber": "3453453454"
+      }
+    },
+    {
+      "notifications": [
+        {
+          "channelType": "Email"
+        }
+      ],
+      "recipientInfo": {
+        "firstName": "Marion",
+        "lastName": "OConner",
+        "role": "Primary Individual",
+        "emailAddress": "jasdf@joaijsdf.com",
+        "faxNumber": "",
+        "textNumber": ""
+      }
+    }
+  ],
+  "requester": {
+    "requesterId": 1066,
+    "requesterType": "ConnectionPoint"
+  },
+  "status": "",
+  "bodyData": {},
+  "bodyDataSchemaVersion": 3,
+  "taskId": ""
+}

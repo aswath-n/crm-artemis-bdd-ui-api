@@ -1,0 +1,16 @@
+{
+  "uiid": null,
+  "correlationId": null,
+  "externalLinkPayload": {
+    "createdBy": "995",
+    "createdOn": null,
+    "updatedOn": null,
+    "updatedBy": "995",
+    "internalId": null,
+    "externalId": null,
+    "internalRefType": "contact_record",
+    "externalRefType": "consumer",
+    "effectiveEndDate": null,
+    "effectiveStartDate": null
+  }
+}

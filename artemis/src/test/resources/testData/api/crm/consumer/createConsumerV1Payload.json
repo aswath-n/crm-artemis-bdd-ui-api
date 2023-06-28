@@ -1,0 +1,97 @@
+{
+  "uiid": "657345645645",
+  "aiNa": null,
+  "caseId": null,
+  "consumerDateOfBirth": "1980-05-31",
+  "consumerFirstName": "jkfjyjyy",
+  "consumerLastName": "fdgheyjey",
+  "consumerMiddleName": null,
+  "consumerSSN": "675456455",
+  "consumerStatus": null,
+  "consumerSuffix": null,
+  "consumerType": "Consumer",
+  "correlationId": "75464356764",
+  "createdBy": "8369",
+  "createdOn": "2022-11-13T17:42:45.710Z",
+  "dateOfDeath": null,
+  "dateOfDeathNotifiedBy": null,
+  "dateOfDeathNotifiedDate": null,
+  "dateOfSsnValidation": null,
+  "ethnicityCode": null,
+  "genderCode": null,
+  "mergeReason": null,
+  "mergedConsumerId": null,
+  "notBornInd": null,
+  "raceCode": null,
+  "ssnValidationAgency": null,
+  "ssnValidationCode": null,
+  "updatedBy": null,
+  "updatedOn": null,
+  "usResidentStatusCode": null,
+  "communicationPreferences": [
+    {
+      "createdOn": "2022-07-13T17:42:04.676Z",
+      "updatedOn": "2022-07-13T17:42:04.676Z",
+      "effectiveEndDate": null,
+      "effectiveStartDate": "2022-07-13T17:42:04.676Z",
+      "valuePairIdCommPref": "WRITTEN_LANGUAGE_ENGLISH",
+      "defaultInd": true,
+      "communicationPreferencesId": null
+    },
+    {
+      "createdOn": "2022-07-13T17:42:04.676Z",
+      "updatedOn": "2022-07-13T17:42:04.676Z",
+      "effectiveEndDate": null,
+      "effectiveStartDate": "2022-07-13T17:42:04.677Z",
+      "valuePairIdCommPref": "SPOKEN_LANGUAGE_ENGLISH",
+      "defaultInd": true,
+      "communicationPreferencesId": null
+    }
+  ],
+  "consumerConsent": null,
+  "effectiveEndDate": null,
+  "contacts": {
+    "address":{
+      "addrAttn": "",
+      "addrHouseCode": "",
+      "addressCity": "testCity",
+      "addressCounty": "testCountry",
+      "addressState": "TX",
+      "addressStreet1": "dsfgsdfgsdfg 453",
+      "addressStreet2": "",
+      "addressType": "Mailing",
+      "addressVerified": false,
+      "addressZip": "12345",
+      "addressZipFour": "4345",
+      "primaryIndicator": true,
+      "effectiveStartDate": "",
+      "effectiveEndDate": "",
+      "addressSource": "Consumer Reported"
+    },
+    "email": {
+      "emailSource": "Consumer Reported",
+      "emailAddress": "fasdfas@com",
+      "primaryIndicator": false,
+      "effectiveEndDate": null,
+      "effectiveStartDate": "2022-07-06T04:00:00Z",
+      "emailType": "OFFICE"
+    },
+    "phone": {
+      "phoneNumber": null,
+      "effectiveStartDate": null,
+      "phoneType": null,
+      "phoneSource": null
+    }
+  },
+  "citizenship": null,
+  "pregnancyInd": null,
+  "pregnancyDueDate": null,
+  "effectiveStartDate": "2022-07-13T17:42:45.710Z",
+  "consumerIdentificationNumber": [
+    {
+      "externalConsumerId": "173v1v44v",
+      "identificationNumberType": "Medicaid"
+    }
+  ],
+  "allowMatchingConsumerCreation": true
+}

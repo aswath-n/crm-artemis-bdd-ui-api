@@ -1,0 +1,56 @@
+{
+  "anchor": {
+    "caseId": 68,
+    "projectId": 6203,
+    "regardingConsumerId": []
+  },
+  "correspondenceDefinitionMMSCode": "000001",
+  "id": "",
+  "language": "English",
+  "recipients": [
+    {
+      "notifications": [
+        {
+          "channelType": "Email"
+        }
+      ],
+      "recipientInfo": {
+        "firstName": "Many",
+        "lastName": "Correspondence",
+        "role": "Primary Individual",
+        "streetAddress": "1234 test ln",
+        "streetAddionalLine1": "",
+        "city": "Herndon",
+        "state": "VA",
+        "zipcode": "20103",
+        "emailAddress": "manewasdf@oioiuasdf.com",
+        "faxNumber": "4523423423",
+        "textNumber": "3245324543"
+      }
+    }
+  ],
+  "requester": {
+    "requesterId": 2492,
+    "requesterType": "ConnectionPoint"
+  },
+  "bodyData": {
+    "bodySetName": "name1",
+    "bodyItems": [
+      {
+        "bodyItemName": "itemName1",
+        "bodyItemValue": "itemValue1",
+        "bodySubsets": [
+          {
+            "bodySubsetName": "subsetName1",
+            "bodySubsetItems": [
+              {
+                "bodySubsetItemName": "subsetItemName1",
+                "bodySubsetItemValue": "subsetItemValue1"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

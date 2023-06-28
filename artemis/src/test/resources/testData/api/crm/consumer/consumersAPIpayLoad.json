@@ -1,0 +1,122 @@
+{
+  "batchId": "123",
+  "consumerRequests": [
+    {
+      "uuid": "uuid-20220926-0890",
+      "recordId": 25,
+      "dataSource": "MMIS",
+      "createdBy": "3493",
+      "createdOn": "2022-06-23T16:06:53.304Z",
+      "dateOfBirth": "2022-06-28",
+      "firstName": "jwefqweg",
+      "lastName": "Smith",
+      "middleName": "f",
+      "sexCode": "Female",
+      "mothersMaidenName": "String",
+      "suffix": "f",
+      "activeEligibility":true,
+      "ssn": "444444493",
+      "type": "Individual",
+      "dateOfDeath": "",
+      "dateOfSsnValidation": null,
+      "ethnicityCode": "U",
+      "raceCode": "American Indian or Alaska Native",
+      "ssnValidationAgency": null,
+      "ssnValidationCode": null,
+      "residencyStatus": "Non-Resident",
+      "nativeAmerican": true,
+      "communicationPreferences": [
+        {
+          "valuePairIdCommPref": "LANGUAGE_PREFERENCE",
+          "preference":2,
+          "value": "ENGLISH"
+        },
+        {
+          "valuePairIdCommPref": "LANGUAGE_PREFERENCE",
+          "preference":1,
+          "value": "SPANISH"
+        }
+      ],
+      "correspondencePref": "Digital",
+      "contact": {
+        "residentialCounty": "Jefferson",
+        "addresses": [
+          {
+            "addressStreet1": "12345777 street145 st",
+            "addressStreet2": null,
+            "addressCity": "JoeCity",
+            "addressState": "Vermont",
+            "addressZip": "32342",
+            "addressZipFour": "3423",
+            "latitude": null,
+            "longitude": null,
+            "intelligentMailBarcode": null
+          }
+        ],
+        "phones": [
+          {
+            "phoneNumber": "44444445559",
+            "preference": 1
+          }
+        ],
+        "smsPhoneNumber": "44444447558",
+        "emails": [
+          {
+            "emailAddress": "test3@yahoo.com",
+            "emailType": "Work"
+          }
+        ]
+      },
+      "pregnancyInd": null,
+      "pregnancyDueDate": null,
+      "attributes": [],
+      "consumerProfile": {
+        "type": "MEDICAID",
+        "externalId": "09870975"
+      },
+      "priorConsumerProfile": null,
+      "case": {
+        "caseId": null,
+        "externalId": 100,
+        "type": "MEDICAID",
+        "caseAttributes": [
+          {
+            "key": "Primary Individual",
+            "value": {
+              "firstName": "Joe",
+              "lastName": "Smith",
+              "middleName": null
+            },
+            "dataType": "consumer"
+          }
+        ]
+      },
+      "consumerRelations": [
+        {
+          "relatedConsumerId": null,
+          "relationType": "Parent",
+          "relatedConsumerProfile": {
+            "type": "MEDICAID",
+            "externalId": "99999999999"
+          }
+        },
+        {
+          "relatedConsumerId": null,
+          "relationType": "AuthRep",
+          "relatedConsumerProfile": {
+            "type": "MEDICAID",
+            "externalId": "312311234"
+          }
+        },
+        {
+          "relatedConsumerId": null,
+          "relationType": "Reports To",
+          "relatedConsumerProfile": {
+            "type": "EMPLOYEE",
+            "externalId": "231111"
+          }
+        }
+      ]
+    }
+  ]
+}

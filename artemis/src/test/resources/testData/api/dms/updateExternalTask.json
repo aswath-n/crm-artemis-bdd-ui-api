@@ -1,0 +1,28 @@
+{
+  "taskId": null,
+  "taskTypeId": 16277,
+  "createdBy": "9547",
+  "correlationId": "45674567",
+  "taskDetails": [
+    {
+      "taskDetailsId": null,
+      "taskId": null,
+      "taskFieldId": 71,
+      "createdOn": "2022-07-27T14:20:12.000000+00:00",
+      "createdBy": "1043",
+      "updatedOn": "2022-07-27T14:20:12.000000+00:00",
+      "updatedBy": "1043",
+      "selectionVarchar": "Cancelled - Loss of Eligibility",
+      "selectionVarchar2": null,
+      "selectionBoolean": null,
+      "selectionNumeric": null,
+      "selectionDate": null,
+      "selectionDateTime": null,
+      "selectionFieldName": "Disposition",
+      "fieldGroup": null,
+      "correlationId": "45674567",
+      "uiid": null,
+      "fieldGroupInstance": null
+    }
+  ]
+}

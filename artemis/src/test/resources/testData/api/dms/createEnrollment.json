@@ -1,0 +1,48 @@
+{
+  "consumerId": null,
+  "eligibilities": [
+    {
+      "coreEligibility": {
+        "consumerDeprivationCode": "string",
+        "consumerId": null,
+        "correlationId": "6445950065937913",
+        "coverageCode": "cc01",
+        "createdBy": "SYSTEM_INTEGRATION",
+        "eligibilityStatusCode": "M",
+        "exemptionCode": "qwer",
+        "programCode": "R",
+        "programTypeCode": "MEDICAID",
+        "subProgramTypeCode": "HoosierHealthwise",
+        "referralCountyCode": "string",
+        "startDate": "2021-06-01T12:41:38.038Z",
+        "endDate": "2299-12-31T12:41:38.038Z",
+        "uiid": "2561833199",
+        "createdOn": "2021-12-29T12:41:38.038Z",
+        "categoryCode": "10"
+      },
+      "dbChanges": "string",
+      "recordId": "21"
+    }
+  ],
+  "recordId": 21,
+  "requestedBy": "597",
+  "createdOn": "2021-12-29T12:41:38.038Z",
+  "enrollments": [
+    {
+      "recordId": "21",
+      "consumerId": null,
+      "correlationId": "5174944954404940",
+      "otherEnrollmentSegments": [
+        {
+          "genericFieldText1": "C",
+          "segmentTypeCode": "OPEN_ENROLLMENT",
+          "uiid": null,
+          "correlationId": null,
+          "startDate": "2021-12-01",
+          "endDate": "2022-03-01",
+          "genericFieldDate1": "2021-12-01"
+        }
+      ]
+    }
+  ]
+}

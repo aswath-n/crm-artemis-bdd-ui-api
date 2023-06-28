@@ -1,0 +1,188 @@
+{
+  "caseLoaderRequest": [
+    {
+      "case": {
+        "caseIdentificationNumber": "CHIPKM10Case464565464",
+        "identificationNoType": "CHIP",
+        "caseStatus": "Active",
+        "caseType": "Member",
+        "portfolioIdentificationNo": null,
+        "programName": "CRM",
+        "subProgramName": "",
+        "needTranslatorInd": "true",
+        "jobId": "1",
+        "requestedBy": "QA Automation",
+        "correlationId": "9000449400100",
+        "consumers": [
+          {
+            "consumerDateOfBirth": "1982-02-02",
+            "consumerFirstName": "",
+            "consumerLastName": "MEHDI",
+            "consumerMiddleName": "",
+            "consumerRole": "Primary Individual",
+            "consumerSSN": "896566666",
+            "consumerPrefix": "",
+            "consumerSuffix": "",
+            "consumerType": "Consumer",
+            "correlationId": "90034552423gg53000006",
+            "dateOfDeath": "",
+            "dateOfDeathNotifiedBy": "",
+            "dateOfDeathNotifiedDate": "",
+            "dateOfSsnValidation": "2020-01-06T11:28:50.831-0600",
+            "effectiveEndDate": "2020-06-06T11:28:50.831-0600",
+            "effectiveStartDate": "2020-01-06T11:28:50.831-0600",
+            "ethnicityCode": "",
+            "aiNa": "",
+            "genderCode": "Female",
+            "mergeReason": "",
+            "preferredLanguage": "Russian",
+            "raceCode": "",
+            "relationShip": "Child",
+            "ssnValidationAgency": "",
+            "ssnValidationCode": "",
+            "uiid": "",
+            "usResidentStatusCode": "",
+            "pregnancyInd": true,
+            "pregnancyDueDate": "2020-03-02",
+            "consumerIdentificationNumber": [
+              {
+                "externalConsumerId": "CHIPKM10Case4645654645454",
+                "identificationNumberType": "CHIP",
+                "effectiveStartDate": "2019-08-06T06:15:14.000+0000"
+              },
+              {
+                "externalConsumerId": "CHIPKM10Case4645654645454jhfd",
+                "identificationNumberType": "Medicaid",
+                "effectiveStartDate": "2019-08-06T06:15:14.000+0000"
+              }
+            ],
+            "contacts": {
+              "address": {
+                "addrAttn": "",
+                "addrHouseCode": "",
+                "addressCity": "Dallas",
+                "addressCounty": "HANCOCK",
+                "addressState": "TX",
+                "addressStreet1": "5300 Cattle rd",
+                "addressStreet2": "",
+                "addressType": "Physical",
+                "addressVerified": false,
+                "addressZip": "30062",
+                "addressZipFour": "1295",
+                "primaryIndicator": true
+              },
+              "email": {
+                "emailAddress": "kmehdi4@test.com",
+                "emailType": "Primary",
+                "primaryIndicator": true
+              },
+              "phone": {
+                "phoneNumber": "6789448767",
+                "phoneType": "",
+                "smsEnabledInd": "false",
+                "primaryIndicator": true
+              }
+            },
+            "correspondencePreference": "Paperless",
+            "consumerConsent": [
+              {
+                "howConsentProvided": "Email",
+                "consentType": "Phone",
+                "effectiveStartDate": "2019-05-08T14:05:31.798Z",
+                "effectiveEndDate": "2019-05-08T14:05:31.798Z",
+                "optIn": true
+              }
+            ],
+            "eligibility": [ {
+              "coreEligibilitySegmentsId": null,
+              "startDate": "2019-08-13",
+              "endDate": null,
+              "categoryCode": "Alpha002",
+              "coverageCode": "Beta01ne3",
+              "exemptionCode": "Delta01n",
+              "programCode": "P",
+              "eligibilityStatusCode": "ESTATUSC",
+              "consumerDeprivationCode": "DEPCODE",
+              "createdOn": "2019-08-19",
+              "createdBy": "QA Automation",
+              "updatedOn": "",
+              "updatedBy": "",
+              "correlationId": 4548825736876700,
+              "uiid": 89898999966,
+              "futureEligibility": {
+                "startDate": "2019-08-13",
+                "endDate": null,
+                "categoryCode": "CC01",
+                "coverageCode": "CvgC001",
+                "exemptionCode": "EXMPCD001",
+                "programCode": "P",
+                "eligibilityStatusCode": "EE010808"
+              },
+              "specialPopulationInfo": {
+                "startDate": "2019-08-15",
+                "specialEligibilityCode": "SPCLE001upd",
+                "specialPopulationCaseNumber": "SPCLPCN002upd",
+                "specialPopulationIndicator": "SPCLPI002uod02"
+              }
+            }
+            ],
+            "enrollment": [
+              {
+                "aidCategoryCode": "string",
+                "anniversaryDate": "2019-09-04T09:27:30.257Z",
+                "autoAssignIndicator": "A",
+                "correlationId": "454374343",
+                "createdBy": "QA Automation",
+                "createdOn": "2019-09-04T09:27:30.257Z",
+                "endDate": "2019-09-04T09:27:30.257Z",
+                "enrollmentProviderInfo": {
+                  "correlationId": "454374343",
+                  "createdBy": "QA Automation",
+                  "createdOn": "2019-09-04T09:27:30.257Z",
+                  "effectiveEndDate": "2019-09-04T09:27:30.257Z",
+                  "effectiveStartDate": "2019-09-04T09:27:30.257Z",
+                  "providerEndDate": "2019-09-04T09:27:30.257Z",
+                  "providerId": "PP001",
+                  "providerLastName": "Rick",
+                  "providerMiddleName": "Rick",
+                  "providerNpi": "string",
+                  "providerPhoneNumber": "string",
+                  "providerStartDate": "2019-09-04T09:27:30.257Z",
+                  "providerType": "Thirdparty",
+                  "providerZipCodeExtn": "12",
+                  "providerZipCodeMain": "string",
+                  "uiid": "454374343"
+                },
+                "enrollmentType": "BEHAVIORAL",
+                "lockInEndDate": "2019-09-04T09:27:30.257Z",
+                "lockInExemptionReason": "string",
+                "lockInStartDate": "2019-09-04T09:27:30.257Z",
+                "lockInStatusCode": "string",
+                "openEnrollentEndDate": "2019-09-04T09:27:30.257Z",
+                "openEnrollentStartDate": "2019-09-04T09:27:30.257Z",
+                "openEnrollentStatus": "string",
+                "planCode": "string",
+                "planEndDateReason": "string",
+                "planId": 12,
+                "programTypeCode": "MEDICAID",
+                "reinstatementDate": "2019-09-04T09:27:30.257Z",
+                "reinstatementIndicator": "A",
+                "retroactiveDate": "2019-09-04T09:27:30.257Z",
+                "retroactiveIndicator": "A",
+                "riskCode": "A",
+                "selectionTxnId": 0,
+                "serviceRegionCode": "string",
+                "specialNeedFlag": "string",
+                "startDate": "2019-09-04T09:27:30.257Z",
+                "subProgramTypeCode": "MEDICAID_GF",
+                "uiid": "454374343",
+                "waiverCode": "A"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
+

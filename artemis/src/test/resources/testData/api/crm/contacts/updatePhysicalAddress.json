@@ -1,0 +1,24 @@
+{
+  "eventId": null,
+  "eventName": "ADDRESS_SAVE_EVENT",
+  "module": "Contact",
+  "payload": {
+    "projectId": "6203",
+    "projectName": "BLCRM",
+    "action": "Create",
+    "recordType": "Contact",
+    "eventCreatedOn": "2020-12-23T09:31:26.922000+00:00",
+    "dataObject": {
+      "externalRefId": "65207",
+      "addressType": "Physical",
+      "addressStreet1": "1225 lasalle",
+      "addressStreet2": "",
+      "addressCity": "Aragon",
+      "addressState": "CT",
+      "addressCounty": "Polk",
+      "addressZip": "30104",
+      "updatedBy": "324"
+    }
+  },
+  "status": "success"
+}

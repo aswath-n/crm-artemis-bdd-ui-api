@@ -1,0 +1,639 @@
+{
+  "uiid": "766868787",
+  "correlationId": "84376587458",
+  "providers": [
+    {
+      "planCode": "86",
+      "planName": "PEACHCARE",
+      "acceptNewPatientsInd": true,
+      "mcoId": "181",
+      "programTypeCd": "Medicaid",
+      "effectiveStartDate": null,
+      "effectiveEndDate": null,
+      "npi": "1366470982",
+      "stateProviderId": "000461282D",
+      "pcpFlag": "Y",
+      "genderCd": "F",
+      "sexLimitsCd": "M",
+      "ageLowLimit": "0",
+      "ageHighLimit": "18",
+      "classificationCd": null,
+      "groupFlag": "1",
+      "groupName": null,
+      "firstName": "John",
+      "lastName": "Cena",
+      "nameSuffix": "Mr",
+      "titleName": "Sr Surgeon",
+      "ssn": "257332930",
+      "fein": "582530951",
+      "emailAddress": null,
+      "middleName": "C",
+      "acceptObInd": false,
+      "handicappedAccesibleInd": true,
+      "reasonForChange": null,
+      "createdOn": "2020-07-21T13:58:25.000Z",
+      "createdBy": "1235",
+      "updatedOn": null,
+      "updatedBy": null,
+      "providerType": [
+        {
+          "providerTypeCd": "Medical",
+          "createdOn": "2020-07-21T13:58:25.000Z",
+          "createdBy": "1235",
+          "updatedOn": "2020-07-21T13:58:25.000Z",
+          "updatedBy": "1235"
+        }
+      ],
+      "providerHospitalAffilation": [
+        {
+          "hospitalName": null,
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-07-21T13:58:25.000Z",
+          "createdBy": "1235",
+          "updatedOn": "2020-07-21T13:58:25.000Z",
+          "updatedBy": "1235"
+        }
+      ],
+      "providerOfficeHours": [
+        {
+          "dayOfWeek": "1",
+          "openFrom": "08:00:00",
+          "closeAt": "17:00:00",
+          "createdOn": "2020-07-21T13:58:25.000Z",
+          "createdBy": "1235",
+          "updatedOn": "2020-07-21T13:58:25.000Z",
+          "updatedBy": "1235"
+        }
+      ],
+      "providerPanelLimit": [
+        {
+          "panelSize": null,
+          "enrolledCount": null,
+          "panelStatus": null,
+          "holdCd": null,
+          "panelTypeCd": null,
+          "createdOn": "2020-07-21T13:58:25.000Z",
+          "createdBy": "1235",
+          "updatedOn": "2020-07-21T13:58:25.000Z",
+          "updatedBy": "1235"
+        }
+      ],
+      "providerAddress": [
+        {
+          "addressType": "Physical",
+          "addressLine1": "426 Exchange Blvd Ste 600",
+          "addressLine2": null,
+          "city": "Bethlehem",
+          "state": "GA",
+          "zipCode": "30620",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-07-21T13:58:25.000Z",
+          "createdBy": "1235",
+          "updatedOn": "2020-07-21T13:58:25.000Z",
+          "updatedBy": "1235",
+          "phoneNumbers": [
+            {
+              "phoneNumber": "546321789",
+              "faxNumber": "345465567",
+              "phoneType": null,
+              "effectiveStartDate": null,
+              "effectiveEndDate": null,
+              "createdOn": "2020-07-21T13:58:25.000Z",
+              "createdBy": "1235",
+              "updatedOn": "2020-07-21T13:58:25.000Z",
+              "updatedBy": "1235"
+            }
+          ]
+        },
+        {
+          "addressType": "Physical",
+          "addressLine1": "426 Exchange Blvd Ste 600",
+          "addressLine2": null,
+          "city": "Bethlehem",
+          "state": "GA",
+          "zipCode": "30620",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-07-21T13:58:25.000Z",
+          "createdBy": "1235",
+          "updatedOn": "2020-07-21T13:58:25.000Z",
+          "updatedBy": "1235",
+          "phoneNumbers": [
+            {
+              "phoneNumber": "546321789",
+              "faxNumber": "345465567",
+              "phoneType": null,
+              "effectiveStartDate": null,
+              "effectiveEndDate": null,
+              "createdOn": "2020-07-21T13:58:25.000Z",
+              "createdBy": "1235",
+              "updatedOn": "2020-07-21T13:58:25.000Z",
+              "updatedBy": "1235"
+            }
+          ]
+        },{
+          "addressType": "Physical",
+          "addressLine1": "426 Exchange Blvd Ste 600",
+          "addressLine2": null,
+          "city": "Bethlehem",
+          "state": "GA",
+          "zipCode": "30620",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-07-21T13:58:25.000Z",
+          "createdBy": "1235",
+          "updatedOn": "2020-07-21T13:58:25.000Z",
+          "updatedBy": "1235",
+          "phoneNumbers": [
+            {
+              "phoneNumber": "546321789",
+              "faxNumber": "345465567",
+              "phoneType": null,
+              "effectiveStartDate": null,
+              "effectiveEndDate": null,
+              "createdOn": "2020-07-21T13:58:25.000Z",
+              "createdBy": "1235",
+              "updatedOn": "2020-07-21T13:58:25.000Z",
+              "updatedBy": "1235"
+            }
+          ]
+        },{
+          "addressType": "Physical",
+          "addressLine1": "426 Exchange Blvd Ste 600",
+          "addressLine2": null,
+          "city": "Bethlehem",
+          "state": "GA",
+          "zipCode": "30620",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-07-21T13:58:25.000Z",
+          "createdBy": "1235",
+          "updatedOn": "2020-07-21T13:58:25.000Z",
+          "updatedBy": "1235",
+          "phoneNumbers": [
+            {
+              "phoneNumber": "546321789",
+              "faxNumber": "345465567",
+              "phoneType": null,
+              "effectiveStartDate": null,
+              "effectiveEndDate": null,
+              "createdOn": "2020-07-21T13:58:25.000Z",
+              "createdBy": "1235",
+              "updatedOn": "2020-07-21T13:58:25.000Z",
+              "updatedBy": "1235"
+            }
+          ]
+        },{
+          "addressType": "Physical",
+          "addressLine1": "426 Exchange Blvd Ste 600",
+          "addressLine2": null,
+          "city": "Bethlehem",
+          "state": "GA",
+          "zipCode": "30620",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-07-21T13:58:25.000Z",
+          "createdBy": "1235",
+          "updatedOn": "2020-07-21T13:58:25.000Z",
+          "updatedBy": "1235",
+          "phoneNumbers": [
+            {
+              "phoneNumber": "546321789",
+              "faxNumber": "345465567",
+              "phoneType": null,
+              "effectiveStartDate": null,
+              "effectiveEndDate": null,
+              "createdOn": "2020-07-21T13:58:25.000Z",
+              "createdBy": "1235",
+              "updatedOn": "2020-07-21T13:58:25.000Z",
+              "updatedBy": "1235"
+            }
+          ]
+        },{
+          "addressType": "Physical",
+          "addressLine1": "426 Exchange Blvd Ste 600",
+          "addressLine2": null,
+          "city": "Bethlehem",
+          "state": "GA",
+          "zipCode": "30620",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-07-21T13:58:25.000Z",
+          "createdBy": "1235",
+          "updatedOn": "2020-07-21T13:58:25.000Z",
+          "updatedBy": "1235",
+          "phoneNumbers": [
+            {
+              "phoneNumber": "546321789",
+              "faxNumber": "345465567",
+              "phoneType": null,
+              "effectiveStartDate": null,
+              "effectiveEndDate": null,
+              "createdOn": "2020-07-21T13:58:25.000Z",
+              "createdBy": "1235",
+              "updatedOn": "2020-07-21T13:58:25.000Z",
+              "updatedBy": "1235"
+            }
+          ]
+        },{
+          "addressType": "Physical",
+          "addressLine1": "426 Exchange Blvd Ste 600",
+          "addressLine2": null,
+          "city": "Bethlehem",
+          "state": "GA",
+          "zipCode": "30620",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-07-21T13:58:25.000Z",
+          "createdBy": "1235",
+          "updatedOn": "2020-07-21T13:58:25.000Z",
+          "updatedBy": "1235",
+          "phoneNumbers": [
+            {
+              "phoneNumber": "546321789",
+              "faxNumber": "345465567",
+              "phoneType": null,
+              "effectiveStartDate": null,
+              "effectiveEndDate": null,
+              "createdOn": "2020-07-21T13:58:25.000Z",
+              "createdBy": "1235",
+              "updatedOn": "2020-07-21T13:58:25.000Z",
+              "updatedBy": "1235"
+            }
+          ]
+        },{
+          "addressType": "Physical",
+          "addressLine1": "426 Exchange Blvd Ste 600",
+          "addressLine2": null,
+          "city": "Bethlehem",
+          "state": "GA",
+          "zipCode": "30620",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-07-21T13:58:25.000Z",
+          "createdBy": "1235",
+          "updatedOn": "2020-07-21T13:58:25.000Z",
+          "updatedBy": "1235",
+          "phoneNumbers": [
+            {
+              "phoneNumber": "546321789",
+              "faxNumber": "345465567",
+              "phoneType": null,
+              "effectiveStartDate": null,
+              "effectiveEndDate": null,
+              "createdOn": "2020-07-21T13:58:25.000Z",
+              "createdBy": "1235",
+              "updatedOn": "2020-07-21T13:58:25.000Z",
+              "updatedBy": "1235"
+            }
+          ]
+        },{
+          "addressType": "Physical",
+          "addressLine1": "426 Exchange Blvd Ste 600",
+          "addressLine2": null,
+          "city": "Bethlehem",
+          "state": "GA",
+          "zipCode": "30620",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-07-21T13:58:25.000Z",
+          "createdBy": "1235",
+          "updatedOn": "2020-07-21T13:58:25.000Z",
+          "updatedBy": "1235",
+          "phoneNumbers": [
+            {
+              "phoneNumber": "546321789",
+              "faxNumber": "345465567",
+              "phoneType": null,
+              "effectiveStartDate": null,
+              "effectiveEndDate": null,
+              "createdOn": "2020-07-21T13:58:25.000Z",
+              "createdBy": "1235",
+              "updatedOn": "2020-07-21T13:58:25.000Z",
+              "updatedBy": "1235"
+            }
+          ]
+        },{
+          "addressType": "Physical",
+          "addressLine1": "426 Exchange Blvd Ste 600",
+          "addressLine2": null,
+          "city": "Bethlehem",
+          "state": "GA",
+          "zipCode": "30620",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-07-21T13:58:25.000Z",
+          "createdBy": "1235",
+          "updatedOn": "2020-07-21T13:58:25.000Z",
+          "updatedBy": "1235",
+          "phoneNumbers": [
+            {
+              "phoneNumber": "546321789",
+              "faxNumber": "345465567",
+              "phoneType": null,
+              "effectiveStartDate": null,
+              "effectiveEndDate": null,
+              "createdOn": "2020-07-21T13:58:25.000Z",
+              "createdBy": "1235",
+              "updatedOn": "2020-07-21T13:58:25.000Z",
+              "updatedBy": "1235"
+            }
+          ]
+        },{
+          "addressType": "Physical",
+          "addressLine1": "426 Exchange Blvd Ste 600",
+          "addressLine2": null,
+          "city": "Bethlehem",
+          "state": "GA",
+          "zipCode": "30620",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-07-21T13:58:25.000Z",
+          "createdBy": "1235",
+          "updatedOn": "2020-07-21T13:58:25.000Z",
+          "updatedBy": "1235",
+          "phoneNumbers": [
+            {
+              "phoneNumber": "546321789",
+              "faxNumber": "345465567",
+              "phoneType": null,
+              "effectiveStartDate": null,
+              "effectiveEndDate": null,
+              "createdOn": "2020-07-21T13:58:25.000Z",
+              "createdBy": "1235",
+              "updatedOn": "2020-07-21T13:58:25.000Z",
+              "updatedBy": "1235"
+            }
+          ]
+        },{
+          "addressType": "Physical",
+          "addressLine1": "426 Exchange Blvd Ste 600",
+          "addressLine2": null,
+          "city": "Bethlehem",
+          "state": "GA",
+          "zipCode": "30620",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-07-21T13:58:25.000Z",
+          "createdBy": "1235",
+          "updatedOn": "2020-07-21T13:58:25.000Z",
+          "updatedBy": "1235",
+          "phoneNumbers": [
+            {
+              "phoneNumber": "546321789",
+              "faxNumber": "345465567",
+              "phoneType": null,
+              "effectiveStartDate": null,
+              "effectiveEndDate": null,
+              "createdOn": "2020-07-21T13:58:25.000Z",
+              "createdBy": "1235",
+              "updatedOn": "2020-07-21T13:58:25.000Z",
+              "updatedBy": "1235"
+            }
+          ]
+        },{
+          "addressType": "Physical",
+          "addressLine1": "426 Exchange Blvd Ste 600",
+          "addressLine2": null,
+          "city": "Bethlehem",
+          "state": "GA",
+          "zipCode": "30620",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-07-21T13:58:25.000Z",
+          "createdBy": "1235",
+          "updatedOn": "2020-07-21T13:58:25.000Z",
+          "updatedBy": "1235",
+          "phoneNumbers": [
+            {
+              "phoneNumber": "546321789",
+              "faxNumber": "345465567",
+              "phoneType": null,
+              "effectiveStartDate": null,
+              "effectiveEndDate": null,
+              "createdOn": "2020-07-21T13:58:25.000Z",
+              "createdBy": "1235",
+              "updatedOn": "2020-07-21T13:58:25.000Z",
+              "updatedBy": "1235"
+            }
+          ]
+        },{
+          "addressType": "Physical",
+          "addressLine1": "426 Exchange Blvd Ste 600",
+          "addressLine2": null,
+          "city": "Bethlehem",
+          "state": "GA",
+          "zipCode": "30620",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-07-21T13:58:25.000Z",
+          "createdBy": "1235",
+          "updatedOn": "2020-07-21T13:58:25.000Z",
+          "updatedBy": "1235",
+          "phoneNumbers": [
+            {
+              "phoneNumber": "546321789",
+              "faxNumber": "345465567",
+              "phoneType": null,
+              "effectiveStartDate": null,
+              "effectiveEndDate": null,
+              "createdOn": "2020-07-21T13:58:25.000Z",
+              "createdBy": "1235",
+              "updatedOn": "2020-07-21T13:58:25.000Z",
+              "updatedBy": "1235"
+            }
+          ]
+        },{
+          "addressType": "Physical",
+          "addressLine1": "426 Exchange Blvd Ste 600",
+          "addressLine2": null,
+          "city": "Bethlehem",
+          "state": "GA",
+          "zipCode": "30620",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-07-21T13:58:25.000Z",
+          "createdBy": "1235",
+          "updatedOn": "2020-07-21T13:58:25.000Z",
+          "updatedBy": "1235",
+          "phoneNumbers": [
+            {
+              "phoneNumber": "546321789",
+              "faxNumber": "345465567",
+              "phoneType": null,
+              "effectiveStartDate": null,
+              "effectiveEndDate": null,
+              "createdOn": "2020-07-21T13:58:25.000Z",
+              "createdBy": "1235",
+              "updatedOn": "2020-07-21T13:58:25.000Z",
+              "updatedBy": "1235"
+            }
+          ]
+        },{
+          "addressType": "Physical",
+          "addressLine1": "426 Exchange Blvd Ste 600",
+          "addressLine2": null,
+          "city": "Bethlehem",
+          "state": "GA",
+          "zipCode": "30620",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-07-21T13:58:25.000Z",
+          "createdBy": "1235",
+          "updatedOn": "2020-07-21T13:58:25.000Z",
+          "updatedBy": "1235",
+          "phoneNumbers": [
+            {
+              "phoneNumber": "546321789",
+              "faxNumber": "345465567",
+              "phoneType": null,
+              "effectiveStartDate": null,
+              "effectiveEndDate": null,
+              "createdOn": "2020-07-21T13:58:25.000Z",
+              "createdBy": "1235",
+              "updatedOn": "2020-07-21T13:58:25.000Z",
+              "updatedBy": "1235"
+            }
+          ]
+        },{
+          "addressType": "Physical",
+          "addressLine1": "426 Exchange Blvd Ste 600",
+          "addressLine2": null,
+          "city": "Bethlehem",
+          "state": "GA",
+          "zipCode": "30620",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-07-21T13:58:25.000Z",
+          "createdBy": "1235",
+          "updatedOn": "2020-07-21T13:58:25.000Z",
+          "updatedBy": "1235",
+          "phoneNumbers": [
+            {
+              "phoneNumber": "546321789",
+              "faxNumber": "345465567",
+              "phoneType": null,
+              "effectiveStartDate": null,
+              "effectiveEndDate": null,
+              "createdOn": "2020-07-21T13:58:25.000Z",
+              "createdBy": "1235",
+              "updatedOn": "2020-07-21T13:58:25.000Z",
+              "updatedBy": "1235"
+            }
+          ]
+        },{
+          "addressType": "Physical",
+          "addressLine1": "426 Exchange Blvd Ste 600",
+          "addressLine2": null,
+          "city": "Bethlehem",
+          "state": "GA",
+          "zipCode": "30620",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-07-21T13:58:25.000Z",
+          "createdBy": "1235",
+          "updatedOn": "2020-07-21T13:58:25.000Z",
+          "updatedBy": "1235",
+          "phoneNumbers": [
+            {
+              "phoneNumber": "546321789",
+              "faxNumber": "345465567",
+              "phoneType": null,
+              "effectiveStartDate": null,
+              "effectiveEndDate": null,
+              "createdOn": "2020-07-21T13:58:25.000Z",
+              "createdBy": "1235",
+              "updatedOn": "2020-07-21T13:58:25.000Z",
+              "updatedBy": "1235"
+            }
+          ]
+        }
+      ],
+      "providerLanguages": [
+        {
+          "languageTypeCd": "EN",
+          "providerSpeaksInd": null,
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-07-21T13:58:25.000Z",
+          "createdBy": "1235",
+          "updatedOn": "2020-07-21T13:58:25.000Z",
+          "updatedBy": "1235"
+        },
+        {
+          "languageTypeCd": "AR",
+          "providerSpeaksInd": null,
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-07-21T13:58:25.000Z",
+          "createdBy": "1235",
+          "updatedOn": "2020-07-21T13:58:25.000Z",
+          "updatedBy": "1235"
+        }
+      ,
+        {
+          "languageTypeCd": "BA",
+          "providerSpeaksInd": null,
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-07-21T13:58:25.000Z",
+          "createdBy": "1235",
+          "updatedOn": "2020-07-21T13:58:25.000Z",
+          "updatedBy": "1235"
+        }
+      ],
+      "providerSpeciality": [
+        {
+          "specialityCd": "009",
+          "primarySpecialityInd": null,
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-07-21T13:58:25.000Z",
+          "createdBy": "1235",
+          "updatedOn": "2020-07-21T13:58:25.000Z",
+          "updatedBy": "1235"
+        },
+        {
+          "specialityCd": "001",
+          "primarySpecialityInd": null,
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-07-21T13:58:25.000Z",
+          "createdBy": "1235",
+          "updatedOn": "2020-07-21T13:58:25.000Z",
+          "updatedBy": "1235"
+        },
+        {
+          "specialityCd": "003",
+          "primarySpecialityInd": null,
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-07-21T13:58:25.000Z",
+          "createdBy": "1235",
+          "updatedOn": "2020-07-21T13:58:25.000Z",
+          "updatedBy": "1235"
+        }
+      ]
+    }
+  ]
+}

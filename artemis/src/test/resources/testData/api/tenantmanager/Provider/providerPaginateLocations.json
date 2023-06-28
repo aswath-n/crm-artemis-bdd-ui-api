@@ -1,0 +1,521 @@
+{
+  "uiid": "766868787",
+  "correlationId": "84376587458",
+  "providers": [
+    {
+      "planCode": "86",
+      "planName": "AMERIGROUP COMMUNITY CARE",
+      "acceptNewPatientsInd": 0,
+      "mcoId": "1",
+      "programTypeCd": "Medicaid",
+      "effectiveStartDate": null,
+      "effectiveEndDate": null,
+      "npi": "1882880999",
+      "stateProviderId": "000825404B",
+      "pcpFlag": "Y",
+      "genderCd": "M",
+      "sexLimitsCd": "M",
+      "ageLowLimit": "0",
+      "ageHighLimit": "99",
+      "classificationCd": null,
+      "groupFlag": "1",
+      "groupName": null,
+      "firstName": "Michael",
+      "lastName": "Test",
+      "nameSuffix": null,
+      "titleName": null,
+      "ssn": "263334700",
+      "fein": "582489639",
+      "emailAddress": "AUBURNPRIMARY@YAHOO.COM",
+      "middleName": "M",
+      "acceptObInd": true,
+      "handicappedAccesibleInd": false,
+      "reasonForChange": null,
+      "createdOn": "2020-03-24T13:27:09.000Z",
+      "createdBy": "1012",
+      "updatedOn": null,
+      "updatedBy": null,
+      "providerLanguages": [
+        {
+          "languageTypeCd": "TA",
+          "providerSpeaksInd": null,
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-03-05T23:36:46.000Z",
+          "createdBy": "351",
+          "updatedOn": "2020-03-05T23:36:46.000Z",
+          "updatedBy": "351"
+        },
+        {
+          "languageTypeCd": "TG",
+          "providerSpeaksInd": null,
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2019-11-28T23:36:46.000Z",
+          "createdBy": "351",
+          "updatedOn": "2019-11-28T23:36:46.000Z",
+          "updatedBy": "351"
+        }
+      ],
+      "providerSpeciality": [
+        {
+          "specialityCd": "101",
+          "primarySpecialityInd": null,
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-03-05T23:36:46.000Z",
+          "createdBy": "351",
+          "updatedOn": "2020-03-05T23:36:46.000Z",
+          "updatedBy": "351"
+        },
+        {
+          "specialityCd": "102",
+          "primarySpecialityInd": null,
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-03-05T23:36:46.000Z",
+          "createdBy": "351",
+          "updatedOn": "2020-03-05T23:36:46.000Z",
+          "updatedBy": "351"
+        },
+        {
+          "specialityCd": "103",
+          "primarySpecialityInd": null,
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-03-05T23:36:46.000Z",
+          "createdBy": "351",
+          "updatedOn": "2020-03-05T23:36:46.000Z",
+          "updatedBy": "351"
+        }
+      ],
+      "providerType": [
+        {
+          "providerTypeCd": "Medical",
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012"
+        }
+      ],
+      "providerHospitalAffilation": [
+        {
+          "hospitalName": null,
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012"
+        }
+      ],
+      "providerOfficeHours": [
+        {
+          "dayOfWeek": "1",
+          "openFrom": "09:00:00",
+          "closeAt": "17:00:00",
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012"
+        },
+        {
+          "dayOfWeek": "2",
+          "openFrom": "09:00:00",
+          "closeAt": "17:00:00",
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012"
+        },
+        {
+          "dayOfWeek": "3",
+          "openFrom": "09:00:00",
+          "closeAt": "17:00:00",
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012"
+        },
+        {
+          "dayOfWeek": "4",
+          "openFrom": "09:00:00",
+          "closeAt": "17:00:00",
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012"
+        },
+        {
+          "dayOfWeek": "5",
+          "openFrom": "09:00:00",
+          "closeAt": "17:00:00",
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012"
+        },
+        {
+          "dayOfWeek": "6",
+          "openFrom": null,
+          "closeAt": null,
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012"
+        },
+        {
+          "dayOfWeek": "7",
+          "openFrom": null,
+          "closeAt": null,
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012"
+        }
+      ],
+      "providerNormalizedAddress": [
+        {
+          "addressLine1": null,
+          "fullAddress": null,
+          "addressType": null,
+          "city": null,
+          "state": null,
+          "zipCode": null,
+          "district": null,
+          "countyName": null,
+          "countyCode": null,
+          "lattitude": null,
+          "longitude": null,
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012",
+          "phoneNumbers": [
+            {
+              "phoneNumber": "7708489300",
+              "faxNumber": "7708489301",
+              "phoneType": null,
+              "effectiveStartDate": null,
+              "effectiveEndDate": null,
+              "createdOn": "2020-03-24T13:27:09.000Z",
+              "createdBy": "1012",
+              "updatedOn": "2020-03-24T13:27:09.000Z",
+              "updatedBy": "1012"
+            }
+          ]
+        }
+      ],
+      "providerPanelLimit": [
+        {
+          "panelSize": null,
+          "enrolledCount": null,
+          "panelStatus": "1",
+          "holdCd": null,
+          "panelTypeCd": null,
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012"
+        }
+      ],
+      "providerAddress": [
+        {
+          "addressType": "Physical",
+          "addressLine1": "12 7th St",
+          "addressLine2": null,
+          "city": "Auburn",
+          "state": "GA",
+          "zipCode": "30011",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012"
+        },
+        {
+          "addressType": "Mailing",
+          "addressLine1": "138 Gateway Lane",
+          "addressLine2": null,
+          "city": "Bethlehem",
+          "state": "GA",
+          "zipCode": "30620",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012"
+        }
+      ,{
+          "addressType": "Physical",
+          "addressLine1": "12 7th St",
+          "addressLine2": null,
+          "city": "Auburn",
+          "state": "GA",
+          "zipCode": "30011",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012"
+        },
+        {
+          "addressType": "Mailing",
+          "addressLine1": "138 Gateway Lane",
+          "addressLine2": null,
+          "city": "Bethlehem",
+          "state": "GA",
+          "zipCode": "30620",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012"
+        }
+      ,{
+          "addressType": "Physical",
+          "addressLine1": "12 7th St",
+          "addressLine2": null,
+          "city": "Auburn",
+          "state": "GA",
+          "zipCode": "30011",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012"
+        },
+        {
+          "addressType": "Mailing",
+          "addressLine1": "138 Gateway Lane",
+          "addressLine2": null,
+          "city": "Bethlehem",
+          "state": "GA",
+          "zipCode": "30620",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012"
+        }
+      ,{
+          "addressType": "Physical",
+          "addressLine1": "12 7th St",
+          "addressLine2": null,
+          "city": "Auburn",
+          "state": "GA",
+          "zipCode": "30011",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012"
+        },
+        {
+          "addressType": "Mailing",
+          "addressLine1": "138 Gateway Lane",
+          "addressLine2": null,
+          "city": "Bethlehem",
+          "state": "GA",
+          "zipCode": "30620",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012"
+        },	{
+          "addressType": "Physical",
+          "addressLine1": "12 7th St",
+          "addressLine2": null,
+          "city": "Auburn",
+          "state": "GA",
+          "zipCode": "30011",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012"
+        },
+        {
+          "addressType": "Mailing",
+          "addressLine1": "138 Gateway Lane",
+          "addressLine2": null,
+          "city": "Bethlehem",
+          "state": "GA",
+          "zipCode": "30620",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012"
+        },	{
+          "addressType": "Physical",
+          "addressLine1": "12 7th St",
+          "addressLine2": null,
+          "city": "Auburn",
+          "state": "GA",
+          "zipCode": "30011",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012"
+        },
+        {
+          "addressType": "Mailing",
+          "addressLine1": "138 Gateway Lane",
+          "addressLine2": null,
+          "city": "Bethlehem",
+          "state": "GA",
+          "zipCode": "30620",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012"
+        },	{
+          "addressType": "Physical",
+          "addressLine1": "12 7th St",
+          "addressLine2": null,
+          "city": "Auburn",
+          "state": "GA",
+          "zipCode": "30011",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012"
+        },
+        {
+          "addressType": "Mailing",
+          "addressLine1": "138 Gateway Lane",
+          "addressLine2": null,
+          "city": "Bethlehem",
+          "state": "GA",
+          "zipCode": "30620",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012"
+        },	{
+          "addressType": "Physical",
+          "addressLine1": "12 7th St",
+          "addressLine2": null,
+          "city": "Auburn",
+          "state": "GA",
+          "zipCode": "30011",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012"
+        },
+        {
+          "addressType": "Mailing",
+          "addressLine1": "138 Gateway Lane",
+          "addressLine2": null,
+          "city": "Bethlehem",
+          "state": "GA",
+          "zipCode": "30620",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012"
+        },	{
+          "addressType": "Physical",
+          "addressLine1": "12 7th St",
+          "addressLine2": null,
+          "city": "Auburn",
+          "state": "GA",
+          "zipCode": "30011",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012"
+        },
+        {
+          "addressType": "Mailing",
+          "addressLine1": "138 Gateway Lane",
+          "addressLine2": null,
+          "city": "Bethlehem",
+          "state": "GA",
+          "zipCode": "30620",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012"
+        },	{
+          "addressType": "Physical",
+          "addressLine1": "12 7th St",
+          "addressLine2": null,
+          "city": "Auburn",
+          "state": "GA",
+          "zipCode": "30011",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012"
+        },
+        {
+          "addressType": "Mailing",
+          "addressLine1": "138 Gateway Lane",
+          "addressLine2": null,
+          "city": "Bethlehem",
+          "state": "GA",
+          "zipCode": "30620",
+          "countyCd": "007",
+          "effectiveStartDate": null,
+          "effectiveEndDate": null,
+          "createdOn": "2020-03-24T13:27:09.000Z",
+          "createdBy": "1012",
+          "updatedOn": "2020-03-24T13:27:09.000Z",
+          "updatedBy": "1012"
+        }
+
+      ]
+    }
+  ]
+}

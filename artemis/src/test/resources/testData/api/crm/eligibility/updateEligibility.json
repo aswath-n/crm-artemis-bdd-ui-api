@@ -1,0 +1,96 @@
+[
+  {
+    "coreEligibility": {
+      "coreEligibilitySegmentsId": 132,
+      "consumerId": 39893,
+      "startDate": "2020-03-03",
+      "endDate": "2020-12-03",
+      "categoryCode": "CAT001",
+      "coverageCode": "string",
+      "exemptionCode": "string",
+      "programCode": "M",
+      "eligibilityStatusCode": "string",
+      "consumerDeprivationCode": "string",
+      "referralCountyCode": "string",
+      "fileHandle": "string",
+      "programTypeCode": "MEDICAID",
+      "subProgramTypeCode": "MEDICAID_GF",
+      "createdOn": "2020-02-03T12:50:13.466000+00:00",
+      "createdBy": "string",
+      "updatedOn": "2020-02-23T17:41:11.421000+00:00",
+      "updatedBy": "API TEST",
+      "correlationId": "3652145632987415",
+      "uiid": "032654710236"
+    },
+    "futureEligibility": null,
+    "longTermCareInfo": {
+      "eligibilitySegmentsId": 945,
+      "providerName": "string",
+      "startDate": "2020-02-03",
+      "endDate": "2020-12-03",
+      "coverageCode": "string",
+      "npiId": "string"
+    },
+    "facilityInfo": {
+      "eligibilitySegmentsId": 946,
+      "startDate": "2020-02-03",
+      "endDate": "2020-12-03",
+      "placementCode": "string",
+      "placementCountyCode": "string",
+      "referralCountyCode": "string"
+    },
+    "hospiceInfo": {
+      "eligibilitySegmentsId": 947,
+      "startDate": "2020-02-03",
+      "endDate": "2020-12-03",
+      "hospiceIndicator": "string"
+    },
+    "medicareInfo": {
+      "eligibilitySegmentsId": 951,
+      "partAStartDate": "2020-02-03",
+      "partAEndDate": "2020-02-03",
+      "partBStartDate": "2020-02-03",
+      "partBEndDate": "2020-02-03",
+      "partDStartDate": "2020-02-03",
+      "partDEndDate": "2020-02-03",
+      "titleXVIII": "string",
+      "titleXVIIIStartDate": "2020-02-03",
+      "titleXVIIIEndDate": "2020-02-03"
+    },
+    "waiverInfo": {
+      "eligibilitySegmentsId": 952,
+      "startDate": "2020-02-03",
+      "endDate": "2020-02-03",
+      "waiverCode": "string",
+      "waiverCounty": "string"
+    },
+    "thirdPartyInsuranceInfo": {
+      "eligibilitySegmentsId": 953,
+      "startDate": "2020-02-03",
+      "endDate": "2020-02-03",
+      "insuranceSource": "string",
+      "insuranceCode": "string",
+      "insuranceName": "string",
+      "insurancePolicyHolderName": "string",
+      "insuranceGroupNumber": "string"
+    },
+    "financialInfo": {
+      "caseId": "",
+      "startDate": "2020-12-03",
+      "endDate": "2020-12-03",
+      "costShareAmount": 0,
+      "familySize": 0,
+      "fpil": 0,
+      "income": 0,
+      "spendDownCode": "string"
+    },
+    "specialPopulationInfo": {
+      "eligibilitySegmentsId": 954,
+      "startDate": "2020-02-03",
+      "endDate": "2020-02-03",
+      "specialEligibilityCode": "string",
+      "specialPopulationCaseNumber": "string",
+      "specialPopulationIndicator": "string"
+    }
+  }
+]

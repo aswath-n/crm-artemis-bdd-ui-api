@@ -1,0 +1,122 @@
+{
+  "plan": {
+    "planId": 501,
+    "planName": "AMERIGROUP COMMUNITY CARE",
+    "dbaNameOverride": null,
+    "planCode": "84",
+    "planProviderCd": "639298489",
+    "mcoId": 501,
+    "pgrmTypeCd": "Medicaid",
+    "startDate": "05/01/2019",
+    "endDate": null,
+    "initialAmt": 1,
+    "enrollmentStartDate": "05/01/2019",
+    "enrollmentEndDate": null,
+    "createdOn": "2020-05-01T12:30:44.000Z",
+    "createdBy": "98",
+    "updatedBy": "98",
+    "updatedOn": null,
+    "statusCd": "ACTIVE",
+    "allCountiesInd": 1,
+    "autoAssignmentInd": true,
+    "pcpRequiredInd": true,
+    "taxId": null,
+    "fileExchangeLocation": "/Health_Services/GA_Families/Provider/GF_Amerigroup",
+    "planShortName": "AMERIGROUP COMMUNITY CARE",
+    "planTypeId": 126,
+    "planContact": {
+      "planContactsId": 501,
+      "planId": 501,
+      "planContactFirstName": "DChInquiry",
+      "planContactLastName": "",
+      "plancontactphonenum": "",
+      "planContactEmail": "dchinquiry@amerigroup.com",
+      "addressLine1": "",
+      "addressLine2": "",
+      "city": "",
+      "state": "--",
+      "zipCode": "30001",
+      "memberServiceNum1": "800-600-4441",
+      "memberServiceNum2": null,
+      "memberServiceNum3": null,
+      "memberServiceNum4": null,
+      "memberServiceNum5": null,
+      "providerServicesNum1": "800-454-3730",
+      "providerServicesNum2": null,
+      "providerServicesNum3": null,
+      "memberServicesWebsite": "www.myamerigroup.com/ga",
+      "comments": null,
+      "createdOn": "2020-05-01T12:30:44.000Z",
+      "createdBy": "98",
+      "updatedBy": 98,
+      "updatedOn": "2020-05-01T16:41:14.715Z"
+    },
+    "planEnrollmentLimits": [
+      {
+        "planEnrollmentlimitId": 9673,
+        "planId": 501,
+        "sdaPlanId": 9673,
+        "enrollmentCap": null,
+        "effectiveStartDate": null,
+        "effectiveEndDate": null,
+        "createdOn": "2020-05-01T12:30:46.000Z",
+        "createdBy": "98",
+        "updatedBy": "98",
+        "updatedOn": "2020-05-01T12:30:46.000Z"
+      }
+
+    ],
+    "serviceDeliveryAreas": [
+      {
+        "sdaId": 1795,
+        "sdaName": "Atlanta",
+        "parentSdaId": null,
+        "description": "Atlanta",
+        "stateWideFlg": null,
+        "createdOn": "2020-05-01T12:30:32.000Z",
+        "createdBy": "98",
+        "updatedBy": "98",
+        "updatedOn": "2020-05-01T12:30:32.000Z",
+        "orderByDefault": null,
+        "effectiveStartDate": "05/01/2020",
+        "effectiveEndDate": null
+      }
+
+    ],
+    "sdaPrograms": [
+      {
+        "sdaPrgmId": 7071,
+        "sdaId": 1800,
+        "programTypeCd": "Medicaid",
+        "subProgramTypeCd": "Fostercare",
+        "createdOn": "2020-05-01T12:30:32.000000+00:00",
+        "createdBy": "98",
+        "updatedBy": "98",
+        "updatedOn": "2020-05-01T12:30:32.000000+00:00",
+        "effectiveStartDate": "2020-05-01",
+        "effectiveEndDate": null
+      }
+    ],
+    "contractAidCategories": [
+      {
+        "contractAidCategoryId": 947,
+        "planId": 0,
+        "sdaPlanId": 501,
+        "aidCategoryCd": "TP01",
+        "createdOn": "2020-05-01T12:30:46.000Z",
+        "createdBy": "98",
+        "updatedBy": "98",
+        "updatedOn": "2020-05-01T12:30:46.000Z"
+      }
+
+    ],
+    "planTypeEntity": {
+      "planTypeId":null ,
+      "planType": "",
+      "createdOn": "",
+      "createdBy": "",
+      "updatedBy": "",
+      "updatedOn": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "authenticationType": "WEB",
+  "consumerIdentificationNumber": {
+    "externalConsumerId": "",
+    "identificationNumberType": ""
+  },
+  "consumerDateOfBirth": "",
+  "consumerSSN": "",
+  "consumerFirstName": "",
+  "consumerLastName": ""
+}

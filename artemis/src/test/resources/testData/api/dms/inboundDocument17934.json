@@ -1,0 +1,62 @@
+{
+  "inboundCorrespondence": {
+    "barcode": "1234",
+    "batchNumber": 2222,
+    "caseId": 7347,
+    "channel": "MAIL",
+    "consumerId": null,
+    "consumers": null,
+    "correspondenceType": "maersk Case + Consumer",
+    "createdBy": "OBSVCRESTINT",
+    "createdOn": "2020-09-18 11:45:13",
+    "documentHistory": [
+      {
+        "action": "Add Keyword",
+        "createdBy": "JLACSON",
+        "createdOn": "9/18/2020 11:46:55 AM",
+        "status": "RECEIVED"
+      },
+      {
+        "action": "Add Keyword",
+        "createdBy": "maerskIncUT1.SERVICE1",
+        "createdOn": "9/18/2020 11:45:45 AM",
+        "status": "COMPLETE"
+      }
+    ],
+    "formVersion": 1,
+    "fromEmailAddress": "AUTOLKASDFJ@LKASDFSA.COM",
+    "fromName": "AUTOMATION",
+    "fromPhoneNumber": "5233334444",
+    "id": 17934,
+    "inboundCorrespondenceId": null,
+    "language": "ENGLISH",
+    "metaData": null,
+    "metaDataRecords": null,
+    "notes": [
+      {
+        "createdBy": "2824",
+        "createdOn": "2020-09-21T16:34:04.000000+00:00",
+        "text": "LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT. SUSPENDISSE IPSUM MASSA, CONVALLIS EGET ELIT ID, TINCIDUNT SEMPER ERAT. ETIAM VEHICULA EST VITAE LAOREET ELEMENTUM. VESTIBULUM A AUGUE EUISMOD, FACILISIS TELLUS UT, FAUCIBUS MAURIS. FUSCE LIBER O ORCI, FERMENTUM FACILISIS LOREM SIT AMET, VOLUTPAT ALIQUAM DOLOR. PRAESENT LUCTUS ET NEQUE AT COMMODO. SUSPENDISSE VOLUTPAT, QUAM INTERDUM CONSECTETUR FERMENTUM, LIGULA METUS HENDRERIT LIGULA, QUIS IMPERDIET DUI RISUS AC IPSUM. CURABITUR QUIS IMPER "
+      }
+    ],
+    "origin": "AUTOORIGIN",
+    "originItemId": "42435",
+    "originSetId": "67476746",
+    "pageCount": 0,
+    "processType": "INBOUND CORRESPONDENCE",
+    "receivedDate": "2020-09-18 00:00:00",
+    "replacementCorrespondenceId": 563453,
+    "rescanOfCorrespondenceId": 1212,
+    "returnedNotificationId": null,
+    "returnedReason": null,
+    "scannedOn": "2020-09-17T00:00:00.000000+00:00",
+    "setId": "4355436",
+    "status": "RECEIVED",
+    "statusDate": "9/17/2020 12:00:00 AM",
+    "thirdPartyReceivedDate": "9/17/2020 12:00:00 AM",
+    "updatedBy": "2824",
+    "updatedOn": "9/21/2020 4:34:04 PM"
+  },
+  "message": "Retrieved inbound correspondence results successfully",
+  "status": "SUCCESS"
+}
